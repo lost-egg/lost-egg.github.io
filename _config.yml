@@ -1,5 +1,5 @@
 # Site settings
-title: Sublime
+title: Lost Egg
 
 exclude:
   - CNAME
@@ -17,9 +17,9 @@ defaults:
       layout: default
   - scope:
       path: ""
-      type: classes
+      type: charms
     values:
-      layout: class
+      layout: charm
 
 collections:
   charms:
