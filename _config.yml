@@ -1,0 +1,27 @@
+# Site settings
+title: Sublime
+
+exclude:
+  - CNAME
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: classes
+    values:
+      layout: class
+
+collections:
+  charms:
+    permalink: /:collection/:title/
+    output: true

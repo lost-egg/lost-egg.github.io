@@ -1,0 +1,32 @@
+body {
+    margin: 1em auto;
+    max-width: 40em;
+    padding: 0 .62em;
+    font: 1.2em/1.62em sans-serif;
+}
+
+h1, h2, h3 {
+    line-height: 1.2em;
+}
+
+hr {
+    margin: 1.2em auto;
+    width: 50%;
+}
+
+@media screen and (min-width: 80em) {
+    #markdown-toc {
+        float: left;
+        margin-left: -18em;
+        font-size: 75%;
+        position: fixed;
+        top: 1.2em;
+        line-height: 1.3em;
+    }
+}
+
+@media print {
+    body {
+        max-width: none
+    }
+}
