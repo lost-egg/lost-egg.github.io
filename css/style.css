@@ -9,6 +9,11 @@ h1, h2, h3 {
     line-height: 1.2em;
 }
 
+h1, h2 {
+    margin: 1.2em 0;
+    border-bottom: 1px solid black;
+}
+
 hr {
     margin: 1.2em auto;
     width: 50%;
