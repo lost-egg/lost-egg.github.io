@@ -337,7 +337,9 @@ When those rounds have passed, if you haven't gotten the target to surrender or 
 
 ---
 
-Each attack has an order of operations used to resolve it. Usually you won't need to keep track of the exact steps, but if you're fighting another magical being, using them helps prevent any confusion about figuring out what happens.The original text lacks a comprehensive set of steps for resolving an attack. These steps have been gathered here for clarity.
+Each attack has an order of operations used to resolve it. Usually you won't need to keep track of the exact steps, but if you're fighting another magical being, using them helps prevent any confusion about figuring out what happens.[^new-steps]
+
+[^new-steps]: The original text lacks a comprehensive set of steps for resolving an attack. These steps have been assembled based on a best-guess interpretation of the rules as intended.
 
 1. Declare the target of the attack, and choose if it's a withering attack or a decisive attack. When declaring actions during the action phase, pause after this step.
 
