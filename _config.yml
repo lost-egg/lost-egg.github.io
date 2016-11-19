@@ -1,6 +1,11 @@
 # Site settings
 title: Lost Egg
 
+# These are overridden by Github. They're here for local rendering
+github:
+  repository_url: https://github.com/lost-egg/lost-egg.github.io
+  issues_url: https://github.com/lost-egg/lost-egg.github.io/issues
+
 exclude:
   - CNAME
   - CONTRIBUTING.md
