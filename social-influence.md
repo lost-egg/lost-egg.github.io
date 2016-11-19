@@ -9,9 +9,11 @@ Social influence revolves around discovering, building, or weakening Intimacies 
 
 **Intimacies** come in three levels, each of which has a number associated with it: Minor (1), Major (2), and Defining (3). **Minor Intimacies** are relationships or beliefs that are notable and affect some part of a character's life, but don't hold any sway over the rest of it. **Major Intimacies** are relationships or beliefs that affect all of a character's life in some way. **Defining Intimacies** are relationships or beliefs that affect all of a character's life in a major way and have an overriding influence on the character's behavior.
 
+## Using Social Influence
+
 Most social actions use an **influence roll**, which is ([Charisma, Manipulation, or Appearance] + [Presence or Socialize]) against a difficulty of the target's [Resolve](#resolve). If the influence roll is for an [Instill](#install) or [Persuade](#persuade) action and your Appearance is higher than the target's base Resolve, you get a +X bonus on the roll, where X is (your Manipulation - target's Resolve).
 
-### Social Influence with Groups
+### With Groups
 
 If you're targeting more than one character with an influence roll, the roll gets -3. You use the same roll for all targets, but success or failure is separate for each target.
 
@@ -19,11 +21,11 @@ If the target is a group being treated like a single character by the GM, use th
 
 [^group-single-penalty]: This is unclear in the original source, but is included here as a best-guess interpretation.
 
-### Nonverbal Social Influence
+### Nonverbal
 
 You can communicate short, simple statements using mime, facial expressions, body language, or so on. This can be useful if you don't share a language with someone, or for silent seduction, coordination of a stealth infiltration team, or so on. This gives your target +2 to Resolve for any affected influence rolls, except for the [Inspire](#inspire) action.
 
-### Written Social Influence
+### Written
 
 You can attempt social influence through a written work, taking an amount of time determined by the GM. If you do, you use Linguistics instead of any other Ability on the influence roll. You choose when you make the attempt whether to have the social influence apply against a specific intended target or against all readers.
 
