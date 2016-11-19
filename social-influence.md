@@ -21,7 +21,7 @@ You can communicate short, simple statements using mime, facial expressions, bod
 
 You can attempt social influence through a written work, taking an amount of time determined by the GM. If you do, you use Linguistics instead of any other Ability on the influence roll. You choose when you make the attempt whether to have the social influence apply against a specific intended target or against all readers.
 
-## Defending Against Social Influence
+## Opposing Social Influence
 
 You have two main defenses against social influence.
 
