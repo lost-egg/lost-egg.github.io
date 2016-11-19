@@ -74,7 +74,7 @@ An impassioned target is treated as having a Major Intimacy appropriate to the c
 
 ### Instill
 
-**Defense Mod** -1; **Flurry** yes
+**Defense Mod** -1; **Flurry** yes  
 **Action** Simple or Dramatic; **Duration** Instant
 
 Choose a belief, and make an influence roll against a target. Particularly unlikely beliefs give your influence roll a penalty of up to -5.
