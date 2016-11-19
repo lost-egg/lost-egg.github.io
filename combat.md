@@ -9,15 +9,17 @@ To defeat your opponents in combat, you must first build **Initiative** with **w
 
 Against opponents that you dramatically outclass, you may not need to use a withering attack at all. Against skilled opponents, though, just leaping right in for the kill can get you killed yourself... which is why you'll want to wait for just the right moments in the fight to spend your Initiative on **decisive attacks**. With a decisive attack, you can deal substantial damage, or even incapacitate or kill an opponent in one blow.
 
-When combat starts, all characters involved in the combat roll Join Battle. This is a (Wits + Awareness) opposed roll. The result for each character, plus 3, is their starting **Initiative** in the combat. If an effect increases or lowers your Initiative, it's written Xi, where X is the amount.
+When combat starts, all characters involved in the combat roll Join Battle. This is a (Wits + Awareness + 3s) opposed roll. The result for each character is their starting **Initiative** in the combat. If an effect increases or lowers your Initiative, it's written Xi, where X is the amount.
 
 If you expect combat---or start it yourself---you can start combat with any weapons of your choice ready to attack with. If you're attacked without expecting it, you usually don't start combat with any weapons ready,[^paranoid] and you'll probably want to use the [Ready Weapon](#ready-weapon) action to get one or more weapons ready.
 
 [^paranoid]: If you're the sort of person who's so paranoid that you keep a weapon ready at all times, you should make sure the GM knows that ahead of time. After all, if you always walk around with a sword or a spear in hand, people might start suspecting that you want to attack them.
 
-If you join combat that's already started, you roll Join Battle as non-opposed roll to determine your starting Initiative,[^winning-initiative] and then take your first turn the next time the tick matching your Initiative comes up.
+If you join combat that's already started, you roll Join Battle as non-opposed roll to determine your starting Initiative,[^winning-initiative][^join-battle-plus-three] and then take your first turn the next time the tick matching your Initiative comes up.
 
 [^winning-initiative]: This isn't an opposed roll, but you're considered to "win" for the purpose of effects that trigger from that if you have a higher result than the current Initiative of any opponent in the combat.
+
+[^join-battle-plus-three]: In the original text, it's unclear if someone joining an existing combat gets the +3s bonus. As a best-guess interpretation that bonus is included here.
 
 ---
 
