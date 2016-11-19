@@ -228,7 +228,7 @@ If an opponent is at close range, you have to roll (Dexterity + Dodge) against d
 
 Make a (Dexterity + Athletics) opposed roll against a target at short range. You get -3 on the roll if you're in difficult terrain.
 
-If you win, the next time that target covers ground, you cover ground 1 to follow them as a Reflexive action. Unless it's physically impossible to follow an opponent, the Reflexive move isn't optional.
+If you win, the next time that target covers ground, you immediately take a Reflexive action to cover ground 1 to follow them. Unless it's physically impossible to follow an opponent, the Reflexive action isn't optional.
 
 Using this action while concealed against any opponent ends your concealment.
 
