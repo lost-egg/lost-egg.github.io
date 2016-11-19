@@ -9,15 +9,21 @@ Social influence revolves around discovering, building, or weakening Intimacies 
 
 **Intimacies** come in three levels, each of which has a number associated with it: Minor (1), Major (2), and Defining (3). **Minor Intimacies** are relationships or beliefs that are notable and affect some part of a character's life, but don't hold any sway over the rest of it. **Major Intimacies** are relationships or beliefs that affect all of a character's life in some way. **Defining Intimacies** are relationships or beliefs that affect all of a character's life in a major way and have an overriding influence on the character's behavior.
 
-## Using Social Influence
+Most social actions use an **influence roll**, which is ([Charisma, Manipulation, or Appearance] + [Presence or Socialize]) against a difficulty of the target's [Resolve](#resolve). If the influence roll is for an [Instill](#install) or [Persuade](#persuade) action and your Appearance is higher than the target's base Resolve, you get a +X bonus on the roll, where X is (your Manipulation - target's Resolve).
 
-The **influence roll** is ([Charisma, Manipulation, or Appearance] + [Presence or Socialize]) against a difficulty of the target's Resolve.
-
-If your Appearance is higher than the target's base Resolve, you get a +X bonus on Instill and Persuade rolls against that target, where X is (your Manipulation - target's Resolve). If the target is a group, use their average Resolve (usually 2 or 3 for average people).
+### Social Influence with Groups
 
 If you're targeting more than one character with an influence roll, the roll gets -3. You use the same roll for all targets, but success or failure is separate for each target.
 
-You can communicate short, simple statements using mime, facial expressions, body language, or so on. This can be useful if you don't share a language with someone, or for silent seduction, coordination of a stealth infiltration team, or so on. This gives your target +2 to Resolve for any affected social influence attempts, except for the [Inspire](#inspire) action.
+If the target is a group being treated like a single character by the GM, use their average Resolve (usually 2 or 3 for average people). You still get the -3 penalty.[^group-single-penalty]
+
+[^group-single-penalty]: This is unclear in the original source, but is included here as a best-guess interpretation.
+
+### Nonverbal Social Influence
+
+You can communicate short, simple statements using mime, facial expressions, body language, or so on. This can be useful if you don't share a language with someone, or for silent seduction, coordination of a stealth infiltration team, or so on. This gives your target +2 to Resolve for any affected influence rolls, except for the [Inspire](#inspire) action.
+
+### Written Social Influence
 
 You can attempt social influence through a written work, taking an amount of time determined by the GM. If you do, you use Linguistics instead of any other Ability on the influence roll. You choose when you make the attempt whether to have the social influence apply against a specific intended target or against all readers.
 
@@ -26,7 +32,7 @@ You can attempt social influence through a written work, taking an amount of tim
 You have two main defenses against social influence.
 
 {:#guile}
-Your **Guile** is the difficulty for [Read Intentions](#read-intentions) rolls against you. It's ([Manipulation + Socialize] ÷ 2). Like Resolve, you don't have to apply your Guile, though some characters may assume that a seeming lack of Guile is actually a masterful display of it.
+Your **Guile** is the difficulty for [Read Intentions](#read-intentions) rolls against you. It's ([Manipulation + Socialize] ÷ 2). You don't have to apply your Guile if you want to allow a Read Intentions action to succeed, though some characters may assume that a seeming lack of Guile is actually a masterful display of it.
 
 {:#resolve}
 Your **Resolve** is the difficulty for social influence rolls against you. It's ([Wits + Integrity] ÷ 2). You don't have to apply your Resolve if you want to accept social influence.
@@ -39,9 +45,15 @@ If social influence succeeds against your Resolve and you still want to reject i
 * Stop a Major or Defining Intimacy from being weakened.
 * Reject a successful [Inspire](#inspire) action.
 
+### Decision Points
+
 To reject a successful [Bargain](#bargain), [Persuade](#persuade), or [Threaten](#threaten) action, you can enter a **Decision Point**. You have to name an Intimacy that would reasonably resist the influence. It has to be of equal or greater level than that which supported the influence roll, and can't be the same one you used to increase your Resolve against the roll. If the GM accepts your choice, you can spend 1wp to reject the influence.
 
+### Contradictory Arguments
+
 If you've already been convinced during this story into a particular course of action by a Bargain, Persuade, or Threaten action, you can refuse Bargain, Persuade, or Threaten actions to the contrary unless the character attempting to convince you pays 1wp. Even if they do, your Resolve gets +3 against their roll. If they still convince you, you can resist it with a Decision Point without paying 1wp, but if you want to accept it you have to pay 1wp and cite an appropriate Intimacy.
+
+### Unacceptable Influence
 
 Social influence attempts that would cause what a character knows to be his certain death, that would cause a character to abandon a Defining Intimacy outright, or that would attempt to seduce a character contrary to his sexual orientation (as defined by his player), are **unacceptable influence** and fail automatically. A character can still go along with unacceptable influence, but only of his own choice.
 
