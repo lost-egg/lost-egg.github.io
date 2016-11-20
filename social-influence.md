@@ -46,10 +46,10 @@ If social influence succeeds against your Resolve and you still want to reject i
 * Stop a new Intimacy from being created.
 * Stop a Major or Defining Intimacy from being weakened.
 * Reject a successful [Inspire](#inspire) action.
-
-### Decision Points
-
-To reject a successful [Bargain](#bargain), [Persuade](#persuade), or [Threaten](#threaten) action, you can enter a **Decision Point**. You have to name an Intimacy that would reasonably resist the influence. It has to be of equal or greater level than that which supported the influence roll, and can't be the same one you used to increase your Resolve against the roll. If the GM accepts your choice, you can spend 1wp to reject the influence.
+* Reject a successful [Bargain](#bargain), [Persuade](#persuade), or [Threaten](#threaten) action (with what's called a **Decision Point**) but only if:
+    * you have an Intimacy that would reasonably resist the influence, and
+    * that Intimacy is of equal or greater level than any Intimacy that supported the influence roll, and
+    * you didn't use that Intimacy to increase your Resolve against the influence roll.
 
 ### Contradictory Arguments
 
