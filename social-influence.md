@@ -7,7 +7,7 @@ title: Social Influence
 
 Social influence revolves around discovering, building, or weakening Intimacies in others in order to convince them to do what you want them to do. Unlike combat, social influence usually isn't resolved using strict ordering or timing. If there's a question about who should go first, it's the winner of an opposed (Wits + Socialize) roll.
 
-**Intimacies** come in three levels or **intensities**, each of which has a number associated with it: Minor (1), Major (2), and Defining (3).
+**Intimacies** come in three **intensities**, each of which has a number associated with it: Minor (1), Major (2), and Defining (3).
 
 **Minor Intimacies** are relationships or beliefs that are notable and affect some part of a character's life, but don't hold any sway over the rest of it.
 
@@ -15,7 +15,7 @@ Social influence revolves around discovering, building, or weakening Intimacies 
 
 **Defining Intimacies** are relationships or beliefs that affect all of a character's life in a major way and have an overriding influence on the character's behavior.
 
-An Intimacy is a **Tie**
+An Intimacy is a **Tie** if it's about real people, places, or things, or a **Principle** if it's about more abstract convictions or ideals.
 
 ## Using Social Influence
 
