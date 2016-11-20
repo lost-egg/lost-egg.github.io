@@ -69,13 +69,13 @@ Characters at least three zones apart are at **extreme range** extreme from each
 
 To cross between zones, you **cover ground**.[^new-covering-ground] When an action tells you to "cover ground X", you cross that many zones. You're still limited by what makes sense for the terrain. For example, if you're on one side of a tremendous crevice several zones across, you'll probably have to go around to cross it.
 
-[^new-covering-ground]: “Covering ground” is used here as a mechanical term to give more clarity than the original text's use of “movement” and “movement actions”. If an effect tells you to move one or more range bands, consider that to be covering ground.
+[^new-covering-ground]: "Covering ground" is used here as a mechanical term to give more clarity than the original text's use of "movement" and "movement actions". If an effect tells you to move one or more range bands, consider that to be covering ground.
 
 Close range is a special case: you cover ground 1 to enter or exit close range with another characters or characters, but if any opponents don't want you to exit close range, you have to succeed at a [Disengage](#disengage) action. You have to exit close range before you can cover ground to an another zone.
 
-Except for the special case of close range, you can move around inside a zone without needing to cover ground or use a Movement action.For example, if you're in a zone that contains a building, you can leap up to the roof to Rush an opponent there without needing to use another action to get there.
+Except for the special case of close range, you can move around inside a zone without needing to cover ground or use a Movement action. For example, if you're in a zone that contains a building, you can leap up to the roof to Rush an opponent there without needing to use another action to get there.
 
-Areas like thick forest, collapsed buildings, or pens filled with angry yeddim are considered difficult terrain. A zone of difficult terrain counts as two zones for the purposes of covering ground with the [Move](#move) action (but not other actions). You stay inside or outside the zone until you've used both zones' worth of movement.
+Areas like thick forest, collapsed buildings, or pens filled with angry yeddim are considered difficult terrain. A zone of difficult terrain counts as two zones for the purposes of covering ground with the [Move](#move) action (but not other actions). You stay inside or outside the zone until you've covered both.
 
 ## Stealth in Combat
 
@@ -90,25 +90,17 @@ If you're concealed against opponents and cover ground or use a Movement action,
 
 ## Combat Actions
 
-Each turn, you can take one Simple action and one Movement action.[^new-movement-actions] Some actions take both your Simple action and your Movement action for the turn, and count as both types for any restrictions on either.
-
-[^new-movement-actions]: Movement actions as a well-defined action type don't exist in the original text. They've been added here to aid in mechanical clarity. The end result is mechanically identical to the original text, but should be clearer to use in play.
+Each turn, you can use one **Simple** action and any number of **Reflexive** actions.
 
 You can **flurry** to take a second Simple action in a round, but it has to be a different action from the first. When you flurry, you get -3 to any rolls used by either Simple action, and you get -1 to your Defense until your next turn. Some actions can't be used on a turn when you flurry.
 
 If an action gives you a Defense modifier, then you get that bonus or penalty to Defense for one round.
 
-Each tick is divided up into three **phases**: the first **movement phase**, the **action phase**, and the second movement phase. Usually you'll only need to use these phases in detail for combat between multiple magical characters or against a large number of nonmagical enemies. For simple combat, such as between a magically skilled swordsman and an unskilled mortal, you'll just want to keep in mind that you cane take one Movement action and one Simple action each turn.
+Some actions have the **Movement** keyword. You can only use one Movement action in a turn, unless another rule says otherwise.
 
-During each phase, actions by different characters get declared in order from the highest Join Battle rating to the lowest, with (Dexterity + Athletics) as a tiebreaker.[^new-phases] After actions are declared, then go down the same order to resolve each declared action, except that [Clash](#clashes) attacks get resolved as a pair the first time one of the Clashing characters comes up in the order. If a character is incapacitated during the action phase, any action they've declared but haven't taken yet is canceled, as though they hadn't declared it.
+If multiple characters act on the same tick, Simple actions are used in order from the highest Join Battle rating to the lowest, with (Dexterity + Athletics) as a tiebreaker.[^new-tick-resolution] Reflexive actions may be used at any time in the order, but can't interrupt other actions. (For example, a Move used in response to an Attack would happen after the attack, not before.) If one character attacks another under the right conditions for a [Clash](#clashes), the second character may immediately use an Attack against the first character even if it's not their place in the order yet.
 
-[^new-phases]: Phases, and this method of phase-by-phase resolution, don't exist in the original text. It's been added here to speed play and encourage the use of Clash attacks by removing the inevitable arguments about who goes first on a given tick.
-
-During the first movement phase, you can take a Movement action.
-
-During the action phase, you take your Simple action or actions. Simple actions that also use the Movement action get resolved during the action phase.
-
-During the second movement phase, you can take a Movement action if you didn't yet.
+[^new-tick-resolution]: This method of resolution for simultaneous actions and Clashes don't exist in the original text. It's been added here to speed play and encourage the use of Clash attacks by removing the inevitable arguments about who goes first on a given tick.
 
 The list of combat actions is:[^new-collected-actions]
 
@@ -149,14 +141,15 @@ If one of those attacks succeeds against your Parry, the attacker chooses to app
 ### Disengage
 
 **Defense Mod** ---; **Flurry** yes  
-**Action** Simple and Movement; **Duration** Instant  
+**Action** Simple; **Duration** Instant  
+**Keywords** Movement  
 **Requirement** You're at close range with any opponents.
 
 When you use this action, you lose 2i.
 
 Make a (Dexterity + Dodge) opposed roll against the (Dexterity + Athletics) of any opponents at close range who want to stop you from exiting close range. You get -3 if you're in difficult terrain.
 
-If you win, cover ground 1 to exit close range. The first time any opponent you rolled against covers ground towards you on their next turn, you cover ground 1 away from them as a Reflexive option.
+If you win, cover ground 1 to exit close range. The first time any opponent you rolled against covers ground towards you on their next turn, you cover ground 1 away from them as a Reflexive action.
 
 If you lose, you don't get to exit close range.
 
@@ -181,7 +174,8 @@ You can only flurry this action with social influence actions.
 ### Go to Ground
 
 **Defense Mod** ---; **Flurry** no  
-**Action** Simple and Movement; **Duration** Instant  
+**Action** Simple; **Duration** Instant  
+**Keywords** Movement  
 **Requirement** You're concealed against all opponents.
 
 To complete Go to Ground, you have to use this action three turns in a row.
@@ -193,8 +187,9 @@ If you complete Go to Ground, you're completely hidden and can't be found until 
 ### Move
 
 **Defense Mod** ---; **Flurry** ---  
-**Action** Movement; **Duration** Instant  
-**Requirement** You're not at close range with any opponents.
+**Action** Reflexive; **Duration** Instant  
+**Keywords** Movement  
+**Requirement** You're not at close range with any opponents, and it is your turn.
 
 You cover ground 1.
 
@@ -214,7 +209,8 @@ Your natural weapons, like fists or claws, are always ready.
 ### Rise From Prone
 
 **Defense Mod** ---; **Flurry** yes  
-**Action** Simple and Movement; **Duration** Instant  
+**Action** Simple; **Duration** Instant  
+**Keywords** Movement  
 **Requirement** You're prone.
 
 You get up from being rendered [prone](#prone).
@@ -224,7 +220,8 @@ If an opponent is at close range, you have to roll (Dexterity + Dodge) against d
 ### Rush
 
 **Defense Mod** ---; **Flurry** yes  
-**Action** Simple and Movement; **Duration** until target's next movement
+**Action** Simple; **Duration** until target's next movement  
+**Keywords** Movement
 
 Make a (Dexterity + Athletics) opposed roll against a target at short range. You get -3 on the roll if you're in difficult terrain.
 
@@ -232,12 +229,13 @@ If you win, the next time that target covers ground, you immediately take a Refl
 
 Using this action while concealed against any opponent ends your concealment.
 
-If you've already taken a [Move](#move) action this turn, you can still use Rush as though you hadn't used your Movement action.
+If you've already used a [Move](#move) action this turn, you can still use Rush as though you hadn't used a Movement action this turn.
 
 ### Take Cover
 
 **Defense Mod** ---; **Flurry** yes  
-**Action** Simple and Movement; **Duration** Instant
+**Action** Simple; **Duration** Instant  
+**Keywords** Movement
 
 Roll (Dexterity + Dodge) at a difficulty set by the GM depending on how much cover is available. Difficult terrain should usually have a low difficulty, while places like open fields should have a high or impossible difficulty. If you succeed, you benefit from light, heavy, or total cover as appropriate.
 
@@ -252,7 +250,8 @@ Cover is limited as makes sense given the actual terrain. For example, if you're
 ### Withdraw
 
 **Defense Mod** ---; **Flurry** yes  
-**Action** Simple and Movement; **Duration** Instant  
+**Action** Simple; **Duration** Instant  
+**Keywords** Movement  
 **Requirement** You're at medium or greater range from all opponents.
 
 You cover ground 1 away from all opponents.
@@ -296,7 +295,7 @@ If you complete the gambit, you grab the target. You have control of the grapple
 
 Make a (Strength + Melee) opposed roll against the target. You have X **control rounds**, where X is the extra successes if you win or 0 if you lose. At the start of each of your turns, you lose 1 control round. If you have 0 control rounds at the start of the target's turn, they escape the grapple. If you are Crashed during the grapple, the target escapes the grapple immediately.
 
-Maintaining the grapple takes your Simple action and your Movement action on each of your turns. You can choose to release the target at any time as a Reflexive action, including during someone else's turn or just before the start of your turn, in which case at the start of your turn you can act normally.
+Maintaining the grapple is a Simple action with the Movement keyword. You can choose to release the target at any time as a Reflexive action, including during someone else's turn or just before the start of your turn, in which case at the start of your turn you can act normally.
 
 While the grapple is active, you and the target can't flurry and get -2 Defense, and the target can't use Movement actions and gets -1 to attacks (or -3 to two-handed attacks).
 
@@ -304,7 +303,7 @@ Each time you're attacked while the grapple is active (even if the attack isn't 
 
 The turn you complete the gambit, and at the start of each turn you have control rounds remaining, you can choose one **maneuver** to use:
 
-* *Restrain/Drag:* This maneuver costs 2 control rounds to use. The target can't take any non-Reflexive actions on their next turn. You can immediately make a Movement action as a Reflexive action. If you do, you take the target along with you.
+* *Restrain/Drag:* This maneuver costs 2 control rounds to use. The target can't take any non-Reflexive actions on their next turn. You can immediately use any Movement action, which you use as a Reflexive action instead of its normal type. If you do, you take the target along with you.
 
 * *Savage:* Choose one: Make an unarmed withering attack against the target, their Defense is 0 against the attack, and the attack roll automatically succeeds; or, make an unarmed decisive attack against the target, and the attack roll automatically succeeds.
 
@@ -450,7 +449,7 @@ Your **Hardness** starts at 0, but can be increased by some kinds of armor and b
 If your Defense, soak, and Harness aren't enough to protect you, an attack can deal damage to you.
 
 {:#prone}
-If an effect renders you **prone**, you get -1 to Parry, -2 to evasion, -3 to attack rolls, and you can't use any Movement actions except for using the Rise From Prone action. You need to use the [Rise From Prone](#rise-from-prone) action to get back up.
+If an effect renders you **prone**, you get -1 to Parry, -2 to evasion, -3 to attack rolls, and you can't use any Movement actions except for [Rise From Prone](#rise-from-prone). You need to [Rise From Prone](#rise-from-prone) to get back up.
 
 ## Mounted Combat
 
@@ -470,4 +469,4 @@ When attacking from a mount, you get +1 to attack rolls for withering attacks ag
 
 Some mounts give different bonuses instead of these combat bonuses. For example, very light and fast mounts such as riding eagles may give no combat bonuses at all, while extremely large mounts like elephants may protect you completely from non-reaching close-range weapons unless the opponent also climbs on the mount.
 
-Mounts usually don't have their own actions or Initiative. For a mount without its own Initiative, anything that would affect the mount's Initiative (including withering attacks) affects the rider's Initiative instead. For a mount without its own actions, the mount's rider can use his own Movement and Simple actions as appropriate to command the mount, including being able to flurry.
+Mounts usually don't have their own actions or Initiative. For a mount without its own Initiative, anything that would affect the mount's Initiative (including withering attacks) affects the rider's Initiative instead. For a mount without its own actions, the mount's rider can use his own actions as appropriate to command the mount, including being able to flurry.
