@@ -126,7 +126,7 @@ Your Initiative doesn't reset until you've completed every attack from this Char
 **Prerequisites** Archery 5, Essence 2, [Trance of Unhesitating Speed](#trance-of-unhesitating-speed)  
 **Cost** 3m; **Supplements** Join Battle roll; **Duration** Instant
 
-The supplemented Join Battle roll gets +(\text{Essence})s. In this combat, if you attack a target before they've acted, your first attack against them is unblockable.
+The supplemented Join Battle roll gets +(Essence)s. In this combat, if you attack a target before they've acted, your first attack against them is unblockable.
 
 You can't use this Charm to supplement a Join Battle roll that benefits from a Melee, Thrown, or Brawl Charm.
 
