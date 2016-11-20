@@ -7,7 +7,15 @@ title: Social Influence
 
 Social influence revolves around discovering, building, or weakening Intimacies in others in order to convince them to do what you want them to do. Unlike combat, social influence usually isn't resolved using strict ordering or timing. If there's a question about who should go first, it's the winner of an opposed (Wits + Socialize) roll.
 
-**Intimacies** come in three levels, each of which has a number associated with it: Minor (1), Major (2), and Defining (3). **Minor Intimacies** are relationships or beliefs that are notable and affect some part of a character's life, but don't hold any sway over the rest of it. **Major Intimacies** are relationships or beliefs that affect all of a character's life in some way. **Defining Intimacies** are relationships or beliefs that affect all of a character's life in a major way and have an overriding influence on the character's behavior.
+**Intimacies** come in three levels or **intensities**, each of which has a number associated with it: Minor (1), Major (2), and Defining (3).
+
+**Minor Intimacies** are relationships or beliefs that are notable and affect some part of a character's life, but don't hold any sway over the rest of it.
+
+**Major Intimacies** are relationships or beliefs that affect all of a character's life in some way.
+
+**Defining Intimacies** are relationships or beliefs that affect all of a character's life in a major way and have an overriding influence on the character's behavior.
+
+An Intimacy is a **Tie**
 
 ## Using Social Influence
 
@@ -39,7 +47,9 @@ Your **Guile** is the difficulty for [Read Intentions](#read-intentions) rolls a
 {:#resolve}
 Your **Resolve** is the difficulty for social influence rolls against you. It's ([Wits + Integrity] ÷ 2). You don't have to apply your Resolve if you want to accept social influence.
 
-You can increase your Resolve against an influence roll by using an Intimacy that would resist the influence. You can't use the same Intimacy again to resist the same issue from the same character in a story. Each Intimacy increases Resolve by (level + 1) against influence that opposes it, or reduces Resolve by (level) against influence that aligns with it. If multiple Intimacies conflict, apply all their modifiers cumulatively.
+You can increase your Resolve against an influence roll by using an Intimacy that would resist the influence. You can't use the same Intimacy again to resist the same issue from the same character in a story.
+
+If one of your Intimacies would oppose an influence roll, it increases your Resolve by (intensity + 1) against the roll. On the other hand, if one of your Intimacies would support the influence roll, it reduces your Resolve by (intensity) against the roll. If more than one Intimacy would oppose the roll, or more than one Intimacy would support the roll, apply the most relevant Intimacy based on the situation. If Intimacies both oppose and support the roll, apply both of their modifiers cumulatively.
 
 If social influence succeeds against your Resolve and you still want to reject it, you can spend 1wp to:
 
