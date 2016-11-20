@@ -55,7 +55,7 @@ Make a ranged decisive attack at up to long range. You don't need to Aim to make
 If the supplemented attack does at least as much damage as the target's Stamina:
 
 * that Initiative is lost rather than transferred to you, and
-* the target is knocked prone and back one zone, and
+* the target is knocked prone and back one range band, and
 * the target loses any active benefit from a Rush.
 
 ### Trance of Unhesitating Speed[^no-decisive]
@@ -223,9 +223,9 @@ The Upgrades for this Charm must be purchased in order.
 
 **Upgrade (Essence 4):** If you drop an opponent from a higher Initiative tick to a lower Initiative tick than yours, reset your attack.
 
-**Upgrade (Essence 5):** You can use this Charm against a target you used this Charm against last round. If you do, ignore the wp cost. If you succeeded with the last use and succeed with this use of the Charm, the target is pushed backwards one zone, even if this would force him off a cliff or a rooftop.
+**Upgrade (Essence 5):** You can use this Charm against a target you used this Charm against last round. If you do, ignore the wp cost. If you succeeded with the last use and succeed with this use of the Charm, the target is pushed backwards one range band, even if this would force him off a cliff or a rooftop.
 
-**Upgrade (Essence 6):** Each time you successfully hit with this Charm's attack, unless you force the target to lose their turn with the attack, you can use this Charm again against the same target without needing an action. Ignore the wp cost for each use past the first. For every two successful attacks against the same target with this Charm, the target is pushed back one zone. If you force the target to lose their turn, you gain 1wp.
+**Upgrade (Essence 6):** Each time you successfully hit with this Charm's attack, unless you force the target to lose their turn with the attack, you can use this Charm again against the same target without needing an action. Ignore the wp cost for each use past the first. For every two successful attacks against the same target with this Charm, the target is pushed back one range band. If you force the target to lose their turn, you gain 1wp.
 
 **Upgrade (Essence 6):** If you force the target to lose their turn, you can use this Charm against a new target without needing an action.
 
