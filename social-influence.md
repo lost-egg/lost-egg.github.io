@@ -67,8 +67,8 @@ You can spend 1wp to reject a successful [Bargain](#bargain), [Persuade](#persua
 
 If you use a Decision Point to reject social influence, keep track of the Intimacy (if any) that boosted your Resolve against the influence roll that prompted the Decision Point. For the rest of the story, each Intimacy that was used in this way:
 
-* doesn't increase your Resolve against the same influence by the same person, and
-* can't be used as the Intimacy for a Decision Point.
+* doesn't increase your Resolve against the same line of argument by the same person, and
+* can't be used as the Intimacy for a Decision Point against the same line of argument by the same person.
 
 ### Contradictory Arguments
 
