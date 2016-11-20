@@ -136,7 +136,7 @@ You make an attack against a target. See [Resolving Attacks](#resolving-attacks)
 
 Choose an ally within close range. You apply your Parry against all attacks targeting that ally, called your ward.
 
-If one of those attacks succeeds against your Parry, the attacker chooses to apply the attack to you or to your ward. If they apply it to your ward, their attack roll result becomes just their extra successes, and they still have to succeed against your ward's Defense. If the attack is a decisive attack, the attacker also loses (your Defense $$\div$$ 2, rounded down) from the damage roll.
+If one of those attacks succeeds against your Parry, the attacker chooses to apply the attack to you or to your ward. If they apply it to your ward, their attack roll result becomes just their extra successes, and they still have to succeed against your ward's Defense. If the attack is a decisive attack, the attacker also loses (your Defense ÷ 2, rounded down) from the damage roll.
 
 ### Disengage
 
@@ -430,9 +430,9 @@ If a Clash or other effect causes a character to become incapacitated in the mid
 
 You have two main defenses against attacks: Parry and Evasion. Your **Defense** is the higher of whichever of these you can apply against an attack. If something gives a bonus or penalty to Defense, it applies to both Parry and Evasion. All onslaught penalties to your Defense stack.
 
-Your **Parry** represents intercepting and deflecting an attack with a weapon (or with your own body), and you can only use Parry with a close combat weapon. Your Parry rating is ([[Dexterity + attack Ability + specialization] $$ \div $$ 2] + weapon's Defense bonus). You can't apply your Parry against an attack that's unblockable unless another rule says otherwise.
+Your **Parry** represents intercepting and deflecting an attack with a weapon (or with your own body), and you can only use Parry with a close combat weapon. Your Parry rating is ([Dexterity + attack Ability + specialization] ÷ 2 + weapon's Defense bonus). You can't apply your Parry against an attack that's unblockable unless another rule says otherwise.
 
-Your **Evasion** represents completely avoiding an attack. Your Evasion rating is ([[Dexterity + Dodge + specialization] $$ \div $$ 2) - armor's Defense penalty). You can't apply your Evasion against an attack that's undodgeable unless another rule says otherwise.
+Your **Evasion** represents completely avoiding an attack. Your Evasion rating is ([Dexterity + Dodge + specialization] ÷ 2 - armor's Defense penalty). You can't apply your Evasion against an attack that's undodgeable unless another rule says otherwise.
 
 ---
 
