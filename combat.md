@@ -76,7 +76,7 @@ Areas like thick forest, collapsed buildings, or pens filled with angry yeddim a
 If you're hidden from an opponent when combat starts, you're **concealed** against them. This lets you make a surprise attack against them (see [Attack](#attack)).
 
 {:#concealment-roll}
-Some actions may call for a **concealment roll**. This is a (Dexterity + Stealth) opposed roll against the (Wits + Awareness) of all opponents. Your roll gets a -3 penalty if you make it in combat (but not if you've hidden ahead of time). If your opponents aren't allies of each other or are bad at working together, treat each separate group or opponent as a different opposed roll, and keep track of concealment against them separately.[^new-separate-concealment]
+Some actions may call for a **concealment roll**. This is a (Dexterity + Stealth) opposed roll against the (Wits + Awareness) of all opponents. Your roll gets a -3 penalty if you make it in combat (but not if you've hidden ahead of time). If your opponents aren't allies of each other or are bad at working together, use the same roll result but treat like a separate opposed roll against each separate group or opponent, and keep track of concealment against each of them separately.[^new-separate-concealment]
 
 [^new-separate-concealment]: The rule for non-allied opponents doesn't exist in the original text, but is added here as a common-sense clarification for these kinds of situations.
 
