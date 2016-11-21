@@ -291,7 +291,7 @@ A character can only benefit from one Distract gambit at a time.
 
 If you complete the gambit, you grab the target. You have control of the grapple for this round.
 
-Make a (Strength + Melee) opposed roll against the target. You have X **control rounds**, where X is the extra successes if you win or 0 if you lose. At the start of each of your turns, you lose 1 control round. If you have 0 control rounds at the start of the target's turn, they escape the grapple. If you are Crashed during the grapple, the target escapes the grapple immediately.
+Make a (Strength + [Brawl or Martial Arts]) opposed roll against the target. You have X **control rounds**, where X is the extra successes if you win or 0 if you lose. At the start of each of your turns, you lose 1 control round. If you have 0 control rounds at the start of the target's turn, they escape the grapple. If you are Crashed during the grapple, the target escapes the grapple immediately.
 
 Maintaining the grapple is a Simple action with the Movement keyword. You can choose to release the target at any time as a Reflexive action, including during someone else's turn or just before the start of your turn, in which case at the start of your turn you can act normally.
 
