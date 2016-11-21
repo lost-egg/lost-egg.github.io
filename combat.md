@@ -5,7 +5,7 @@ title: Combat
 * TOC
 {:toc}
 
-To defeat your opponents in combat, you must first build **Initiative** with **withering attacks** against your opponents. Withering attacks represent testing blows, feints, glancing hits, and other attacks that push an opponent off-balance but don't cause them more than superficial damage. Withering attacks reduce your opponents' Initiative while increasing your own.
+To defeat your opponents in combat, you must first build **Initiative**, which represents your combat momentum, with **withering attacks** against your opponents. Withering attacks represent testing blows, feints, glancing hits, and other attacks that push an opponent off-balance but don't cause them more than superficial damage. Withering attacks reduce your opponents' Initiative while increasing your own.
 
 Against opponents that you dramatically outclass, you may not need to use a withering attack at all. Against skilled opponents, though, just leaping right in for the kill can get you killed yourself... which is why you'll want to wait for just the right moments in the fight to spend your Initiative on **decisive attacks**. With a decisive attack, you can deal substantial damage, or even incapacitate or kill an opponent in one blow.
 
@@ -19,7 +19,9 @@ Your starting Initiative in combat is the result of a **Join Battle** roll. This
 
 [^join-battle-plus-three]: In the original text, it's unclear if someone joining an existing combat gets the +3s bonus. As a best-guess interpretation that bonus is included here.
 
-Your Initiative can rise or fall to any number. If an effect increases or lowers your Initiative, it's written Xi, where X is the amount. If you have low Initiative and haven't acted yet, and you increase your Initiative to greater than that of other characters who have already acted, you take your turn on the next tick. No matter how your Initiative changes, you only take your turn once in a given a round.
+Your Initiative can rise or fall to any number. If an effect increases or lowers your Initiative, it's written Xi, where X is the amount. Some effects will **reset** your Initiative to your **base Initiative**, which for most characters is 3, but for some characters may be higher or lower.
+
+If you have low Initiative and haven't acted yet, and you increase your Initiative to greater than that of other characters who have already acted, you take your turn on the next tick. No matter how your Initiative changes, you only take your turn once in a given a round.
 
 If you would take your turn but want to wait, you can delay your action to a later tick. If you do, you lose 2i, but you can take your action on any tick later in the round than your original Initiative, including on the same tick as another character. This can be useful to set up [Clash attacks](#clashes) or for coordinating a fight with your allies.
 
@@ -33,13 +35,13 @@ While you're in Crash, withering attacks can continue to lower your Initiative, 
 - You can't make decisive attacks.
 - You can't use Charms with the Perilous keyword.
 
-If you end three consecutive turns in Crash, your Initiative **resets** to 3 at the beginning of your next turn.
+If you end three consecutive turns in Crash, your Initiative resets to your base Initiative at the beginning of your next turn.
 
 If you Crash another character (by any means), you gain a +5i **Break** bonus. You can't get the Break bonus by Crashing a character on the round that character recovered from Crash or on the round after that.
 
 If you Crash yourself, whichever character is most responsible for causing that self-Crash (at the GM's discretion) gets the Break bonus.
 
-If a character Crashes you, and while you're in that Crash you Crash them, you **Shift**. Your Initiative resets to 3 if it's lower than that, and you roll Join Battle as if you were joining combat and add the result to your Initiative. Then your turn starts over, and you can use a full set of actions again during the same turn. During the rest of that turn, if you attack, you can only attack the character you put in Crash in order to achieve Shift.
+If a character Crashes you, and while you're in that Crash you Crash them, you **Shift**. Your Initiative resets to your base Initiative if it's lower than that, and you roll Join Battle as if you were joining combat and add the result to your Initiative. Then your turn starts over, and you can use a full set of actions again during the same turn. During the rest of that turn, if you attack, you can only attack the character you put in Crash in order to achieve Shift.
 
 If you're in Crash because of your own actions, you can't Shift.
 
@@ -107,7 +109,7 @@ The list of combat actions is:[^new-collected-actions]
 Choose a target within the maximum range of a readied weapon. Depending on your range from the target:
 
 * *short range or closer:* If you attack the target on your next turn, you get +3 on the attack roll.
-* *medium or longer range:* You can attack the target on your next turn. If you spend two consecutive turns using the Aim action targeting them and then attack them on the turn after that, you get +3d on the attack roll.
+* *medium or longer range:* You can attack the target on your next turn. If you spend two consecutive turns using the Aim action targeting them and then attack them on the turn after that, you get +3 on the attack roll.
 
 If you Aim and the target covers ground out of your weapon's range or gets behind full cover before your next turn, the Aim action is wasted.
 
@@ -376,7 +378,7 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
       * *gambit:* Instead of applying damage, apply your damage roll against the difficulty of the gambit. If you succeed, you complete the gambit.
 
-    e. If this is a decisive attack, your Initiative resets to 3. If this is a gambit, instead of resetting your Initiative to 3, you lose (gambit's difficulty + 1)i.
+    e. If this is a decisive attack, your Initiative resets to your base Initiative. If this is a gambit, instead of resetting your Initiative, you lose (gambit's difficulty + 1)i.
 
     f. If the target is Crashed by the attack, apply Break or Shift.
 
