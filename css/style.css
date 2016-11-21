@@ -19,6 +19,10 @@ hr {
     width: 50%;
 }
 
+td, th {
+    padding: .5em;
+}
+
 @media screen and (min-width: 82em) {
     #github-links {
         font-size: .7em;
