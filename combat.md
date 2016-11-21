@@ -468,3 +468,100 @@ When attacking from a mount, you get +1 to attack rolls for withering attacks ag
 Some mounts give different bonuses instead of these combat bonuses. For example, very light and fast mounts such as riding eagles may give no combat bonuses at all, while extremely large mounts like elephants may protect you completely from non-reaching close-range weapons unless the opponent also climbs on the mount.
 
 Mounts usually don't have their own actions or Initiative. For a mount without its own Initiative, anything that would affect the mount's Initiative (including withering attacks) affects the rider's Initiative instead. For a mount without its own actions, the mount's rider can use his own actions as appropriate to command the mount, including being able to flurry.
+
+## Battle Groups
+
+When there are more than two participants in combat who are allies, mechanically fairly similar, and who aren't individually important to the GM's story, they should be tracked as a **battle group**. A battle group works mechanically like a single character, but represents the coordinated action of multiple combatants.
+
+Battle groups always use withering attacks, and instead of taking Initiative damage or health damage, take all damage to a special **Magnitude Track** that represents the morale and cohesiveness of the group. A battle group's Initiative is only used to keep track of the battle group's place in the turn order, and never increases or decreases.
+
+The **Size** of a battle group represents the number of combatants in it. The Size of a battle group is added as a bonus to that battle group's attack rolls, damage, Magnitude, and soak rating.
+
+| Size | Number of fighters                |
+|:----:|:----------------------------------|
+|  0   | 1--2                              |
+|  1   | 3--12                             |
+|  2   | 13--100                           |
+|  3   | 101--300                          |
+|  4   | 301--1000[^whats-several-hundred] |
+|  5   | 1001+                             |
+
+[^whats-several-hundred]: This is an interpretation of the original source's "several hundred combatants".
+
+The **Drill** of a battle group represents how well these combatants work together. The Drill of a battle group can affect command rolls for that battle group and grants a bonus to that battle group's Defense.
+
+| Drill   | Effects                                                                   | Defense | Examples                                                     |
+|:--------|:--------------------------------------------------------------------------|:-------:|:-------------------------------------------------------------|
+| Poor    | -2 to Order and Rally for Numbers, +1 difficulty for rout and rally rolls |   +0    | Poorly-trained raiders, wild mobs, inexperienced conscripts  |
+| Average | ---                                                                       |   +1    | Professional guards, skilled mercenaries, veteran conscripts |
+| Elite   | +2 to command rolls                                                       |   +2    | Warrior-monks, imperial special forces                       |
+
+The **Might** of a battle group represents the power and potency of these combatants. The Might of a battle group grants a bonus to that battle group's accuracy, damage, and Defense.
+
+| Might | Accuracy | Damage | Defense | Examples                                          |
+|:-----:|:--------:|:------:|:-------:|:--------------------------------------------------|
+|   0   |    +0    |   +0   |   +0    | Mortals                                           |
+|   1   |    +1    |   +1   |   +1    | Powerful beastfolk, mortals under divine blessing |
+|   2   |    +2    |   +2   |   +1    | Lesser spirits like ghosts or first circle demons |
+|   3   |    +3    |   +3   |   +2    | Terrestrial Exalted                               |
+
+### Battle Group Actions
+
+Battle groups take actions as normal, except as noted here.
+
+* Battle groups can cover ground away from opponents two or more points of Size smaller than the group without needing to Disengage.
+* Instead of using the Grapple gambit, battle groups use the Engage gambit. This gambit is identical to Grapple, except that instead of rolling damage, the gambit automatically completes. The roll to determine the number of control rounds uses the group's combat Ability rather than Brawl or Martial Arts. The gambit doesn't have the Restrain/Drag and Throw maneuvers, and the Savage maneuver uses the group's standard attack type rather than an unarmed attack.
+
+### Battle Group Attacks and Defenses
+
+When a battle group attacks, it applies the same attack to all enemies at close range with the battle group (when making a close-ranged attack) or to all characters within close range of a primary target (when making a ranged attack). A battle group can spread out to count as being at close range with more characters, but loses Size bonuses to attacks if the average distance between group members is 10 yards or more.
+
+Battle groups always make withering attacks, but don't gain Initiative from them. If a battle group would deal Initiative damage to a target in Crash, it's instead applied as bashing or lethal health damage, as appropriate for the battle group's weapons. Battle groups don't double each 10 on damage rolls.
+
+Battle groups have a Magnitude equal to the average number of health levels the fighters of the battle group have (usually 7), plus the battle group's Size. When a battle group takes damage from an attack, that damage reduces the battle group's Magnitude. If that attack is a decisive attack, it also deals (damage dice rolled ÷ 4) additional automatic damage to the battle group.
+
+If a battle group's Magnitude is reduced to 0, the battle group immediately makes a **rout check**. This is a (average Willpower of the battle group + bonus from Drill) roll against difficulty (1 + points of Size that the battle group has lost during the scene), with a cumulative +1 to difficulty if the rout check was caused by a supernatural area-of-effect weapon or spell or if, during the battle, an allied battle group has been dissolved, one of the battle group's leaders or heroes has been killed.
+
+If the rout check succeeds, the battle group's Size reduces by 1, and its Magnitude is reset based on its new Size. Any remaining damage from the attack that reduced the battle group's original Magnitude to 0 is applied to the new Magnitude, which can potentially cause a new rout check.
+
+If the rout check fails, the battle group keeps its Size, but stays at Magnitude 0.[^battle-group-limbo] At the start of the battle group's next turn, the battle group dissolves, and its remaining fighters run or surrender as best they can. To represent attacks made against these fighters, the battle group can be treated as though it still exists, but it can't take any actions and gets -3 to Defense.
+
+[^battle-group-limbo]: The is a best-guess interpretation of the unclear state of a battle group after a failed rout check.
+
+A character who causes a battle group to lose a point of Size or to dissolve gets a Break bonus, as though they had Crashed an opponent.
+
+Some rare battle groups have **perfect morale**. A battle group with perfect morale automatically succeeds at all rout checks and gets +3 Magnitude, but can't benefit from Rally for Numbers actions.
+
+### Interacting with Battle Groups
+
+An individual character can cover ground through the space occupied by members of a battle group, but this area counts as difficult terrain and you have to pay 1 Initiative per round that you do this.
+
+### Commanding Battle Groups
+
+If you're known and trusted by the members of a battle group, and you have some way to make yourself known to the members of that battle group, you can use one of these actions to command that battle group.
+
+#### Order
+
+**Defense Mod** -1; **Flurry** no  
+**Action** Simple; **Duration** Instant  
+**Requirement** A battle group will follow your commands.
+
+Declare an order and roll ([Charisma, Appearance, or Intelligence] + War) against difficulty 1, using Intelligence if you're not actively participating in the battle, Charisma if you're leading from the front and inspiring the troops, or Appearance if you're leading by example. If you succeed, the battle group follows your order on the next turn, and adds (extra successes) to all of its dice pools for actions taken during that turn.
+
+#### Rally
+
+**Defense Mod** -1; **Flurry** no  
+**Action** Simple; **Duration** Instant  
+**Requirement** A battle group will follow your commands, and it failed a rout check but hasn't yet dissolved.
+
+Roll ([Charisma or Appearance] + War) against the difficulty of the failed rout check. If you succeed, the battle group recovers as if it had succeeded on its rout check.
+
+#### Rally for Numbers
+
+**Defense Mod** -1; **Flurry** no  
+**Action** Simple; **Duration** Instant  
+**Requirement** A battle group will follow your commands, and it's suffered Magnitude damage.
+
+Roll ([Charisma or Appearance] + War) against difficulty 1. The battle group gains (extra successes ÷ 2, rounded down) Magnitude, up to the total possible for its average health levels and Size.
+
+A battle group can only benefit from this action once per battle, plus once after each time it loses a point of Size.
