@@ -9,29 +9,23 @@ To defeat your opponents in combat, you must first build **Initiative** with **w
 
 Against opponents that you dramatically outclass, you may not need to use a withering attack at all. Against skilled opponents, though, just leaping right in for the kill can get you killed yourself... which is why you'll want to wait for just the right moments in the fight to spend your Initiative on **decisive attacks**. With a decisive attack, you can deal substantial damage, or even incapacitate or kill an opponent in one blow.
 
-When combat starts, all characters involved in the combat roll Join Battle. This is a (Wits + Awareness + 3s) opposed roll. The result for each character is their starting **Initiative** in the combat. If an effect increases or lowers your Initiative, it's written Xi, where X is the amount.
+## The Flow of Combat
 
-If you expect combat---or start it yourself---you can start combat with any weapons of your choice ready to attack with. If you're attacked without expecting it, you usually don't start combat with any weapons ready,[^paranoid] and you'll probably want to use the [Ready Weapon](#ready-weapon) action to get one or more weapons ready.
+Combat is split into **rounds**. Each round is composed of **ticks**, which are abstract, very small measures of time, count from highest to lowest, and can start at any number. During each round, you take your turn on the tick matching your **Initiative**, going from highest to lowest. If multiple characters act on the same tick, they go simultaneously. Once everyone in the combat has taken their turn, the next round starts.
 
-[^paranoid]: If you're the sort of person who's so paranoid that you keep a weapon ready at all times, you should make sure the GM knows that ahead of time. After all, if you always walk around with a sword or a spear in hand, people might start suspecting that you want to attack them.
-
-If you join combat that's already started, you roll Join Battle as non-opposed roll to determine your starting Initiative,[^winning-initiative][^join-battle-plus-three] and then take your first turn the next time the tick matching your Initiative comes up.
+Your starting Initiative in combat is the result of a **Join Battle** roll. This is a (Wits + Awareness + 3s) opposed roll. If you join combat that's already started, you roll Join Battle as non-opposed roll to determine your starting Initiative,[^winning-initiative][^join-battle-plus-three] and then take your first turn the next time the tick matching your Initiative comes up.
 
 [^winning-initiative]: This isn't an opposed roll, but you're considered to "win" for the purpose of effects that trigger from that if you have a higher result than the current Initiative of any opponent in the combat.
 
 [^join-battle-plus-three]: In the original text, it's unclear if someone joining an existing combat gets the +3s bonus. As a best-guess interpretation that bonus is included here.
 
----
+Your Initiative can rise or fall to any number. If an effect increases or lowers your Initiative, it's written Xi, where X is the amount. If you have low Initiative and haven't acted yet, and you increase your Initiative to greater than that of other characters who have already acted, you take your turn on the next tick. No matter how your Initiative changes, you only take your turn once in a given a round.
 
-Combat is split into **rounds**. Each round is composed of **ticks**, which are abstract, very small measures of time. During each round, each character takes their turn on the tick matching their Initiative, going from highest to lowest. If multiple characters act on the same tick, they go simultaneously. Once everyone in the combat has taken their turn, the next round starts.
+If you would take your turn but want to wait, you can delay your action to a later tick. If you do, you lose 2i, but you can take your action on any tick later in the round than your original Initiative, including on the same tick as another character. This can be useful to set up [Clash attacks](#clashes) or for coordinating a fight with your allies.
 
-You can delay your action to a later tick. If you do, you lose 2i, but you can take your action on any tick later in the round than your original Initiative, including on the same tick as another character. This can be useful to set up [Clash attacks](#clashes) or for coordinating a fight with your allies.
+## Crash
 
-If you have low Initiative and haven't acted yet, and you increase your Initiative to greater than that of other characters who have already acted, you take your turn on the next tick.
-
----
-
-Your Initiative can rise or fall to any number. If your Initiative falls to 0 or lower, you're in **Crash** as long as you have a Initiative that's 0 or lower. If you're in Crash because of your own actions (such as actions or Charms that cost Initiative), you lose an additional 5i.
+If your Initiative falls to 0 or lower, you're in **Crash** as long as you have a Initiative that's 0 or lower. If you're in Crash because of your own actions (such as actions or Charms that cost Initiative), you lose an additional 5i.
 
 While you're in Crash, withering attacks can continue to lower your Initiative, and you're subject to the following effects:
 
@@ -64,8 +58,6 @@ Characters in adjacent zones are at **medium range** from each other. Talking to
 Characters two zones apart are at **long range** from each other. At this range, direct communication is impossible except by means such as semaphore flags, and characters have a hard time telling the details of each others' actions. Only long-ranged weapons can be used to attack at this range, and they require aiming first.
 
 Characters at least three zones apart are at **extreme range** extreme from each other. Combat and direct communication between characters at extreme range is impossible, barring specialized extremely-long-range weapons.
-
----
 
 To cross between zones, you **cover ground**.[^new-covering-ground] When an action tells you to "cover ground X", you cross that many zones. You're still limited by what makes sense for the terrain. For example, if you're on one side of a tremendous crevice several zones across, you'll probably have to go around to cross it.
 
@@ -126,7 +118,7 @@ If you're casting a spell, using an effect from an Ability or martial art that i
 **Defense Mod** ---; **Flurry** yes  
 **Action** Simple; **Duration** Instant
 
-You make an attack against a target. See [Resolving Attacks](#resolving-attacks).
+You you a weapon you have ready (see [Ready Weapon](#ready-weapon)) to make an attack against a target. See [Resolving Attacks](#resolving-attacks).
 
 ### Defend Other
 
@@ -203,6 +195,10 @@ You ready or unready a weapon, or both. You can treat a set of small, identical 
 [^new-readied-weapons]: The original text doesn't give any guidelines for readying multiple weapons. Common-sense guidelines for multiple weapons have been added here.
 
 [^off-hand-penalty]: See Ambidextrous on page 158 of *Exalted 3*.
+
+If you expect combat---or start it yourself---you can start combat with any weapons of your choice ready to attack with. If you're attacked without expecting it, you usually don't start combat with any weapons ready.[^paranoid]
+
+[^paranoid]: If you're the sort of person who's so paranoid that you keep a weapon ready at all times, you should make sure the GM knows that ahead of time. After all, if you always walk around with a sword or a spear in hand, people might start suspecting that you want to attack them.
 
 Your natural weapons, like fists or claws, are always ready.
 
@@ -324,7 +320,7 @@ To attack a target with a weapon, you need to have that weapon readied (see [Rea
 
 If it's a close combat attack, you can only make the attack at close range. If it's a ranged combat attack, you need to [Aim](#aim) first to attack at medium or longer range, except under certain conditions.
 
----
+### Attacks From Stealth
 
 If you're concealed against the target, this is a **surprise attack**. The target gets -2 Defense against it. If you don't incapacitate or kill the target with this attack, you're revealed to the target and their allies.
 
@@ -336,7 +332,7 @@ If the target tries to escape during those rounds, you may make a decisive ambus
 
 When those rounds have passed, if you haven't gotten the target to surrender or otherwise cooperate, you and the target both roll Join Battle to see who acts first, with the target getting -2 to the roll. If you win, you can immediately perform an ambush attack against the target.
 
----
+### Resolution Steps
 
 Each attack has an order of operations used to resolve it. Usually you won't need to keep track of the exact steps, but if you're fighting another magical being, using them helps prevent any confusion about figuring out what happens.[^new-steps]
 
@@ -414,7 +410,7 @@ The winner deals damage as though they succeeded against the loser's Defense, wi
 
 The loser's attack ends, and they get -2 Defense until their next turn. This penalty doesn't stack with itself. They don't get any onslaught penalty from the winner's attack.
 
----
+### Clashes and Multiple Attacks
 
 Only matching "pairs" of attacks count as Clashes.[^new-clash-pairs]
 
@@ -426,7 +422,7 @@ If you make multiple attacks against a character also making multiple attacks ag
 
 If a Clash or other effect causes a character to become incapacitated in the middle of making multiple attacks, then any following attacks are canceled and don't happen.
 
-## Defenses and Conditions
+## Defending Against Attacks
 
 You have two main defenses against attacks: Parry and Evasion. Your **Defense** is the higher of whichever of these you can apply against an attack. If something gives a bonus or penalty to Defense, it applies to both Parry and Evasion. All onslaught penalties to your Defense stack.
 
@@ -434,7 +430,7 @@ Your **Parry** represents intercepting and deflecting an attack with a weapon (o
 
 Your **Evasion** represents completely avoiding an attack. Your Evasion rating is ([Dexterity + Dodge + specialization] ÷ 2 - armor's Defense penalty). You can't apply your Evasion against an attack that's undodgeable unless another rule says otherwise.
 
----
+### Resisting Attacks
 
 If an attack gets past your Defense, your soak and Hardness can still protect you.
 
@@ -444,7 +440,7 @@ Your **soak** applies against withering attacks, subtracting from the damage poo
 {:#hardness}
 Your **Hardness** starts at 0, but can be increased by some kinds of armor and by magical effects. Hardness doesn't subtract from damage, but can negate some decisive attacks completely. Hardness from different sources doesn't stack unless the source says otherwise.
 
----
+### Damage and Conditions
 
 If your Defense, soak, and Harness aren't enough to protect you, an attack can deal damage to you.
 
