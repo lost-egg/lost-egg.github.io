@@ -5,13 +5,13 @@ title: Combat
 * TOC
 {:toc}
 
-To defeat your opponents in combat, you must first build **Initiative**, which represents your combat momentum, with **withering attacks** against your opponents. Withering attacks represent testing blows, feints, glancing hits, and other attacks that push an opponent off-balance but don't cause them more than superficial damage. Withering attacks reduce your opponents' Initiative while increasing your own.
+To defeat your opponents in combat, you must first build **Initiative**, which is a number that represents your combat momentum, with **withering attacks** against your opponents. Withering attacks represent testing blows, feints, glancing hits, and other attacks that push an opponent off-balance but don't cause them more than superficial damage. Withering attacks reduce your opponents' Initiative while increasing your own.
 
 Against opponents that you dramatically outclass, you may not need to use a withering attack at all. Against skilled opponents, though, just leaping right in for the kill can get you killed yourself... which is why you'll want to wait for just the right moments in the fight to spend your Initiative on **decisive attacks**. With a decisive attack, you can deal substantial damage, or even incapacitate or kill an opponent in one blow.
 
 ## The Flow of Combat
 
-Combat is split into **rounds**. Each round is composed of **ticks**, which are abstract, very small measures of time, count from highest to lowest, and can start at any number. During each round, you take your turn on the tick matching your **Initiative**, going from highest to lowest. If multiple characters act on the same tick, they go simultaneously. Once everyone in the combat has taken their turn, the next round starts.
+Combat is split into **rounds**. Each round is composed of **ticks**, which are abstract, very small measures of time, count from highest to lowest, and can start at any number. During each round, you take your turn on the tick matching your Initiative, going from highest to lowest. If multiple characters act on the same tick, they go simultaneously. Once everyone in the combat has taken their turn, the next round starts.
 
 Your starting Initiative in combat is the result of a **Join Battle** roll. This is a (Wits + Awareness + 3s) opposed roll. If you join combat that's already started, you roll Join Battle as non-opposed roll to determine your starting Initiative,[^winning-initiative][^join-battle-plus-three] and then take your first turn the next time the tick matching your Initiative comes up.
 
