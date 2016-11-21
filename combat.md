@@ -505,14 +505,14 @@ The **Might** of a battle group represents the power and potency of these combat
 |   2   |    +2    |   +2   |   +1    | Lesser spirits like ghosts or first circle demons |
 |   3   |    +3    |   +3   |   +2    | Terrestrial Exalted                               |
 
-### Battle Group Actions
+### Actions
 
 Battle groups take actions as normal, except as noted here.
 
 * Battle groups can cover ground away from opponents two or more points of Size smaller than the group without needing to Disengage.
 * Instead of using the Grapple gambit, battle groups use the Engage gambit. This gambit is identical to Grapple, except that instead of rolling damage, the gambit automatically completes. The roll to determine the number of control rounds uses the group's combat Ability rather than Brawl or Martial Arts. The gambit doesn't have the Restrain/Drag and Throw maneuvers, and the Savage maneuver uses the group's standard attack type rather than an unarmed attack.
 
-### Battle Group Attacks and Defenses
+### Attacks and Defenses
 
 When a battle group attacks, it applies the same attack to all enemies at close range with the battle group (when making a close-ranged attack) or to all characters within close range of a primary target (when making a ranged attack). A battle group can spread out to count as being at close range with more characters, but loses Size bonuses to attacks if the average distance between group members is 10 yards or more.
 
