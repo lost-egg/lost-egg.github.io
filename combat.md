@@ -130,7 +130,7 @@ You you a weapon you have ready (see [Ready Weapon](#ready-weapon)) to make an a
 
 Choose an ally within close range. You apply your Parry against all attacks targeting that ally, called your ward.
 
-If one of those attacks succeeds against your Parry, the attacker chooses to apply the attack to you or to your ward. If they apply it to your ward, their attack roll result becomes just their extra successes, and they still have to succeed against your ward's Defense. If the attack is a decisive attack, the attacker also loses (your Defense ÷ 2, rounded down) from the damage roll.
+If one of those attacks succeeds against your Parry, the attacker chooses to apply the attack to you or to your ward. If they apply it to your ward, their attack roll result becomes just their threshold successes, and they still have to succeed against your ward's Defense. If the attack is a decisive attack, the attacker also loses (your Defense ÷ 2, rounded down) from the damage roll.
 
 ### Disengage
 
@@ -291,7 +291,7 @@ A character can only benefit from one Distract gambit at a time.
 
 If you complete the gambit, you grab the target. You have control of the grapple for this round.
 
-Make a (Strength + [Brawl or Martial Arts]) opposed roll against the target. You have X **control rounds**, where X is the extra successes if you win or 0 if you lose. At the start of each of your turns, you lose 1 control round. If you have 0 control rounds at the start of the target's turn, they escape the grapple. If you are Crashed during the grapple, the target escapes the grapple immediately.
+Make a (Strength + [Brawl or Martial Arts]) opposed roll against the target. You have X **control rounds**, where X is the threshold successes if you win or 0 if you lose. At the start of each of your turns, you lose 1 control round. If you have 0 control rounds at the start of the target's turn, they escape the grapple. If you are Crashed during the grapple, the target escapes the grapple immediately.
 
 Maintaining the grapple is a Simple action with the Movement keyword. You can choose to release the target at any time as a Reflexive action, including during someone else's turn or just before the start of your turn, in which case at the start of your turn you can act normally.
 
@@ -366,7 +366,7 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
     c. Assemble your **damage roll**. This depends on the attack type.
 
-      * *withering:* The damage roll is (Strength + weapon damage bonus + extra successes from the attack roll - target's soak), minimum of your minimum damage. After checking the minimum, add any post-soak damage.
+      * *withering:* The damage roll is (Strength + weapon damage bonus + threshold successes from the attack roll - target's soak), minimum of your minimum damage. After checking the minimum, add any post-soak damage.
 
       * *decisive:* The damage roll is (your current Initiative). The Double 10s rule doesn't apply. If this isn't a gambit and the target has Hardness equal to or greater than the damage roll, change your damage roll to 0.
 
@@ -408,7 +408,7 @@ When declaring effects to enhance the attacks in step 2, the characters alternat
 
 Instead of being used against Defense, the attack rolls are used as opposed rolls.
 
-The winner deals damage as though they succeeded against the loser's Defense, with extra successes from the opposed roll adding dice to the damage roll if it's a withering attack. The winner gets +3s on the damage roll if they're making a withering attack, or +1s on the damage roll if they're making a decisive attack.
+The winner deals damage as though they succeeded against the loser's Defense, with threshold successes from the opposed roll adding dice to the damage roll if it's a withering attack. The winner gets +3s on the damage roll if they're making a withering attack, or +1s on the damage roll if they're making a decisive attack.
 
 The loser's attack ends, and they get -2 Defense until their next turn. This penalty doesn't stack with itself. They don't get any onslaught penalty from the winner's attack.
 
@@ -546,7 +546,7 @@ If you're known and trusted by the members of a battle group, and you have some 
 **Action** Simple; **Duration** Instant  
 **Requirement** A battle group will follow your commands.
 
-Declare an order and roll ([Charisma, Appearance, or Intelligence] + War) against difficulty 1, using Intelligence if you're not actively participating in the battle, Charisma if you're leading from the front and inspiring the troops, or Appearance if you're leading by example. If you succeed, the battle group follows your order on the next turn, and adds (extra successes) to all of its dice pools for actions taken during that turn.
+Declare an order and roll ([Charisma, Appearance, or Intelligence] + War) against difficulty 1, using Intelligence if you're not actively participating in the battle, Charisma if you're leading from the front and inspiring the troops, or Appearance if you're leading by example. If you succeed, the battle group follows your order on the next turn, and adds (total successes) to all of its dice pools for actions taken during that turn.
 
 #### Rally
 
@@ -562,6 +562,6 @@ Roll ([Charisma or Appearance] + War) against the difficulty of the failed rout 
 **Action** Simple; **Duration** Instant  
 **Requirement** A battle group will follow your commands, and it's suffered Magnitude damage.
 
-Roll ([Charisma or Appearance] + War) against difficulty 1. The battle group gains (extra successes ÷ 2, rounded down) Magnitude, up to the total possible for its average health levels and Size.
+Roll ([Charisma or Appearance] + War) against difficulty 1. The battle group gains (total successes ÷ 2, rounded down) Magnitude, up to the total possible for its average health levels and Size.
 
 A battle group can only benefit from this action once per battle, plus once after each time it loses a point of Size.
