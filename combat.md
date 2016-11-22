@@ -102,7 +102,7 @@ The list of combat actions is:[^new-collected-actions]
 
 ### Aim
 
-**Defense Mod** ---; **Flurry** no  
+**Defense** ---; **Flurry** no  
 **Action** Simple; **Duration** Instant  
 **Requirement** You can't use this action on the same turn you cover ground or use a Movement action, and vice versa, unless another rule says otherwise.
 
@@ -117,14 +117,14 @@ If you're casting a spell, using an effect from an Ability or martial art that i
 
 ### Attack
 
-**Defense Mod** ---; **Flurry** yes  
+**Defense** ---; **Flurry** yes  
 **Action** Simple; **Duration** Instant
 
 You use a readied weapon to make an attack against a target. See [Ready Weapon](#ready-weapon) and [Resolving Attacks](#resolving-attacks).
 
 ### Defend Other
 
-**Defense Mod** ---; **Flurry** yes  
+**Defense** ---; **Flurry** yes  
 **Action** Simple; **Duration** 1 round  
 **Requirement** You have an ally at close range.
 
@@ -134,7 +134,7 @@ If one of those attacks succeeds against your Parry, the attacker chooses to app
 
 ### Disengage
 
-**Defense Mod** ---; **Flurry** yes  
+**Defense** ---; **Flurry** yes  
 **Action** Simple; **Duration** Instant  
 **Keywords** Movement  
 **Requirement** You're at close range with any opponents.
@@ -149,7 +149,7 @@ If you lose, you don't get to exit close range.
 
 ### Establish Surprise
 
-**Defense Mod** ---; **Flurry** no  
+**Defense** ---; **Flurry** no  
 **Action** Simple; **Duration** ---  
 **Requirement** You're somewhere it's reasonable to break line of sight and hide.
 
@@ -157,7 +157,7 @@ Make a [concealment roll](#concealment-roll) against all opponents who are aware
 
 ### Full Defense
 
-**Cost** 1i; **Defense Mod** +2; **Flurry** special  
+**Cost** 1i; **Defense** +2; **Flurry** special  
 **Action** Simple; **Duration** Instant  
 **Keywords** Perilous
 **Requirement** You aren't in Crash.
@@ -168,7 +168,7 @@ You can only flurry this action with social influence actions.
 
 ### Go to Ground
 
-**Defense Mod** ---; **Flurry** no  
+**Defense** ---; **Flurry** no  
 **Action** Simple; **Duration** Instant  
 **Keywords** Movement  
 **Requirement** You're concealed against all opponents.
@@ -181,7 +181,7 @@ If you complete Go to Ground, you're completely hidden and can't be found until 
 
 ### Move
 
-**Defense Mod** ---; **Flurry** ---  
+**Defense** ---; **Flurry** ---  
 **Action** Reflexive; **Duration** Instant  
 **Keywords** Movement  
 **Requirement** You're not at close range with any opponents, and it is your turn.
@@ -190,7 +190,7 @@ You cover ground 1.
 
 ### Ready Weapon
 
-**Defense Mod** -1; **Flurry** yes  
+**Defense** -1; **Flurry** yes  
 **Action** Simple; **Duration** Instant
 
 You ready or unready a weapon, or both. You can treat a set of small, identical weapons (such as throwing knives) like one weapon for the purpose of readying. How many weapons you can have ready is up to your ST,[^new-readied-weapons] but as a guideline you can usually have up to two large weapons ready (such as a sword in each hand) and any number of small weapons ready (such as a set of throwing knives strapped to your hip). Any weapon ready in your off-hand gets a -1 penalty to attacks.[^off-hand-penalty]
@@ -207,7 +207,7 @@ Your natural weapons, like fists or claws, are always ready.
 
 ### Rise From Prone
 
-**Defense Mod** ---; **Flurry** yes  
+**Defense** ---; **Flurry** yes  
 **Action** Simple; **Duration** Instant  
 **Keywords** Movement  
 **Requirement** You're prone.
@@ -218,7 +218,7 @@ If an opponent is at close range, you have to roll (Dexterity + Dodge) against d
 
 ### Rush
 
-**Defense Mod** ---; **Flurry** yes  
+**Defense** ---; **Flurry** yes  
 **Action** Simple; **Duration** until target's next movement  
 **Keywords** Movement
 
@@ -232,7 +232,7 @@ If you've already used a [Move](#move) action this turn, you can still use Rush 
 
 ### Take Cover
 
-**Defense Mod** ---; **Flurry** yes  
+**Defense** ---; **Flurry** yes  
 **Action** Simple; **Duration** Instant  
 **Keywords** Movement
 
@@ -248,7 +248,7 @@ Cover is limited as makes sense given the actual terrain. For example, if you're
 
 ### Withdraw
 
-**Defense Mod** ---; **Flurry** yes  
+**Defense** ---; **Flurry** yes  
 **Action** Simple; **Duration** Instant  
 **Keywords** Movement  
 **Requirement** You're at medium or greater range from all opponents.
@@ -259,7 +259,7 @@ Make a (Dexterity + Athletics) extended roll against difficulty 1, with an inter
 
 ### Other Simple Action
 
-**Defense Mod** -1; **Flurry** maybe  
+**Defense** -1; **Flurry** maybe  
 **Action** Simple; **Duration** Various
 
 You can do anything not listed that would make sense as a Simple action. This includes anything not given as an action that you could do in a few seconds in the stress of combat.
@@ -543,7 +543,7 @@ If you're known and trusted by the members of a battle group, and you have some 
 
 #### Order
 
-**Defense Mod** -1; **Flurry** no  
+**Defense** -1; **Flurry** no  
 **Action** Simple; **Duration** Instant  
 **Requirement** A battle group will follow your commands.
 
@@ -551,7 +551,7 @@ Declare an order and roll ([Charisma, Appearance, or Intelligence] + War) agains
 
 #### Rally
 
-**Defense Mod** -1; **Flurry** no  
+**Defense** -1; **Flurry** no  
 **Action** Simple; **Duration** Instant  
 **Requirement** A battle group will follow your commands, and it failed a rout check but hasn't yet dissolved.
 
@@ -559,7 +559,7 @@ Roll ([Charisma or Appearance] + War) against the difficulty of the failed rout 
 
 #### Rally for Numbers
 
-**Defense Mod** -1; **Flurry** no  
+**Defense** -1; **Flurry** no  
 **Action** Simple; **Duration** Instant  
 **Requirement** A battle group will follow your commands, and it's suffered Magnitude damage.
 
