@@ -86,7 +86,7 @@ If you're concealed against opponents and cover ground or use a Movement action,
 
 Each turn, you can use one **Simple** action and any number of **Reflexive** actions.
 
-You can **flurry** to take a second Simple action in a round, but it has to be a different action from the first. When you flurry, you get -3 to any rolls used by either Simple action, and you get -1 to your Defense until your next turn. Some actions can't be used on a turn when you flurry.
+You can **flurry** to take a second Simple action in a round, but it has to be a different action from the first, and both actions have to have the Flurry keyword. When you flurry, you get -3 to any rolls used by either Simple action, and you get -1 to your Defense until your next turn. Some actions can't be used on a turn when you flurry.
 
 If an action gives you a Defense modifier, then you get that bonus or penalty to Defense from when you declare the action until the start of your next turn.
 
@@ -102,7 +102,7 @@ The list of combat actions is:[^new-collected-actions]
 
 ### Aim
 
-**Defense** ---; **Flurry** no  
+**Defense** ---  
 **Action** Simple; **Duration** Instant  
 **Requirement** You can't use this action on the same turn you cover ground or use a Movement action, and vice versa, unless another rule says otherwise.
 
@@ -117,15 +117,17 @@ If you're casting a spell, using an effect from an Ability or martial art that i
 
 ### Attack
 
-**Defense** ---; **Flurry** yes  
-**Action** Simple; **Duration** Instant
+**Defense** ---  
+**Action** Simple; **Duration** Instant  
+**Keywords** Flurry
 
 You use a readied weapon to make an attack against a target. See [Ready Weapon](#ready-weapon) and [Resolving Attacks](#resolving-attacks).
 
 ### Defend Other
 
-**Defense** ---; **Flurry** yes  
+**Defense** ---  
 **Action** Simple; **Duration** 1 round  
+**Keywords** Flurry  
 **Requirement** You have an ally at close range.
 
 Choose an ally within close range. You apply your Parry against all attacks targeting that ally, called your ward.
@@ -134,9 +136,9 @@ If one of those attacks succeeds against your Parry, the attacker chooses to app
 
 ### Disengage
 
-**Defense** ---; **Flurry** yes  
+**Defense** ---  
 **Action** Simple; **Duration** Instant  
-**Keywords** Movement  
+**Keywords** Flurry, Movement  
 **Requirement** You're at close range with any opponents.
 
 When you use this action, you lose 2i.
@@ -149,7 +151,7 @@ If you lose, you don't get to exit close range.
 
 ### Establish Surprise
 
-**Defense** ---; **Flurry** no  
+**Defense** ---  
 **Action** Simple; **Duration** ---  
 **Requirement** You're somewhere it's reasonable to break line of sight and hide.
 
@@ -157,9 +159,9 @@ Make a [concealment roll](#concealment-roll) against all opponents who are aware
 
 ### Full Defense
 
-**Cost** 1i; **Defense** +2; **Flurry** special  
+**Cost** 1i; **Defense** +2  
 **Action** Simple; **Duration** Instant  
-**Keywords** Perilous
+**Keywords** Flurry, Perilous  
 **Requirement** You aren't in Crash.
 
 This action doesn't do anything by itself, but it has a positive Defense modifier.
@@ -168,7 +170,7 @@ You can only flurry this action with social influence actions.
 
 ### Go to Ground
 
-**Defense** ---; **Flurry** no  
+**Defense** ---  
 **Action** Simple; **Duration** Instant  
 **Keywords** Movement  
 **Requirement** You're concealed against all opponents.
@@ -181,7 +183,7 @@ If you complete Go to Ground, you're completely hidden and can't be found until 
 
 ### Move
 
-**Defense** ---; **Flurry** ---  
+**Defense** ---  
 **Action** Reflexive; **Duration** Instant  
 **Keywords** Movement  
 **Requirement** You're not at close range with any opponents, and it is your turn.
@@ -190,8 +192,9 @@ You cover ground 1.
 
 ### Ready Weapon
 
-**Defense** -1; **Flurry** yes  
-**Action** Simple; **Duration** Instant
+**Defense** -1  
+**Action** Simple; **Duration** Instant  
+**Keywords** Flurry
 
 You ready or unready a weapon, or both. You can treat a set of small, identical weapons (such as throwing knives) like one weapon for the purpose of readying. How many weapons you can have ready is up to your ST,[^new-readied-weapons] but as a guideline you can usually have up to two large weapons ready (such as a sword in each hand) and any number of small weapons ready (such as a set of throwing knives strapped to your hip). Any weapon ready in your off-hand gets a -1 penalty to attacks.[^off-hand-penalty]
 
@@ -207,9 +210,9 @@ Your natural weapons, like fists or claws, are always ready.
 
 ### Rise From Prone
 
-**Defense** ---; **Flurry** yes  
+**Defense** ---  
 **Action** Simple; **Duration** Instant  
-**Keywords** Movement  
+**Keywords** Flurry, Movement  
 **Requirement** You're prone.
 
 You get up from being [prone](#prone).
@@ -218,9 +221,9 @@ If an opponent is at close range, you have to roll (Dexterity + Dodge) against d
 
 ### Rush
 
-**Defense** ---; **Flurry** yes  
+**Defense** ---  
 **Action** Simple; **Duration** until target's next movement  
-**Keywords** Movement
+**Keywords** Flurry, Movement
 
 Make a (Dexterity + Athletics) opposed roll against a target at short range. You get -3 on the roll if you're in difficult terrain.
 
@@ -232,9 +235,9 @@ If you've already used a [Move](#move) action this turn, you can still use Rush 
 
 ### Take Cover
 
-**Defense** ---; **Flurry** yes  
+**Defense** ---  
 **Action** Simple; **Duration** Instant  
-**Keywords** Movement
+**Keywords** Flurry, Movement
 
 Roll (Dexterity + Dodge) at a difficulty set by the ST depending on how much cover is available. If you succeed, you benefit from light, heavy, or total cover as appropriate.
 
@@ -248,9 +251,9 @@ Cover is limited as makes sense given the actual terrain. For example, if you're
 
 ### Withdraw
 
-**Defense** ---; **Flurry** yes  
+**Defense** ---  
 **Action** Simple; **Duration** Instant  
-**Keywords** Movement  
+**Keywords** Flurry, Movement  
 **Requirement** You're at medium or greater range from all opponents.
 
 You cover ground 1 away from all opponents.
@@ -259,8 +262,9 @@ Make a (Dexterity + Athletics) extended roll against difficulty 1, with an inter
 
 ### Other Simple Action
 
-**Defense** -1; **Flurry** maybe  
-**Action** Simple; **Duration** Various
+**Defense** -1  
+**Action** Simple; **Duration** Various  
+**Keywords** Flurry
 
 You can do anything not listed that would make sense as a Simple action. This includes anything not given as an action that you could do in a few seconds in the stress of combat.
 
