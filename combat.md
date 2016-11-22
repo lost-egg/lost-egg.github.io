@@ -33,7 +33,7 @@ While you're in Crash, withering attacks can continue to lower your Initiative, 
 
 - You have [Hardness](#hardness) 0, except for Hardness that specifically works while in Crash.
 - You can't make decisive attacks.
-- You can't use Charms with the Perilous keyword.
+- You can't use effects with the Perilous keyword.
 
 If you end three consecutive turns in Crash, your Initiative resets to your base Initiative at the beginning of your next turn.
 
