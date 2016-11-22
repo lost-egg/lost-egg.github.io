@@ -359,7 +359,7 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
 6. Whether the attack roll succeeds or fails:
 
-    a. The target gets a -1 onslaught penalty to Defense until their next turn.[^new-when-onslaught-penalty]
+    a. The target gets a -1 onslaught penalty to Defense until the start of their next turn.[^new-when-onslaught-penalty]
 
 7. If the attack roll fails:
 
