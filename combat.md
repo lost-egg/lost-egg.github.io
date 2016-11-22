@@ -250,15 +250,17 @@ Cover is limited as makes sense given the actual terrain. For example, if you're
 ### Withdraw
 
 **Defense** ---  
-**Action** Simple; **Duration** Instant  
+**Cost** 10i; **Action** Simple; **Duration** Instant  
 **Keywords** Flurry, Movement  
 **Requirement** You're at medium or greater range from all opponents.
 
 You cover ground 1 away from all opponents.
 
-The first time you use this action, start a (Dexterity + Athletics) extended roll against difficulty 1, with an interval of one round and a goal of 10. You get -3 on the roll if you're in difficult terrain. You have to use this action on each of your turns to continue the extended roll; if you don't use this action on one of your turns, you have to start over.
+The first time you use this action, start a (Dexterity + Athletics) extended roll against difficulty 1, with an interval of one round and a goal of 10. You get -3 on the roll if you're in difficult terrain.
 
-Each time you make an individual roll, you lose 10i. If you succeed on the extended roll, you cover ground 1 away from all opponents. If you're already at extreme range from all opponents, you exit the battlefield completely.
+You have to use this action on each of your turns to continue the extended roll. If you don't use this action on one of your turns, you have to start over.
+
+If you succeed on the extended roll, you cover ground 1 away from all opponents. If you're already at extreme range from all opponents, you exit the battlefield completely.
 
 ### Other Simple Action
 
