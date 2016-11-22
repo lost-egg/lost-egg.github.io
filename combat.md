@@ -51,7 +51,7 @@ A battlefield is divided up into **zones**.[^new-zones] These don't need to be p
 
 [^new-zones]: The original text only uses ranges and range bands, not zones. Zones are used here to increase clarity of play for most readers. The mechanical end result is effectively the same as the original text's use of range bands, but slightly more formalized.
 
-Characters who are side-by-side or who are engaged in combat which each other are at **close range**. Characters need to be at close range to target each other with close combat weapons. Different groups of characters can be at close range with each other in the same zone, treating their own group as close range and the rest of the zone as short range.
+Characters who are within arms' reach of each other or engaged in melee combat are at **close range**. Characters need to be at close range to target each other with close combat weapons. Different groups of characters can be at close range with each other in the same zone, treating their own group as close range and the rest of the zone as short range.
 
 Characters in the same zone are at **short range** from each other. They aren't in reach of each other, but can easily go to close range from there, and have no problems attacking each other with ranged combat weapons.
 
