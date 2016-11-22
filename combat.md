@@ -549,7 +549,7 @@ If you're known and trusted by the members of a battle group, and you have some 
 
 #### Order
 
-**Defense** -1; **Flurry** no  
+**Defense** -1  
 **Action** Simple; **Duration** Instant  
 **Requirement** A battle group will follow your commands.
 
@@ -557,7 +557,7 @@ Declare an order and roll ([Charisma, Appearance, or Intelligence] + War) agains
 
 #### Rally
 
-**Defense** -1; **Flurry** no  
+**Defense** -1  
 **Action** Simple; **Duration** Instant  
 **Requirement** A battle group will follow your commands, and it failed a rout check but hasn't yet dissolved.
 
@@ -565,7 +565,7 @@ Roll ([Charisma or Appearance] + War) against the difficulty of the failed rout 
 
 #### Rally for Numbers
 
-**Defense** -1; **Flurry** no  
+**Defense** -1  
 **Action** Simple; **Duration** Instant  
 **Requirement** A battle group will follow your commands, and it's suffered Magnitude damage.
 
