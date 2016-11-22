@@ -236,7 +236,7 @@ If you've already used a [Move](#move) action this turn, you can still use Rush 
 **Action** Simple; **Duration** Instant  
 **Keywords** Movement
 
-Roll (Dexterity + Dodge) at a difficulty set by the ST depending on how much cover is available. Difficult terrain should usually have a low difficulty, while places like open fields should have a high or impossible difficulty. If you succeed, you benefit from light, heavy, or total cover as appropriate.
+Roll (Dexterity + Dodge) at a difficulty set by the ST depending on how much cover is available. If you succeed, you benefit from light, heavy, or total cover as appropriate.
 
 * *light cover:* Things that shield about half your body, like standing behind an overturned table or a full-sized oxcart. +1 Defense.
 * *heavy cover:* Things that shield most of your body, like firing arrows from a small window in a stone wall or standing behind the bulk of an elephant. +2 Defense.
