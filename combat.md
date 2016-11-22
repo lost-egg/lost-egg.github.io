@@ -39,7 +39,7 @@ If you end three consecutive turns in Crash, your Initiative resets to your base
 
 If you Crash another character (by any means), you gain a +5i **Break** bonus. You can't get the Break bonus by Crashing a character on the round that character recovered from Crash or on the round after that.
 
-If you Crash yourself, whichever character is most responsible for causing that self-Crash (at the GM's discretion) gets the Break bonus.
+If you Crash yourself, whichever character is most responsible for causing that self-Crash (at the ST's discretion) gets the Break bonus.
 
 If a character Crashes you, and while you're in that Crash you Crash them, you **Shift**. Your Initiative resets to your base Initiative if it's lower than that, and you roll Join Battle as if you were joining combat and add the result to your Initiative. Then your turn starts over, and you can use a full set of actions again during the same turn. During the rest of that turn, if you attack, you can only attack the character you put in Crash in order to achieve Shift.
 
@@ -193,7 +193,7 @@ You cover ground 1.
 **Defense Mod** -1; **Flurry** yes  
 **Action** Simple; **Duration** Instant
 
-You ready or unready a weapon, or both. You can treat a set of small, identical weapons (such as throwing knives) like one weapon for the purpose of readying. How many weapons you can have ready is up to your GM,[^new-readied-weapons] but as a guideline you can usually have up to two large weapons ready (such as a sword in each hand) and any number of small weapons ready (such as a set of throwing knives strapped to your hip). Any weapon ready in your off-hand gets a -1 penalty to attacks.[^off-hand-penalty]
+You ready or unready a weapon, or both. You can treat a set of small, identical weapons (such as throwing knives) like one weapon for the purpose of readying. How many weapons you can have ready is up to your ST,[^new-readied-weapons] but as a guideline you can usually have up to two large weapons ready (such as a sword in each hand) and any number of small weapons ready (such as a set of throwing knives strapped to your hip). Any weapon ready in your off-hand gets a -1 penalty to attacks.[^off-hand-penalty]
 
 [^new-readied-weapons]: The original text doesn't give any guidelines for readying multiple weapons. Common-sense guidelines for multiple weapons have been added here.
 
@@ -201,7 +201,7 @@ You ready or unready a weapon, or both. You can treat a set of small, identical 
 
 If you expect combat---or start it yourself---you can start combat with any weapons of your choice ready to attack with. If you're attacked without expecting it, you usually don't start combat with any weapons ready.[^paranoid]
 
-[^paranoid]: If you're the sort of person who's so paranoid that you keep a weapon ready at all times, you should make sure the GM knows that ahead of time. After all, if you always walk around with a sword or a spear in hand, people might start suspecting that you want to attack them.
+[^paranoid]: If you're the sort of person who's so paranoid that you keep a weapon ready at all times, you should make sure the ST knows that ahead of time. After all, if you always walk around with a sword or a spear in hand, people might start suspecting that you want to attack them.
 
 Your natural weapons, like fists or claws, are always ready.
 
@@ -236,7 +236,7 @@ If you've already used a [Move](#move) action this turn, you can still use Rush 
 **Action** Simple; **Duration** Instant  
 **Keywords** Movement
 
-Roll (Dexterity + Dodge) at a difficulty set by the GM depending on how much cover is available. Difficult terrain should usually have a low difficulty, while places like open fields should have a high or impossible difficulty. If you succeed, you benefit from light, heavy, or total cover as appropriate.
+Roll (Dexterity + Dodge) at a difficulty set by the ST depending on how much cover is available. Difficult terrain should usually have a low difficulty, while places like open fields should have a high or impossible difficulty. If you succeed, you benefit from light, heavy, or total cover as appropriate.
 
 * *light cover:* Things that shield about half your body, like standing behind an overturned table or a full-sized oxcart. +1 Defense.
 * *heavy cover:* Things that shield most of your body, like firing arrows from a small window in a stone wall or standing behind the bulk of an elephant. +2 Defense.
@@ -268,7 +268,7 @@ You can do anything not listed that would make sense as a Simple action. This in
 
 **Gambits** are a special kind of decisive attack. They use the same combat resolution as decisive attacks except for the differences noted for gambits (see [Resolving Attacks](#resolving-attacks)), and instead of dealing damage have special effects, like disarming or grappling an opponent. These are particularly useful for negating the advantages of powerful or hard-to-hurt opponents, or for ending fights without actually hurting anyone.
 
-Some unique opponents may require the use of special gambits to defeat, like tangling the many heads of a hydra or decapitating otherwise deathless zombies. The GM provides the details of these as needed, but characters might need to research the tactics needed first for things that aren't common knowledge.
+Some unique opponents may require the use of special gambits to defeat, like tangling the many heads of a hydra or decapitating otherwise deathless zombies. The ST provides the details of these as needed, but characters might need to research the tactics needed first for things that aren't common knowledge.
 
 ### Disarm
 
@@ -472,7 +472,7 @@ Mounts usually don't have their own actions or Initiative. For a mount without i
 
 ## Battle Groups
 
-When there are more than two participants in combat who are allies, mechanically fairly similar, and who aren't individually important to the GM's story, they should be tracked as a **battle group**. A battle group works mechanically like a single character, but represents the coordinated action of multiple combatants.
+When there are more than two participants in combat who are allies, mechanically fairly similar, and who aren't individually important to the ST's story, they should be tracked as a **battle group**. A battle group works mechanically like a single character, but represents the coordinated action of multiple combatants.
 
 Battle groups always use withering attacks, and instead of taking Initiative damage or health damage, take all damage to a special **Magnitude Track** that represents the morale and cohesiveness of the group. A battle group's Initiative is only used to keep track of the battle group's place in the turn order, and never increases or decreases.
 
