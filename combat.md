@@ -137,11 +137,9 @@ If one of those attacks succeeds against your Parry, the attacker chooses to app
 ### Disengage
 
 **Defense** ---  
-**Action** Simple; **Duration** Instant  
+**Cost** 2i; **Action** Simple; **Duration** Instant  
 **Keywords** Flurry, Movement  
 **Requirement** You're at close range with an opponent.
-
-When you use this action, you lose 2i.
 
 Make a (Dexterity + Dodge) opposed roll against the (Dexterity + Athletics) of any opponents at close range who want to stop you from exiting close range. You get -3 if you're in difficult terrain.
 
@@ -159,8 +157,8 @@ Make a [concealment roll](#concealment-roll) against all opponents who are aware
 
 ### Full Defense
 
-**Cost** 1i; **Defense** +2  
-**Action** Simple; **Duration** Instant  
+**Defense** +2  
+**Cost** 1i; **Action** Simple; **Duration** Instant  
 **Keywords** Flurry, Perilous  
 **Requirement** You aren't in Crash.
 
