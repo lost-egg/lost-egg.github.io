@@ -150,7 +150,7 @@ If you lose, you don't get to exit close range.
 ### Establish Surprise
 
 **Defense** ---  
-**Action** Simple; **Duration** ---  
+**Action** Simple; **Duration** Instant  
 **Requirement** You're somewhere it's reasonable to break line of sight and hide.
 
 Make a [concealment roll](#concealment-roll) against all opponents who are aware of your presence. You're concealed against any opponents you win against.
