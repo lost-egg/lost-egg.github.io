@@ -139,7 +139,7 @@ If one of those attacks succeeds against your Parry, the attacker chooses to app
 **Defense** ---  
 **Action** Simple; **Duration** Instant  
 **Keywords** Flurry, Movement  
-**Requirement** You're at close range with any opponents.
+**Requirement** You're at close range with an opponent.
 
 When you use this action, you lose 2i.
 
