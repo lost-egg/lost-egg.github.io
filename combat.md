@@ -23,11 +23,11 @@ Your Initiative can rise or fall to any number. If an effect increases or lowers
 
 If you have low Initiative and haven't acted yet, and you increase your Initiative to greater than that of other characters who have already acted, you take your turn on the next tick. No matter how your Initiative changes, you only take your turn once in a given a round.
 
-If you would take your turn but want to wait, you can delay your action to a later tick. If you do, you lose 2i, but you can take your action on any tick later in the round than your original Initiative, including on the same tick as another character. This can be useful to set up [Clash attacks](#clashes) or for coordinating a fight with your allies.
+If you would take your turn but want to wait, you can delay your action to a later tick. This costs 2i, but you can take your action on any tick later in the round than your original Initiative, including on the same tick as another character. This can be useful to set up [Clash attacks](#clashes) or for coordinating a fight with your allies.
 
 ## Crash
 
-If your Initiative falls to 0 or lower, you're in **Crash** as long as you have a Initiative that's 0 or lower. If you're in Crash because of your own actions (such as actions or Charms that cost Initiative), you lose an additional 5i.
+If your Initiative falls to 0 or lower, you're in **Crash** as long as you have a Initiative that's 0 or lower. If you Crash yourself, such as by using actions or Charms that cost Initiative, you lose an additional 5i.
 
 While you're in Crash, withering attacks can continue to lower your Initiative, and you're subject to the following effects:
 
