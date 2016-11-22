@@ -88,7 +88,7 @@ Each turn, you can use one **Simple** action and any number of **Reflexive** act
 
 You can **flurry** to take a second Simple action in a round, but it has to be a different action from the first. When you flurry, you get -3 to any rolls used by either Simple action, and you get -1 to your Defense until your next turn. Some actions can't be used on a turn when you flurry.
 
-If an action gives you a Defense modifier, then you get that bonus or penalty to Defense for one round.
+If an action gives you a Defense modifier, then you get that bonus or penalty to Defense from when you declare the action until the start of your next turn.
 
 Some actions have the **Movement** keyword. You can only use one Movement action in a turn, unless another rule says otherwise.
 
@@ -120,7 +120,7 @@ If you're casting a spell, using an effect from an Ability or martial art that i
 **Defense Mod** ---; **Flurry** yes  
 **Action** Simple; **Duration** Instant
 
-You you a weapon you have ready (see [Ready Weapon](#ready-weapon)) to make an attack against a target. See [Resolving Attacks](#resolving-attacks).
+You use a readied weapon to make an attack against a target. See [Ready Weapon](#ready-weapon) and [Resolving Attacks](#resolving-attacks).
 
 ### Defend Other
 
