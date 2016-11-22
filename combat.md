@@ -157,8 +157,9 @@ Make a [concealment roll](#concealment-roll) against all opponents who are aware
 
 ### Full Defense
 
-**Defense Mod** +2; **Flurry** special  
+**Cost** 1i; **Defense Mod** +2; **Flurry** special  
 **Action** Simple; **Duration** Instant  
+**Keywords** Perilous
 **Requirement** You aren't in Crash.
 
 This action doesn't do anything by itself, but it has a positive Defense modifier.
