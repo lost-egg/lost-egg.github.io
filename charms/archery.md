@@ -86,6 +86,22 @@ If the supplemented attack deals at least three levels of damage, the attack's t
 
 ## Essence 2
 
+### Hanging Judgment Arc[^no-decisive]
+
+**Prerequisites** Archery 4, Essence 2, [Fiery Arrow Attack](#fiery-arrow-attack)  
+**Cost** 6m; **Action** Reflexive; **Duration** Instant
+**Requirement** You just rolled Join Battle, and you're in a place where you can fire an arrow upward without it getting stuck in the ceiling.
+
+Declare a specific location within range of your unmodified Archery attack, not occupied by an enemy, and not separated from you by an enclosed area. You may also choose to declare a specific enemy. You fire an arrow into the air, which isn't resolved as an attack, but is noted with your Initiative at the time of using this Charm. The arrow stays high in the air until one of the conditions listed below is fulfilled.
+
+If an enemy enters or crosses through the declared location, which must be he specific enemy if one was declared, the arrow comes down and strikes at the enemy. This is treated as a decisive Archery attack by you, except that it uses the Initiative you had when you used this Charm, uses your unmodified attack pool, and gets the benefits of [Fiery Arrow Attack](#fiery-arrow-attack) for free. If you declared a specific enemy, the attack also gets +(Essence) and +(Essence)s to the attack roll and +(Essence)s to the damage roll. If the attack damages the enemy, your Initiative doesn't reset at the end of attack resolution.
+
+If the attack isn't triggered and you are crashed, slain, or the scene ends, the arrow strikes the location and sets fire to any flammable objects there.
+
+**Unlock (Archery 5, Essence 3):** You can use this Charm with a Cost of 8m to change its duration to Indefinite and give the triggered attack a base damage of 17. With this use of the Charm, the arrow only comes down if the attack is triggered or you end commitment to the Charm while alive.
+
+**Unlock (Archery 5, Essence 4):** The mode granted by this Charm's first unlock is Stackable up to (Essence) times.
+
 ### There Is No Wind[^no-dual]
 
 **Prerequisites** Archery 5, Essence 2, [Sight Without Eyes](#sight-without-eyes)  
@@ -160,6 +176,15 @@ This Charm's effect is bright enough to be seen for miles. Every concealed chara
 [^shadow-for-cover]: The original text notes characters “using shadow for cover”. This has been rephrased for mechanical clarity, as distinct from actual cover.
 
 ## Essence 3
+
+### Nova Arrow Attack[^no-decisive]
+
+**Prerequisites** Archery 5, Essence 3, [Dazzling Flare Attack](#dazzling-flare-attack)  
+**Cost** 6m, 1wp; **Action** Simple; **Duration** Instant
+
+Choose a location within range of your Archery attacks. You fire an arrow at this location, which then explodes. The explosion is an unblockable decisive attack with an attack roll of (your Initiative, maximum 10) and damage of (your Initiative). This attack is rolled once but applied against everything within close range to the chosen location. Each character who is hit by or dodges the attack is thrown one range band away from you. Each character hit by the attack also lands prone and loses 1i. If the explosion damages a battle group, that battle group gets -2s on its next attack.
+
+If the attack doesn't hit at least one enemy character, your Initiative doesn't reset to base Initiative, even if the explosion destroys scenery and objects.
 
 ### Seven Omens Shot[^no-decisive]
 
@@ -274,6 +299,17 @@ Make a withering Archery attack against the triggering attacker. Add +(Essence)s
 
 **Upgrade (Essence 5):** Remove the Perilous keyword. You can spend Initiative on this Charm even while crashed, reducing your Initiative into the negatives.
 
+### Hell-Heeling Arrow[^no-decisive]
+
+**Prerequisites** Archery 5, Essence 4, [Nova Arrow Attack](#nova-arrow-attack), [Searing Sunfire Interdiction](#searing-sunfire-interdiction)  
+**Cost** 13m, 1wp; **Action** Simple, 1/battle; **Duration** Instant
+
+This Charm functions as [Nova Arrow Attack](#nova-arrow-attack), except that the explosion attack is enhanced and the explosion doesn't immediately happen. Instead, the arrow smokes menacingly. Any character who moves (or is moved) within close or short range of the arrow triggers the explosion, unless they succeed at a Disengage action with difficulty 5.
+
+If the explosion happens, it uses an attack pool of (Essence + Initiative, maximum 12) and a damage pool of (Initiative), and it doesn't reset your Initiative even if it hits a character. Also, any characters rendered prone by the attack are lit on fire, subject to bonfire damage (4L/round) until the fire is put out.
+
+*Reset:* You roll Join Battle.
+
 ### Streaming Arrow Stance
 
 **Prerequisites** Archery 5, Essence 4, [Finishing Snipe](#finishing-snipe)  
@@ -290,3 +326,21 @@ You can attack crashed targets at medium or long range without needing to Aim fi
 **Requirement** The attack benefits from Aim.
 
 Add +(Essence) to the attack's damage.
+
+### Solar Judgment Flare[^no-decisive]
+
+**Prerequisites** Archery 5, Essence 5, [Heart-Eating Incineration](#heart-eating-incineration), [Nova Arrow Attack](#nova-arrow-attack)  
+**Cost** 3m, 1wp plus Xm; **Action** Simple; **Duration** Instant  
+**Requirement** You have Initiative of 15 or more.[^solar-judgment-flare-unclear]
+
+[^solar-judgment-flare-unclear]: This is a best-guess interpretation of the original text's wording.
+
+Make an Archery attack against a target at least three range bands away. This attack doesn't require Aim. The attack deals an additional (Essence or 3, whichever is higher) automatic damage and the damage roll is increased by X, to a maximum of (Initiative ÷ 2, rounded up). If the attack deals damage, the target is thrown backwards one range band for every 3 health levels lost.
+
+If the target is a ship made of natural materials, every three successes on the damage roll equates to a point of hull damage.
+
+If the target is a battle group, the battle group's next rout check gets -2s, whether the attack hits or not.
+
+Whether the attack hits the target or not, everything and everyone within (Initiative ÷ 5, rounded up) range bands behind where the arrow strikes is subject to a high intensity bonfire (6L/round).[^no-fiat-damage]
+
+[^no-fiat-damage]: The original text notes that scenery takes "fiat damage". That has been left out, as bonfire effects are likely to be the fiat damage used in the first place.
