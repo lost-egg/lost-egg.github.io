@@ -226,7 +226,7 @@ Make a (Dexterity + Athletics) opposed roll against a target at short range. You
 
 If you win, the next time that target covers ground, you immediately take a Reflexive action to cover ground 1 to follow them. Unless it's physically impossible to follow an opponent, the Reflexive action isn't optional.
 
-Using this action while concealed against any opponent ends your concealment.
+Using this action while concealed ends your concealment.
 
 If you've already used a [Move](#move) action this turn, you can still use Rush as though you hadn't used a Movement action this turn.
 
