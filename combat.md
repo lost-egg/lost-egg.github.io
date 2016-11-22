@@ -212,7 +212,7 @@ Your natural weapons, like fists or claws, are always ready.
 **Keywords** Movement  
 **Requirement** You're prone.
 
-You get up from being rendered [prone](#prone).
+You get up from being [prone](#prone).
 
 If an opponent is at close range, you have to roll (Dexterity + Dodge) against difficulty 2. If you fail, you don't get up.
 
