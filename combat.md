@@ -47,7 +47,7 @@ If you're in Crash because of your own actions, you can't Shift.
 
 ## Positioning and Movement
 
-A battlefield is divided up into **zones**.[^new-zones] These don't need to be precisely measured areas (and usually shouldn't be), but should instead be a way to quickly divide up the local terrain. Generally, the denser the terrain and the harder it is to be mobile, and the busier it is, the smaller the zones should be.For example, in a crowded city, each city block might be a zone, while in more open terrain a huge open field could be a single zone. The **range** from one character to another depends on the zones that they're in.
+A battlefield is divided up into **zones**.[^new-zones] These don't need to be precisely measured areas (and usually shouldn't be), but should instead be a way to quickly divide up the local terrain. Generally, the denser the terrain and the harder it is to be mobile, and the busier it is, the smaller the zones should be. For example, in a crowded city, each city block might be a zone, while in more open terrain a huge open field could be a single zone. The **range** from one character to another depends on the zones that they're in.
 
 [^new-zones]: The original text only uses ranges and range bands, not zones. Zones are used here to increase clarity of play for most readers. The mechanical end result is effectively the same as the original text's use of range bands, but slightly more formalized.
 
