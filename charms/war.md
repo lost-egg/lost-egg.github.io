@@ -47,7 +47,7 @@ You spend the Action drilling with a siege weapon crew. The crew gets +1s to att
 **Prerequisites** War 3, Essence 1, [Holistic Battle Understanding](#holistic-battle-understanding)  
 **Cost** 5m; **Action** Reflexive; **Duration** One scene  
 
-While an enemy leader is part of the battle, and your Initiative is higher than theirs, your Order actions get +X to their rolls, where X is the (your battle group's Size - opposing battle group's Size, minimum 0).
+While an enemy leader is part of the battle, and your Initiative is higher than theirs, your Order actions get +X to their rolls, where X is (your battle group's Size - opposing battle group's Size, or opposing battle group's Size - your battle group's Size, whichever is greater).
 
 ### League of Iron Preparation[^changed-action][^changed-duration]
 
