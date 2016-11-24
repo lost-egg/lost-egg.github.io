@@ -6,3 +6,4 @@ title: Lost Egg
 * [Social Influence](/social-influence)
 * Charms
   * [Archery](/charms/archery)
+  * [War](/charms/war)
