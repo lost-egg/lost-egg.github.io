@@ -42,7 +42,7 @@ For the supplemented Order's roll, double each 9.
 
 You spend the Action drilling with a siege weapon crew. The crew gets +1s to attack with the weapon and can reroll each non-success, for one attack if you spend one minute on the Action, or for one scene if you spend one hour.
 
-### Unstoppable Solar Conqueror[^changed-action]
+### Unstoppable Solar Conqueror
 
 **Prerequisites** War 3, Essence 1, [Holistic Battle Understanding](#holistic-battle-understanding)  
 **Cost** 5m; **Action** Reflexive; **Duration** One scene  
