@@ -28,7 +28,7 @@ You ignore any penalties on the Strategic Maneuver roll for not knowing about th
 
 ### Ideal Battle Knowledge Prana
 
-**Prerequisites** War 2, Essence 1
+**Prerequisites** War 2, Essence 1  
 **Cost** 3m; **Supplements** [Order](/combat/#order); **Duration** Instant
 
 For the supplemented Order's roll, double each 9.
@@ -172,7 +172,7 @@ If the opposing leader wins the Strategic Maneuver roll and employs a special ma
 ### One With Five Forces
 
 **Prerequisites** War 5, Essence 4, [Four Glories Meditation](#four-glories-meditation)  
-**Cost** 5m; **Action** Reflexive; **Duration** Instant
+**Cost** 5m; **Action** Reflexive; **Duration** Instant  
 **Requirement** Your battle group successfully attacks another battle group, and the opposing battle group benefits from an Order.
 
 The attack deals no damage. Choose one:
