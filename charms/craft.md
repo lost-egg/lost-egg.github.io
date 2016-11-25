@@ -2,6 +2,9 @@
 title: Craft Charms
 ---
 
+{:toc}
+* TOC
+
 [^changed-action]: This Charm has a different action in the source text, but has been changed here to better reflect how it's used in play.
 
 [^changed-duration]: This Charm has a different duration in the source text, but has been changed here to better reflect how it's used in play.
