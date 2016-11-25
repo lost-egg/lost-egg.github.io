@@ -572,3 +572,65 @@ Roll ([Charisma or Appearance] + War) against the difficulty of the failed rout 
 Roll ([Charisma or Appearance] + War) against difficulty 1. The battle group gains (total successes ÷ 2, rounded down) Magnitude, up to the total possible for its average health levels and Size.
 
 A battle group can only benefit from this action once per battle, plus once after each time it loses a point of Size.
+
+## Naval Combat
+
+**Naval combat** plays out in rounds, with the initial turn order determined by the ST. Only the captains of each ship in combat take actions, and each captain has a pool of **Momentum** points that start at 0 and have a minimum of 0.
+
+At the start of each captain's turn, that captain declares an enemy ship to **oppose** until the start of his next turn. If this isn't the same ship he opposed his last turn, his Momentum is set to 0. Then, the captain chooses a **naval stratagem**, and makes the listed roll for that stratagem as an opposed roll against the opposed ship's captain. This opposed roll is a **Naval Maneuver** roll. The captain of any ship opposed by at least two other captains gets -2 to Naval Maneuver rolls.
+
+### Positioning
+
+**Cost** ---; **Naval Maneuver** Wits + Sail + Maneuverability
+
+If you win the roll, you get +(threshold successes) Momentum.
+
+### Broadside
+
+**Cost** 5 Momentum; **Naval Maneuver** Wits + Sail + Maneuverability  
+**Requirement** You have ship-to-ship weaponry, combat sorcery, or another source of large-scale attacks available.
+
+If you win the roll, you deal 1 Hull damage to the opposing ship, or 2 Hull damage if you're using sorcery or First Age weapons.
+
+### Concealment
+
+**Cost** 2 Momentum; **Naval Maneuver** Wits + Sail + Maneuverability
+**Requirement** Conditions allow concealment, such as heavy fog or a lagoon full of shipping.
+
+If you win the roll, you get +(threshold successes) Momentum, and your next Naval Maneuver roll in this battle gets +3.
+
+### Escape
+
+**Cost** 12 Momentum; **Naval Maneuver** Wits + Sail + Speed
+
+If you win the roll, your ship exits battle. Enemies must successfully pursue to enter battle with you again.
+
+### Ram
+
+**Cost** 7 Momentum; **Naval Maneuver** Wits + Sail + Maneuverability
+
+If you win the roll, you deal (1 + [threshold successes ÷ 3]) Hull damage to the opposing ship. If your ship isn't fitted with a ram, it also takes the same damage.
+
+### Boarding Action
+
+**Cost** 8 Momentum; **Naval Maneuver** Wits + Sail + Maneuverability
+
+If you win the roll, your crew boards the opposing ship. Play this out as regular combat, except that all fighters involved are subject to the effects of the Back to the Sea stratagem (see page 212 of *Exalted 3*).
+
+### Seize the Initiative!
+
+**Cost** 10 Momentum; **Naval Maneuver** Wits + Sail + Maneuverability
+
+If you win the roll, your crew boards the opposing ship. Play this out as regular combat, except that all fighters involved are subject to the effects of the Back to the Sea stratagem (see page 212 of *Exalted 3*), and the opposing ship's crew gets -2 to Defense during the first round.
+
+### Shock and Board
+
+**Cost** 12 Momentum; **Naval Maneuver** Wits + Sail + Maneuverability
+
+If you win the roll, your crew boards the opposing ship. Play this out as regular combat, except that all fighters involved are subject to the effects of the Back to the Sea stratagem (see page 212 of *Exalted 3*), and the opposing ship's crew must succeed at a (Dexterity + [Athletics or Sail]) roll at a difficulty of (your Sail + threshold successes on the Naval Maneuver roll) or begin combat prone.
+
+### Drowning Tide
+
+**Cost** 15 Momentum; **Naval Maneuver** Wits + Sail + Maneuverability
+
+If you win the roll, your crew boards the opposing ship. Play this out as regular combat, except that all fighters involved are subject to the effects of the Back to the Sea stratagem (see page 212 of *Exalted 3*), and the opposing ship's crew gets -2 to Defense during the first round, and the opposing ship's crew must succeed at a (Dexterity + [Athletics or Sail]) roll at a difficulty of (your Sail + threshold successes on the Naval Maneuver roll) or begin combat prone.
