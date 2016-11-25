@@ -2,6 +2,9 @@
 title: Abilities
 ---
 
+{:toc}
+* TOC
+
 [^flurry-guesswork]: The original work doesn't list whether this action can be flurried or not. This is listed as a best-guess interpretation.
 
 [^type-guesswork]: The original work doesn't list an action type for this action. This is listed as a best-guess interpretation.
