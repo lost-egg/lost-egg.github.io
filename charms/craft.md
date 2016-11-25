@@ -38,13 +38,6 @@ For the supplemented roll, reroll each 10.
 
 **Upgrade (Craft 3):** Also reroll each 6.
 
-### Triumph-Forging Eye[^changed-action]
-
-**Prerequisites** Craft 2, Essence 1, [Flawless Handiwork Method](#flawless-handiwork-method)  
-**Cost** ---; **Supplements** Craft Excellency (1/week); **Duration** Instant
-
-The supplemented Craft Excellency has a Cost of 0m.
-
 ### Tireless Workhorse Method
 
 **Prerequisites** Craft 2, Essence 1  
@@ -52,16 +45,12 @@ The supplemented Craft Excellency has a Cost of 0m.
 
 You get +(Essence × 2) major project slots. If your Essence increases later, your major project slots increase appropriately.
 
-### Supreme Masterwork Focus
+### Triumph-Forging Eye[^changed-action]
 
-**Prerequisites** Craft 3, Essence 1, [Flawless Handiwork Method](#flawless-handiwork-method)  
-**Cost** 6m; **Supplements** Craft roll for a basic or major project; **Duration** Instant
+**Prerequisites** Craft 2, Essence 1, [Flawless Handiwork Method](#flawless-handiwork-method)  
+**Cost** ---; **Supplements** Craft Excellency (1/week); **Duration** Instant
 
-For the supplemented roll, double each 9.
-
-**Upgrade (Craft 5, Essence 2):** You can use the Charm with a Cost of 5m, 1wp, 1gxp to supplement a basic, major, or superior project and to instead each 8.
-
-**Upgrade (Craft 5, Essence 3):** You can use the Charm with a Cost of 2m, 1wxp to supplement any Craft roll and to instead double each 7.
+The supplemented Craft Excellency has a Cost of 0m.
 
 ### Brass Scales Falling[^changed-action]
 
@@ -91,6 +80,17 @@ If you also benefit from Craftsman Needs No Tools, change the Action to Dramatic
 You can work on the task (including projects) without needing tools or a workshop. If the task is a basic or major project, the total time to complete it is reduced to seconds or minutes.
 
 If you use tools to aid in the task, the Cost is 4m.
+
+### Supreme Masterwork Focus
+
+**Prerequisites** Craft 3, Essence 1, [Flawless Handiwork Method](#flawless-handiwork-method)  
+**Cost** 6m; **Supplements** Craft roll for a basic or major project; **Duration** Instant
+
+For the supplemented roll, double each 9.
+
+**Upgrade (Craft 5, Essence 2):** You can use the Charm with a Cost of 5m, 1wp, 1gxp to supplement a basic, major, or superior project and to instead each 8.
+
+**Upgrade (Craft 5, Essence 3):** You can use the Charm with a Cost of 2m, 1wxp to supplement any Craft roll and to instead double each 7.
 
 ### Efficient Craftsman Technique
 
