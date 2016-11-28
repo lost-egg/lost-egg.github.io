@@ -34,22 +34,22 @@ You can see (but not touch) immaterial spirits.
 
 ### Uncanny Perception Technique
 
-**Prerequisites** Occult 2, Essence 1, Spirit-Detecting Glance  
-**Cost** ---; **Action** Reflexive; **Duration** Instant
+**Prerequisites** Occult 2, Essence 1, [Spirit-Detecting Glance](#spirit-detecting-glance)  
+**Cost** ---; **Action** Reflexive; **Duration** Instant  
 **Requirement** A spirit or Fair Folk is within range of your senses (whether material or not).
 
 You experience a synaesthetic sensory phenomena that alerts you to the presence of the spirit or Fair Folk. Any attempt you make in the same scene to notice this being with Awareness gets +(Occult ÷ 2, rounded up).
 
 ### Keen Unnatural Eye
 
-**Prerequisites** Occult 3, Essence 1, Uncanny Perception Technique  
+**Prerequisites** Occult 3, Essence 1, [Uncanny Perception Technique](#uncanny-perception-technique)  
 **Permanent**
 
 Whenever you use the [Tracking](/abilities#tracking) action to track a spirit, or the [Case Scene](/abilities#case-scene) action in relation to a spirit's actions, you get +(Essence or 3, whichever is greater) to the roll.
 
 ### Spirit-Cutting Attack[^no-uniform]
 
-**Prerequisites** Occult 2, Essence 1, Spirit-Detecting Glance
+**Prerequisites** Occult 2, Essence 1, [Spirit-Detecting Glance](#spirit-detecting-glance)  
 **Cost** 1m; **Supplements** attack against an immaterial spirit; **Duration** Instant
 
 The supplemented attack can hit and damage immaterial spirits normally.
@@ -58,7 +58,7 @@ If you're not benefiting from Spirit-Detecting Glance or a similar effect in reg
 
 ### Spirit-Draining Stance
 
-**Prerequisites** Occult 3, Essence 1, Spirit-Cutting Attack  
+**Prerequisites** Occult 3, Essence 1, [Spirit-Cutting Attack](#spirit-cutting-attack)  
 **Cost** 5m; **Action** Simple; **Duration** One scene
 
 Your successful withering attacks against spirits add 1 automatic level of damage.
@@ -67,7 +67,7 @@ Your successful withering attacks against spirits add 1 automatic level of damag
 
 ### Ghost-Eating Technique[^no-decisive]
 
-**Prerequisites** Occult 3, Essence 1, Spirit-Cutting Attack
+**Prerequisites** Occult 3, Essence 1, [Spirit-Cutting Attack](#spirit-cutting-attack)  
 **Cost** 3m; **Supplements** decisive attack against a spirit; **Duration** Instant
 
 The supplemented attack deals aggravated damage to spirits, and causes spirits to lose (highest wound penalty inflicted by attack)m from spirits, which you then gain.
@@ -76,22 +76,22 @@ If the supplemented attack kills a spirit, the spirit is destroyed permanently, 
 
 ### Phantom-Seizing Strike[^no-uniform]
 
-**Prerequisites** Occult 4, Essence 1, Ghost-Eating Technique
-**Cost** 1m, 1wp; **Action** Reflexive; **Duration** Instant
+**Prerequisites** Occult 4, Essence 1, [Ghost-Eating Technique](#ghost-eating-technique)  
+**Cost** 1m, 1wp; **Action** Reflexive; **Duration** Instant  
 **Requirement** You hit an immaterial spirit with an attack supplemented by Spirit-Cutting Attack, and the attack's damage roll gets at least 1 success.
 
 The immaterial spirit becomes material for two turns.
 
 ### Spirit-Slaying Stance
 
-**Prerequisites** Occult 5, Essence 1, Phantom-Seizing Strike  
+**Prerequisites** Occult 5, Essence 1, [Phantom-Seizing Strike](#phantom-seizing-strike)  
 **Cost** 3m; **Action** Simple; **Duration** One scene
 
 Your attacks against spirits get +(Essence) to the attack roll.
 
 ### Uncanny Shroud Defense
 
-**Prerequisites** Occult 3, Essence 1, Spirit-Cutting Attack  
+**Prerequisites** Occult 3, Essence 1, [Spirit-Cutting Attack](#spirit-cutting-attack)  
 **Cost** 6m; **Action** Reflexive; **Duration** Instant  
 **Requirement** You are dealt damage that would remove your last health level, and you're not on your last uninjured health level.
 
@@ -100,7 +100,7 @@ You don't lose your last health level (but other damage levels aren't affected).
 ### Spirit-Manifesting Word
 
 **Prerequisites** Occult 2, Essence 1  
-**Cost** 1m; **Action** Simple; **Duration** Instant
+**Cost** 1m; **Action** Simple; **Duration** Instant  
 **Requirement** You have an immaterial spirit ally with you.
 
 One of your immaterial spirit allies may materialize for free without requiring an action.
@@ -116,7 +116,7 @@ You speak and understand Old Realm and old and obscure spirit languages, but can
 
 ### Supernal Control Method[^changed-action]
 
-**Prerequisites** Occult 5, Essence 1, Ancient Tongue Understanding  
+**Prerequisites** Occult 5, Essence 1, [Ancient Tongue Understanding](#ancient-tongue-understanding)  
 **Cost** ---; **Supplements** Occult roll (1/scene); **Duration** Instant
 
 The supplemented roll benefits from a a free full Occult Excellency.
@@ -127,8 +127,8 @@ The supplemented roll benefits from a a free full Occult Excellency.
 
 ### All-Encompassing Sorcerer's Sight[^changed-duration][^consolidated-upgrade]
 
-**Prerequisites** Occult 5, Essence 2, Spirit-Detecting Glance
-**Cost** 4m; **Action** Reflexive; **Duration** One turn
+**Prerequisites** Occult 5, Essence 2, [Spirit-Detecting Glance](#spirit-detecting-glance)  
+**Cost** 4m; **Action** Reflexive; **Duration** One turn  
 **Keywords** Non-Committed
 
 You can see immaterial spirits and invisible or immaterial ongoing sorcerous effects. You can also see the borders of shadowlands and Wyld areas and the entrances to spirit sanctums.
@@ -139,7 +139,7 @@ You can roll (Intelligence + Occult) at a difficulty of (effect's Essence) to de
 
 ### Carnal Spirit Rending[^changed-duration]
 
-**Prerequisites** Occult 5, Essence 2, Ghost-Eating Technique  
+**Prerequisites** Occult 5, Essence 2, [Ghost-Eating Technique](#ghost-eating-technique)  
 **Cost** 5m, 1wp; **Action** Reflexive; **Duration** One scene  
 **Keywords** Non-Committed  
 **Requirement** You permanently destroy a spirit with Ghost-Eating Technique.
@@ -148,7 +148,7 @@ You gain (Essence) powers or traits based on the nature of the destroyed spirit,
 
 ### Burning Exorcism Technique
 
-**Prerequisites** Occult 5, Essence 2, Carnal Spirit Rending  
+**Prerequisites** Occult 5, Essence 2, [Carnal Spirit Rending](#carnal-spirit-rending)  
 **Cost** 3m, 1wp; **Action** Simple; **Duration** Instant
 **Requirement** You have a subject who is possessed by a spirit or suffering from a magical disease.
 
@@ -162,14 +162,14 @@ You can have up to (Essence) spirits or magical diseases stored in your anima wi
 
 ### Breath-Drinker Method[^no-decisive]
 
-**Prerequisites** Occult 4, Essence 2, Spirit-Draining Stance  
+**Prerequisites** Occult 4, Essence 2, [Spirit-Draining Stance](#spirit-draining-stance)  
 **Cost** 4i; **Supplements** decisive attack **Duration** Instant
 
 If the supplemented attack deals damage to a spirit, the spirit loses (health levels damaged)m and you gain (health levels damaged)m, both to a maximum of (your Essence × 2)m.
 
 ### Spirit-Repelling Diagram
 
-**Prerequisites** Occult 3, Essence 2, Spirit-Cutting Attack  
+**Prerequisites** Occult 3, Essence 2, [Spirit-Cutting Attack](#spirit-cutting-attack)  
 **Cost** 6m; **Action** Simple; **Duration** One scene
 
 You create a magical circle that extends out from where you're standing to short range, and lasts for the duration. Roll (Wits + Occult) against the Resolve of each spirit inside the circle, with +(Essence) against normal spirits or +(Essence)s against creatures of darkness. You automatically succeed against any spirits with Essence equal to or lower than your Essence. Any spirits you succeed against must immediately materialize or leave the circle.
@@ -178,14 +178,14 @@ Any spirits with Essence equal to or lower than yours, or that were forced to le
 
 ### Nine Specters Ban
 
-**Prerequisites** Occult 4, Essence 2, Spirit-Repelling Diagram, Uncanny Shroud Defense  
+**Prerequisites** Occult 4, Essence 2, [Spirit-Repelling Diagram](#spirit-repelling-diagram), [Uncanny Shroud Defense](#uncanny-shroud-defense)  
 **Cost** 4m, 1wp; **Action** Reflexive; **Duration** One scene
 
 Any attack against you by an immaterial being costs an extra 1wp to make.
 
 ### Spirit-Caging Mandala[^consolidated-upgrade]
 
-**Prerequisites** Occult 4, Essence 2, Spirit-Repelling Diagram  
+**Prerequisites** Occult 4, Essence 2, [Spirit-Repelling Diagram](#spirit-repelling-diagram)  
 **Cost** 10m, 1wp; **Action** Simple; **Duration** Varies
 
 Choose a spirit at up two range bands from you. You create a magical circle around that spirit. While in the circle, the spirit is treated as material (even if immaterial), and can only attack beyond close range if its target attacked it first.
@@ -202,8 +202,8 @@ If you move more than two range bands away from the spirit, the duration ends an
 
 ### Material Exegesis Prana
 
-**Prerequisites** Occult 4, Essence 2, Spirit-Manifesting Word
-**Cost** 3m, 1wp; **Action** Simple; **Duration** Instant
+**Prerequisites** Occult 4, Essence 2, [Spirit-Manifesting Word](#spirit-manifesting-word)  
+**Cost** 3m, 1wp; **Action** Simple; **Duration** Instant  
 
 Roll (Wits + Occult). For each success, you can choose one immaterial familiar spirit or sorcerously bound demon to materialize for free without an action. If your roll result includes exactly three sixes, all familiar spirits and sorcerously bound demons of your choice can materialize at once, and you get 2wp.
 
@@ -218,7 +218,7 @@ You can learn up to (Essence) thaumaturgic rituals without paying XP.
 
 ### Celestial Circle Sorcery
 
-**Prerequisites** Occult 4, Essence 3, Terrestrial Circle Sorcery  
+**Prerequisites** Occult 4, Essence 3, [Terrestrial Circle Sorcery](#terrestrial-circle-sorcery)  
 **Permanent**  
 **Keywords** Supernal-No
 
@@ -226,7 +226,7 @@ You can learn and cast Celestial Circle spells and participate in appropriate so
 
 ### Soul Projection Method[^changed-action][^consolidated-upgrade]
 
-**Prerequisites** Occult 5, Essence 3, Burning Exorcism Technique  
+**Prerequisites** Occult 5, Essence 3, [Burning Exorcism Technique](#burning-exorcism-technique)  
 **Cost** 6m; **Action** Dramatic; **Duration** Instant  
 **Keywords** Touch
 
@@ -238,7 +238,7 @@ In this state, you're treated like an immaterial being. If the spirit is materia
 
 ### What Light Reveals (Living Specter's Flame)
 
-**Prerequisites** Occult 5, Essence 3, Burning Exorcism Technique  
+**Prerequisites** Occult 5, Essence 3, [Burning Exorcism Technique](#burning-exorcism-technique)  
 **Cost** 6m, 1wp; **Action** Reflexive; **Duration** One scene  
 **Requirement** You have a spirit familiar.
 
@@ -252,7 +252,7 @@ While your anima is at the iconic level, it can use all of the chosen Charms.
 
 ### Anima-Suffused Spirit
 
-**Prerequisites** Occult 5, Essence 3, Material Exegesis Prana  
+**Prerequisites** Occult 5, Essence 3, [Material Exegesis Prana](#material-exegesis-prana)  
 **Cost** 1m + (2 × X)m, Xa; **Action** Reflexive; **Duration** Instant  
 **Requirement** You have a spirit familiar, a summoned elemental, or a sorcerously-bound demon.
 
@@ -260,7 +260,7 @@ One of your spirit familiars, summoned elementals, or sorcerously-bound demons i
 
 ### All Souls Benediction
 
-**Prerequisites** Occult 5, Essence 3, Material Exegesis Prana  
+**Prerequisites** Occult 5, Essence 3, [Material Exegesis Prana](#material-exegesis-prana)  
 **Cost** 16m, 1wp; **Action** Simple; **Duration** One scene  
 **Keywords** Non-Committed
 
@@ -270,24 +270,24 @@ If a ghost would be forced to materialize by this Charm, it may instead immediat
 
 ### Gloaming Eye Understanding
 
-**Prerequisites** Occult 5, Essence 3, Dark-Minder's Observances
-**Cost** 3m; **Action** Reflexive; **Duration** Indefinite
+**Prerequisites** Occult 5, Essence 3, [Dark-Minder's Observances](#dark-minders-observances)  
+**Cost** 3m; **Action** Reflexive; **Duration** Indefinite  
 **Keywords** Stackable (Essence)
 
 You can learn a spirit Charm that could be learned by an Eclipse Caste Solar. You learn this Charm as normal, except you don't need to satisfy Charm prerequisites, and don't pay any xp for it. If you end commitment to this Charm, you lose the learned Charm.
 
 ### Sorcerer's Burning Chakra
 
-**Prerequisites** Occult 5, Essence 4, All-Encompassing Sorcerer's Sight (Burning Eye of the Deliverer)
+**Prerequisites** Occult 5, Essence 4, [All-Encompassing Sorcerer's Sight](#all-encompassing-sorcerers-sight) (Burning Eye of the Deliverer)  
 **Permanent**
 
 Whenever you are at iconic anima, you are treated as having All-Encompassing Sorcerer's Sight active.
 
-Whenever you have Spirit-Detecting Glance and All-Encompassing Sorcerer's Sight active at the same time, you can roll (Attribute + Occult) at a difficulty of (spirit's Essence) to determine the nature and Essence rating of a spirit.
+Whenever you have [Spirit-Detecting Glance](#spirit-detecting-glance) and All-Encompassing Sorcerer's Sight active at the same time, you can roll (Attribute + Occult) at a difficulty of (spirit's Essence) to determine the nature and Essence rating of a spirit.
 
 ### Spirit-Shredding Exorcism
 
-**Prerequisites** Occult 5, Essence 4, Spirit-Caging Mandala (Spirit-Draining Mudra)  
+**Prerequisites** Occult 5, Essence 4, [Spirit-Caging Mandala](#spirit-caging-mandala) (Spirit-Draining Mudra)  
 **Cost** 7m, 1wp; **Action** Reflexive; **Duration** Instant  
 **Requirement** You've trapped a spirit with Spirit-Caging Mandala.
 
@@ -300,14 +300,14 @@ If you reduce the spirit's Essence to 0, the spirit becomes unable to act until 
 ### Spirit-Drawing Oculus
 
 **Prerequisites** Occult 5, Essence 5, [Sorcerer's Burning Chakra](#sorcerers-burning-chakra)  
-**Cost** 1wp, 3a; **Action** Reflexive (1/day); **Duration** Instant
+**Cost** 1wp, 3a; **Action** Reflexive (1/day); **Duration** Instant  
 **Requirement** Your anima is iconic.
 
 Your anima is reduced to dim. Roll (Perception + Occult) with a full free Occult Excellency. You gain (successes)m. These motes must be spent on Craft, Investigation, Medicine, Lore, or Occult Charms, or spent to add an equal amount to the sorcerous mote total of a shaping action.
 
 ### Ephemeral Induction Technique
 
-**Prerequisites** Occult 5, Essence 5, Carnal Spirit Rending, Gloaming Eye Understanding, Spirit-Caging Mandala (Wyld-Binding Prana)
+**Prerequisites** Occult 5, Essence 5, Carnal Spirit Rending, [Gloaming Eye Understanding](#gloaming-eye-understanding), [Spirit-Caging Mandala](#spirit-caging-mandala) (Wyld-Binding Prana)  
 **Cost** 20m, 1wp; **Action** Simple; **Duration** Instant  
 **Keywords** Mute  
 **Requirement** You don't currently have a familiar created with this Charm.
