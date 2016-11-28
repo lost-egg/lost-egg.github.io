@@ -16,6 +16,14 @@ title: Occult Charms
 
 ## Essence 1
 
+### Spirit-Manifesting Word
+
+**Prerequisites** Occult 2, Essence 1  
+**Cost** 1m; **Action** Simple; **Duration** Instant  
+**Requirement** You have an immaterial spirit ally with you.
+
+One of your immaterial spirit allies may materialize for free without requiring an action.
+
 ### Terrestrial Circle Sorcery
 
 **Prerequisites** Occult 3, Essence 1  
@@ -40,6 +48,15 @@ You can see (but not touch) immaterial spirits.
 
 You experience a synaesthetic sensory phenomena that alerts you to the presence of the spirit or Fair Folk. Any attempt you make in the same scene to notice this being with Awareness gets +(Occult ÷ 2, rounded up).
 
+### Ancient Tongue Understanding[^consolidated-upgrade]
+
+**Prerequisites** Occult 3, Essence 1  
+**Cost** 6m; **Action** Reflexive; **Duration** One scene
+
+You speak and understand Old Realm and old and obscure spirit languages, but can't speak or understand other languages. You get +(half Essence, rounded down, minimum 1)s to Occult rolls and shaping actions.
+
+**Upgrade (Six Eternities' Travail---Occult 5, Essence 2):** If you increase the Cost by 1wp, your Occult rolls also get an additional die for each 10 rolled, including on the additional dice, for up to (Essence) total additional dice.
+
 ### Keen Unnatural Eye
 
 **Prerequisites** Occult 3, Essence 1, [Uncanny Perception Technique](#uncanny-perception-technique)  
@@ -55,6 +72,14 @@ Whenever you use the [Tracking](/abilities#tracking) action to track a spirit, o
 The supplemented attack can hit and damage immaterial spirits normally.
 
 If you're not benefiting from Spirit-Detecting Glance or a similar effect in regards to the spirit, the supplemented attack gets -3 to the attack roll.
+
+### Uncanny Shroud Defense
+
+**Prerequisites** Occult 3, Essence 1, [Spirit-Cutting Attack](#spirit-cutting-attack)  
+**Cost** 6m; **Action** Reflexive; **Duration** Instant  
+**Requirement** You are dealt damage that would remove your last health level, and you're not on your last uninjured health level.
+
+You don't lose your last health level (but other damage levels aren't affected).
 
 ### Spirit-Draining Stance
 
@@ -88,31 +113,6 @@ The immaterial spirit becomes material for two turns.
 **Cost** 3m; **Action** Simple; **Duration** One scene
 
 Your attacks against spirits get +(Essence) to the attack roll.
-
-### Uncanny Shroud Defense
-
-**Prerequisites** Occult 3, Essence 1, [Spirit-Cutting Attack](#spirit-cutting-attack)  
-**Cost** 6m; **Action** Reflexive; **Duration** Instant  
-**Requirement** You are dealt damage that would remove your last health level, and you're not on your last uninjured health level.
-
-You don't lose your last health level (but other damage levels aren't affected).
-
-### Spirit-Manifesting Word
-
-**Prerequisites** Occult 2, Essence 1  
-**Cost** 1m; **Action** Simple; **Duration** Instant  
-**Requirement** You have an immaterial spirit ally with you.
-
-One of your immaterial spirit allies may materialize for free without requiring an action.
-
-### Ancient Tongue Understanding[^consolidated-upgrade]
-
-**Prerequisites** Occult 3, Essence 1  
-**Cost** 6m; **Action** Reflexive; **Duration** One scene
-
-You speak and understand Old Realm and old and obscure spirit languages, but can't speak or understand other languages. You get +(half Essence, rounded down, minimum 1)s to Occult rolls and shaping actions.
-
-**Upgrade (Six Eternities' Travail---Occult 5, Essence 2):** If you increase the Cost by 1wp, your Occult rolls also get an additional die for each 10 rolled, including on the additional dice, for up to (Essence) total additional dice.
 
 ### Supernal Control Method[^changed-action]
 
