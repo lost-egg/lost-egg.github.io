@@ -5,9 +5,9 @@ title: Abilities
 {:toc}
 * TOC
 
-[^includes-prior]: This incorporates material from a previous edition of the original text to give more context to vague rules.
+[^includes-previous]: This incorporates material from a previous edition of the original text to give more context to vague rules.
 
-[^from-prior]: This is an adaptation of material from a previous edition of the original text.
+[^from-previous]: This is an adaptation of material from a previous edition of the original text.
 
 [^flurry-guesswork]: The original work doesn't list whether this action can be flurried or not. This is listed as a best-guess interpretation.
 
@@ -23,7 +23,7 @@ Archery represents your ability to fight with non-thrown ranged weapons. It dete
 
 Athletics represents your ability to perform feats of physical fitness and agility.
 
-### Feat of Strength[^includes-prior]
+### Feat of Strength[^includes-previous]
 
 **Action** Dramatic  
 **Requirement** You have Strength 3+.
@@ -274,7 +274,7 @@ If you don't have at least one dot of Linguistics, you're illiterate.
 
 Lore represents your education and your general knowledge of the world.
 
-### Academic Knowledge[^from-prior]
+### Academic Knowledge[^from-previous]
 
 **Action** Reflexive; **Duration** Instant  
 
@@ -380,7 +380,7 @@ Occult represents your knowledge and intuitive understanding of the mystical wor
 
 Performance represents your ability to influence people using artistic performance and through rhetorical speaking. It determines your social influence rolls when using these methods of influence.
 
-### Prayer[^from-prior]
+### Prayer[^from-previous]
 
 **Action** Dramatic
 
