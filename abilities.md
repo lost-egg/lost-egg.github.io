@@ -5,11 +5,59 @@ title: Abilities
 {:toc}
 * TOC
 
+[^includes-prior]: This incorporates material from a previous edition of the original text to give more context to vague rules.
+
+[^from-prior]: This is an adaptation of material from a previous edition of the original text.
+
 [^flurry-guesswork]: The original work doesn't list whether this action can be flurried or not. This is listed as a best-guess interpretation.
 
 [^type-guesswork]: The original work doesn't list an action type for this action. This is listed as a best-guess interpretation.
 
 * **Exceptional success:** 3 or more successes over the difficulty.
+
+## Archery
+
+Archery represents your ability to fight with non-thrown ranged weapons. It determines attack rolls with weapons with the Archery tag, like bows and flame pieces.
+
+## Athletics
+
+Athletics represents your ability to perform feats of physical fitness and agility.
+
+### Feat of Strength[^includes-prior]
+
+**Action** Dramatic  
+**Requirement** You have Strength 3+.
+
+Roll (Strength + Athletics). You can achieve a feat of strength of the given difficulty, but only if you have the required Strength.
+
+| Strength | Difficulty | Lift (lbs.) | Example feats                                          |
+|:--------:|-----------:|------------:|:-------------------------------------------------------|
+|    3+    |          1 |         160 | Lift an anvil, break a wooden board                    |
+|          |          2 |         350 | Lift a bale of cotton, kick a wooden door open         |
+|          |          3 |         550 | Lift a mule, break a metal sword                       |
+|          |          4 |         800 | Lift a horse, bend an iron bar                         |
+|    5+    |          5 |       1,200 | Lift an ox, tie a horseshoe into a knot                |
+|          |          6 |       1,600 | Throw a mule, kick a wooden door to pieces             |
+|          |          7 |       2,000 | Lift a boulder, throw a horse                          |
+|          |          8 |       2,500 | Lift a rhinocerous, snap an iron chain                 |
+|          |          9 |       3,500 | Throw an ox, kick down an iron-shod door               |
+|    7+    |         10 |       4,500 | Lift an elephant, raise a drawbridge by hand           |
+|          |         11 |             | Raise a locked porticullis, punch through wooden gates |
+|          |         12 |             | Pull iron bars out of stone                            |
+|          |         13 |             | Lift a boulder with one hand                           |
+|          |         14 |             | Lift a tyrant lizard                                   |
+|   10+    |         15 |             | Uproot a huge tree                                     |
+|          |         16 |             | Lift a mammoth                                         |
+|          |         17 |             | Pull an entire caravan                                 |
+|          |         18 |             | Lift a huge tree                                       |
+|          |         19 |             | Throw a mammoth                                        |
+|          |         20 |             | Lift a yeddim                                          |
+
+If your dice pool is (difficulty × 3) or greater, you automatically succeed without having to roll.
+
+If you're destroying an object and have an appropriate tool to aid in the job, you get +1s. If it's an artifact, you get +2s instead.
+
+Some specific uses of Feat of Strength might use a different ability than Athletics.
 
 ## Awareness
 
@@ -22,6 +70,16 @@ Brawl represents your ability to fight with your body and natural talent for vio
 ## Bureaucracy
 
 Bureaucracy represents your ability to understand and manipulate organizations and to perform the activities of a merchant.
+
+### Evaluate Goods[^from-previous]
+
+**Action** Dramatic
+
+Roll (Intelligence + Bureaucracy). If you get 1 success, you know the overall Resources rating that an object is worth.
+
+If you get successes equal to the object's Resources value, you know its exact fair market value in its current condition. This gives you +1 to influence rolls for [Bargain](/social-influence#bargain) when dealing with an honest merchant, or +3 when dealing with a dishonest one.
+
+This action is Reflexive for small or simple objects, takes items for large objects or large quantities, and may take up to days for large quantities with uncertain market values.
 
 ## Craft
 
@@ -135,8 +193,7 @@ Investigation represents your ability to uncover hidden details through search a
 
 ### Case Scene
 
-**Defense** ---  
-**Action** Dramatic (15 minutes); **Duration** Instant
+**Action** Dramatic (15 minutes)
 
 Choose one:
 
@@ -145,8 +202,7 @@ Choose one:
 
 ### Profile Character
 
-**Defense** ---  
-**Action** Dramatic (5 minutes); **Duration** Instant
+**Action** Dramatic (5 minutes)
 
 Choose one:
 
@@ -159,8 +215,7 @@ Larceny represents your ability to perform the activities of a criminal, includi
 
 ### Conceal Evidence
 
-**Defense** ---  
-**Action** Dramatic (15 minutes); **Duration** Instant
+**Action** Dramatic (15 minutes)
 
 Choose evidence to conceal and roll (Intelligence + Larceny). The result becomes the difficulty of [Case Scene](#case-scene) to find the concealed evidence.
 
@@ -168,8 +223,7 @@ As a rule of thumb, the GM can assume that NPCs roll an average of their Larceny
 
 ### Disguise
 
-**Defense** ---  
-**Action** Dramatic (5 minutes); **Duration** Instant
+**Action** Dramatic (5 minutes)
 
 Choose a disguise to construct and roll (Intelligence + Larceny). You get a cumulative -2 on this roll for differences in sex, race, or body type. If you're imitating a specific person, you get -(4 - weeks spend studying that person) on this roll.
 
@@ -179,8 +233,8 @@ If you're imitating a specific person, a character observing you knows that pers
 
 ### Lockpicking
 
-**Defense** -1;  
-**Action** Simple;[^type-guesswork] **Duration** Instant  
+**Defense** -1  
+**Action** Simple[^type-guesswork]  
 **Keywords** Flurry[^flurry-guesswork]
 
 Roll (Dexterity + Larceny) against a difficulty set by the lock you're trying to pick. If you're using improvised or unorthodox tools, the difficulty gets +1.
@@ -193,12 +247,22 @@ Roll (Dexterity + Larceny) against a difficulty set by the lock you're trying to
 ### Pickpocket
 
 **Defense** -1  
-**Action** Simple;[^type-guesswork] **Duration** Instant  
+**Action** Simple[^type-guesswork]  
 **Keywords** Flurry[^flurry-guesswork]
 
 Make an opposed (Dexterity + Larceny) roll against a target's (Perception + Awareness). If you succeed, you steal an item from the target's person or immediate surroundings without them noticing. If you fail, you don't steal anything and the target notices that you tried.
 
 You can't steal an item in active use, or an item too bulky to remove without its wearer noticing.
+
+### Prestidigitation
+
+**Defense** -1  
+**Action** Simple[^type-guesswork]  
+**Keywords** Flurry[^flurry-guesswork]
+
+Make an opposed (Dexterity + Larceny) roll against a target's (Perception + Awareness). If you succeed, you perform a bit of stage magic or other prestidigitation that the target can't see through.
+
+This action can be enhanced by effects that enhance pickpocketing, if appropriate.
 
 ## Linguistics
 
@@ -209,6 +273,16 @@ If you don't have at least one dot of Linguistics, you're illiterate.
 ## Lore
 
 Lore represents your education and your general knowledge of the world.
+
+### Academic Knowledge[^from-prior]
+
+**Action** Reflexive; **Duration** Instant  
+
+Roll (Intelligence + Lore) at a difficulty set by the ST. If you succeed, you recall relevant facts about a topic at hand.
+
+You can use Wits instead of Intelligence, but if you do, the difficulty gets +2.
+
+Some topics may require use of other abilities instead of Lore, such as domain-specific knowledge of Occult or Martial Arts.
 
 ### Introduce a Fact
 
@@ -242,19 +316,27 @@ You can't select Martial Arts as a Caste or Favored Ability, but it's automatica
 
 Medicine represents your ability to treat wounds and ailments. This may be with surgical instruments, or with more unusual or mystical methods like acupuncture or herbal incense treatments.
 
-### Diagnosis
+### Diagnosis[^includes-previous]
 
-**Defense** ---  
-**Action** Dramatic (several minutes); **Duration** Instant  
+**Action** Dramatic (several minutes)
 
 If the reason for a character's ailment isn't obvious, you can attempt to diagnose it. Roll ([Perception or Intelligence] + Medicine), with the Ability chosen by the ST. If you succeed, you diagnose the ailment.
+
+| Ailment                     | Diagnosis difficulty |
+|:----------------------------|:--------------------:|
+| External wounds             |          1           |
+| Internal injuries           |          2           |
+| Common disease              |          1           |
+| Uncommon disease            |          2           |
+| Exotic disease              |          3           |
+| Magically inflicted ailment |  (source's Essence)  |
 
 You can use this as a Simple action with -1 Defense and the Flurry keyword, but the difficulty gets +1 or +2.
 
 ### Treat Wounds
 
 **Defense** -1  
-**Action** Simple;[^type-guesswork] **Duration** Instant  
+**Action** Simple[^type-guesswork]  
 **Keywords** Flurry[^flurry-guesswork]
 
 Roll (Intelligence + Medicine) at a difficulty of the current wound penalty of the character you're trying to treat (minimum 1, maximum 5). If you're trying to treat yourself, the difficulty gets +1. If you succeed, you prevent the treated character from bleeding out.
@@ -263,8 +345,7 @@ Treating a non-obvious ailment without [Diagnosis](#diagnosis) gets a +2 to +4 t
 
 ### Treat Disease
 
-**Defense** ---  
-**Action** Dramatic (one hour); **Duration** Instant  
+**Action** Dramatic (one hour)
 
 You must repeat this action once every day of the interval of the disease you're trying to treat. When you use it on the last day, roll (Intelligence + Medicine). The character being treated can use your roll result instead of his own roll result to resist the disease for this interval.
 
@@ -272,8 +353,7 @@ Treating a non-obvious ailment without [Diagnosis](#diagnosis) gets a +2 to +4 t
 
 ### Treat Poison
 
-**Defense** ---  
-**Action** Dramatic (one hour); **Duration** Instant  
+**Action** Dramatic (one hour)
 
 Roll (Intelligence + Medicine) at a difficulty based on the severity of the poison.
 
@@ -300,13 +380,23 @@ Occult represents your knowledge and intuitive understanding of the mystical wor
 
 Performance represents your ability to influence people using artistic performance and through rhetorical speaking. It determines your social influence rolls when using these methods of influence.
 
+### Prayer[^from-prior]
+
+**Action** Dramatic
+
+Roll (Charisma + Performance) at a difficulty of (7 - the Resources value of any sacrifice you offer). If you're a priest, the difficulty gets -1. Zenith, Midnight, and No Moon castes and Sidereal Exalts always count as priests. For some gods, you can use the sacrifice of sentient beings, which count as having a Resources value equal to the Essence of each victim added together.
+
+If you succeed, the god or demon you're praying to understands your prayer and is inclined to help. This is no guarantee that any help will be immediate or obvious, and help may not be possible at all in the case of demons or weaker gods.
+
+If you botch, the god or demon you're praying to is offended, and will only begin listening to prayers from you again if one is accompanied by a sacrifice with Resources value of (god's Essence, maximum 5).
+
 ## Presence
 
 Present represents your ability to influence people through force of personality. It determines your social influence rolls when using this kind of influence.
 
 ## Resistance
 
-Resistance represents your ability to withstand physical punishment deprivation.
+Resistance represents your ability to withstand physical punishment and deprivation.
 
 ## Ride
 
@@ -316,17 +406,23 @@ Ride represents your ability to handle a mount and creature-pulled vehicles.
 
 Sail represents your ability to navigate a vessel, to handle duties aboard the vessel, and to direct the vessel and its crew in the stress of combat or dangerous conditions. It's used for both ships on the water and more exotic vehicles like balloon airships.
 
+### Predict Weather at Sea[^from-previous]
+
+**Action** Dramatic
+
+Roll (Perception + Sail), at a difficulty of 2 for stable climates or 3 to 5 for more unstable climates. You can predict the general trend of the weather and temperature for (threshold successes) days.
+
+You can use this action to predict weather on land, but the difficulty gets +1.
+
 ### Pursuit
 
-**Defense** ---
-**Action** Dramatic; **Duration** Instant
+**Action** Dramatic
 
 You guide your ship to catch up with, or escape, another ship. Make an extended opposed (Wits + Sail + Speed) roll against the captain of the other ship. The first captain to get 10 more successes than the other wins, and accomplishes their goal. If you catch the other ship, you begin [naval combat](/combat#naval-combat) against them.
 
 ### Navigation
 
-**Defense** ---
-**Action** Dramatic; **Duration** Instant
+**Action** Dramatic
 
 Navigating through or past a hazard requires (Wits + Sail) rolls, with a difficulty depending on the danger of the hazard and a number of rolls depending on the scale of the hazard. If you fail, the ship is blown off-course, is caught in the hazard, or takes 1 Hull damage.
 
@@ -350,10 +446,17 @@ Stealth represents your ability to stay hidden and silent, whether passively or 
 
 Survival represents your ability to navigate and survive in the wilderness.
 
+### Predict Weather on Land[^from-previous]
+
+**Action** Dramatic
+
+Roll (Perception + Survival), at a difficulty of 2 for stable climates or 3 to 5 for more unstable climates. You can predict the general trend of the weather and temperature for (threshold successes) days.
+
+You can use this action to predict weather at sea, but the difficulty gets +1.
+
 ### Tracking
 
-**Defense** ---
-**Action** Dramatic; **Duration** Instant  
+**Action** Dramatic
 
 Choose one:
 
