@@ -264,7 +264,7 @@ One of your spirit familiars, summoned elementals, or sorcerously-bound demons i
 **Cost** 16m, 1wp; **Action** Simple; **Duration** One scene  
 **Keywords** Non-Committed
 
-Every spirit or immaterial being within six range bands of you rolls (Wits + Dodge) at a difficulty of (your temporary Willpower + your Essence). Each that fails is forced to immediately materialize for free without using an action, and may not dematerialize for the duration. You may allow specific beings to dematerialize allow.
+Every spirit or immaterial being within six range bands of you rolls (Wits + Dodge) at a difficulty of (your temporary Willpower + your Essence). Each that fails is forced to immediately materialize for free without using an action, and may not dematerialize for the duration. You may allow specific beings to dematerialize.
 
 If a ghost would be forced to materialize by this Charm, it may instead immediately enter Lethe and face reincarnation.
 
