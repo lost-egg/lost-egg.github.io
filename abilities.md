@@ -11,7 +11,21 @@ title: Abilities
 
 * **Exceptional success:** 3 or more successes over the difficulty.
 
+## Awareness
+
+Awareness represents your ability to immediately notice details and hidden enemies. It determines the Join Battle roll that generates your starting Initiative in combat.
+
+## Brawl
+
+Brawl represents your ability to fight with your body and natural talent for violence. It determines attack rolls with weapons with the Brawl tag, like unarmed attacks, gauntlets, and improved weapons. It also determines your Parry with those weapons. Using unarmed Parry against weapons that deal lethal damage requires a stunt.
+
+## Bureaucracy
+
+Bureaucracy represents your ability to understand and manipulate organizations and to perform the activities of a merchant.
+
 ## Craft
+
+Craft represents your ability to create objects and structures. Every purchase of Craft is a separate Ability, such as Craft (Architecture), Craft (Blacksmithing), and Craft (Cooking). Each Craft has a separate rating and is bought and increased separately. Craft Charms can be purchased based on a character's highest-rated Craft, but the appropriate Craft must still be used in rolls depending on the work at hand. You can use a broadly-related Craft at +1 difficulty, like using Craft (Architecture) to design plans for an underground mine.
 
 **Craft projects** come in four categories: basic, major, superior, and legendary.
 
@@ -107,7 +121,17 @@ A project that's a **First Age wonder** is a special case. These projects work l
 | Superior  | Artifact 4--5, Manse 5  | Terrestrial Circle workings and at least one Celestial Circle working |
 | Legendary | Artifact N/A, Manse N/A | Celestial Circle workings and at least one Solar Circle working       |
 
+## Dodge
+
+Dodge represents your ability to avoid attacks. It determines Evasion, which is used against attack rolls.
+
+## Integrity
+
+Integrity represents your sense of self-assurance and self-resolution. It determines Resolve, which is used to resist social influence.
+
 ## Investigation
+
+Investigation represents your ability to uncover hidden details through search and analysis.
 
 ### Case Scene
 
@@ -130,6 +154,8 @@ Choose one:
 * While interacting with or observing someone relevant to something you're looking for, roll (Perception + Investigation) against a difficulty set by the ST. If you succeed, you find a clue that advances your search.
 
 ## Larceny
+
+Larceny represents your ability to perform the activities of a criminal, including both physical tasks, like picking locks or sleight or hand, and social and mental activities, like creating disguises or hobnobbing with crime lords.
 
 ### Conceal Evidence
 
@@ -174,7 +200,15 @@ Make an opposed (Dexterity + Larceny) roll against a target's (Perception + Awar
 
 You can't steal an item in active use, or an item too bulky to remove without its wearer noticing.
 
+## Linguistics
+
+Linguistics represents your ability to compose informative or persuasive written works.
+
+If you don't have at least one dot of Linguistics, you're illiterate.
+
 ## Lore
+
+Lore represents your education and your general knowledge of the world.
 
 ### Introduce a Fact
 
@@ -196,7 +230,17 @@ State the fact you want to introduce and roll (Intelligence + Lore) against a di
 
 Roll (Intelligence + Lore). If you get at least 1 success, you notice that the fact is false, but not how. If you get enough successes to meet a difficulty set by the ST, you also notice why the fact is false.
 
+## Martial Arts
+
+Martial Arts represents your ability to fight using a specific formalized martial arts style. Every purchase of Martial Arts is a separate Ability, such as Martial Arts (Snake Style) or Martial Arts (Crane Style). Each Martial Arts has a separate rating and is bought and increased separately. Martial Arts Charms usually require a specific Martial Arts rating to purchase and use that Martial Arts for any rolls they generate.
+
+Martial Arts determines attack rolls with weapons with the Martial Arts tag, like unarmed attacks, hook swords, and the rope darts. It also determines your Parry with those weapons. Using unarmed Parry against weapons that deal lethal damage requires a stunt.
+
+You can't select Martial Arts as a Caste or Favored Ability, but it's automatically a Caste or Favored Ability if Brawl is one for you. To take any dots in Martial Arts, you must have the Martial Artist Merit (see page 163 of *Exalted 3*).
+
 ## Medicine
+
+Medicine represents your ability to treat wounds and ailments. This may be with surgical instruments, or with more unusual or mystical methods like acupuncture or herbal incense treatments.
 
 ### Diagnosis
 
@@ -244,7 +288,33 @@ You can use this action as a Simple action with -1 Defense and the Flurry keywor
 
 Treating a non-obvious ailment without [Diagnosis](#diagnosis) gets a +2 to +4 to the difficulty.
 
+## Melee
+
+Melee represents your ability to fight using hand-to-hand weapons (but not unarmed). It determines your attack roll and your Parry with these weapons.
+
+## Occult
+
+Occult represents your knowledge and intuitive understanding of the mystical world, gods, spirits, and other, stranger things. Occult determines rolls for magical rituals and for Sorcery.
+
+## Performance
+
+Performance represents your ability to influence people using artistic performance and through rhetorical speaking. It determines your social influence rolls when using these methods of influence.
+
+## Presence
+
+Present represents your ability to influence people through force of personality. It determines your social influence rolls when using this kind of influence.
+
+## Resistance
+
+Resistance represents your ability to withstand physical punishment deprivation.
+
+## Ride
+
+Ride represents your ability to handle a mount and creature-pulled vehicles.
+
 ## Sail
+
+Sail represents your ability to navigate a vessel, to handle duties aboard the vessel, and to direct the vessel and its crew in the stress of combat or dangerous conditions. It's used for both ships on the water and more exotic vehicles like balloon airships.
 
 ### Pursuit
 
@@ -268,7 +338,17 @@ Navigating through or past a hazard requires (Wits + Sail) rolls, with a difficu
 | Uncharted razor-sharp reef  |     3      | 2 rolls         |
 | Legendary sea-trap currents |     5      | 10 rolls        |
 
+## Socialize
+
+Socialize represents your understanding of social contexts and decorum, as well as your ability to influence people using the standards of formalized social situations, and your ability to read the intentions of others and disguise your own. It determines your social influence rolls when using this kind of influence, your rolls to read the intentions of others, and your Guile.
+
+## Stealth
+
+Stealth represents your ability to stay hidden and silent, whether passively or in the middle of intensive activity.
+
 ## Survival
+
+Survival represents your ability to navigate and survive in the wilderness.
 
 ### Tracking
 
@@ -279,3 +359,11 @@ Choose one:
 
 * You follow someone else's tracks. Make an opposed (Perception + Survival) roll against their (Wits + Survival).
 * You evade someone else following your tracks. Make an opposed (Wits + Survival) roll against their (Perception + Survival).
+
+## Thrown
+
+Thrown represents your ability to fight with thrown weapons. It determines attack rolls with weapons with the Thrown tag, like knives and javelins.
+
+## War
+
+War represents your ability to plan and execute large-scale strategy and small-scale tactics, as well as your ability to directly command soldiers in battle. It determines your rolls for commanding battle groups.
