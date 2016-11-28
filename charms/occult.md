@@ -105,12 +105,14 @@ You don't lose your last health level (but other damage levels aren't affected).
 
 One of your immaterial spirit allies may materialize for free without requiring an action.
 
-### Ancient Tongue Understanding
+### Ancient Tongue Understanding[^consolidated-upgrade]
 
 **Prerequisites** Occult 3, Essence 1  
 **Cost** 6m; **Action** Reflexive; **Duration** One scene
 
 You speak and understand Old Realm and old and obscure spirit languages, but can't speak or understand other languages. You get +(half Essence, rounded down, minimum 1)s to Occult rolls and shaping actions.
+
+**Upgrade (Six Eternities' Travail---Occult 5, Essence 2):** If you increase the Cost by 1wp, your Occult rolls also get an additional die for each 10 rolled, including on the additional dice, for up to (Essence) total additional dice.
 
 ### Supernal Control Method[^changed-action]
 
@@ -234,11 +236,33 @@ Roll (Wits + Occult) against the Resolve of a touched target, applying Intimacie
 
 In this state, you're treated like an immaterial being. If the spirit is material or materializes, you can use your Charms that affect immaterial beings to interact with it (but not other material beings). Your body remains in an inactive and helpless trance state while you're projected like this. You return to your body when you decommit the 7m.
 
+### What Light Reveals (Living Specter's Flame)
+
+**Prerequisites** Occult 5, Essence 3, Burning Exorcism Technique  
+**Cost** 6m, 1wp; **Action** Reflexive; **Duration** One scene  
+**Requirement** You have a spirit familiar.
+
+Chose two major Charms, and ([Essence ÷ 2, rounded up] + 1) minor Charms, from spirits you have captured with Burning Exorcism Technique or from Charms you have learned using Carnal Spirit Rending, Gloaming Eye Understanding, or Divine Mantle.
+
+While your anima is at the glowing level, it can use (Essence ÷ 2, rounded up) of the chosen minor Charms.
+
+While your anima is at the burning level, it can also use one of the chosen major Charms.
+
+While your anima is at the iconic level, it can use all of the chosen Charms.
+
+### Anima-Suffused Spirit
+
+**Prerequisites** Occult 5, Essence 3, Material Exegesis Prana  
+**Cost** 1m + (2 × X)m, Xa; **Action** Reflexive; **Duration** Instant  
+**Requirement** You have a spirit familiar, a summoned elemental, or a sorcerously-bound demon.
+
+One of your spirit familiars, summoned elementals, or sorcerously-bound demons is healed X health levels.
+
 ### All Souls Benediction
 
 **Prerequisites** Occult 5, Essence 3, Material Exegesis Prana  
 **Cost** 16m, 1wp; **Action** Simple; **Duration** One scene  
-**Keywords** Non-Comitted
+**Keywords** Non-Committed
 
 Every spirit or immaterial being within six range bands of you rolls (Wits + Dodge) at a difficulty of (your temporary Willpower + your Essence). Each that fails is forced to immediately materialize for free without using an action, and may not dematerialize for the duration. You may allow specific beings to dematerialize allow.
 
