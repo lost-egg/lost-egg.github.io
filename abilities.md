@@ -174,6 +174,76 @@ Make an opposed (Dexterity + Larceny) roll against a target's (Perception + Awar
 
 You can't steal an item in active use, or an item too bulky to remove without its wearer noticing.
 
+## Lore
+
+### Introduce a Fact
+
+**Action** Reflexive (1/scene); **Duration** Instant  
+**Requirement** You have Lore 3+.
+
+State the fact you want to introduce and roll (Intelligence + Lore) against a difficulty set by the ST. If you succeed, the fact is retroactively added to the campaign.
+
+| Type of fact                          | Difficulty |
+|:--------------------------------------|:----------:|
+| A crucial fact that forwards the plot |    1--4    |
+| Challenges to the greatest minds      |    5--7    |
+| The greatest secrets of history       |   8--10    |
+
+### Challenge a Fact
+
+**Action** Reflexive; **Duration** Instant  
+**Requirement** You have Lore 3+, or Lore 1+ and a relevant specialty, and the ST allows you to challenge a fact.
+
+Roll (Intelligence + Lore). If you get at least 1 success, you notice that the fact is false, but not how. If you get enough successes to meet a difficulty set by the ST, you also notice why the fact is false.
+
+## Medicine
+
+### Diagnosis
+
+**Defense** ---  
+**Action** Dramatic (several minutes); **Duration** Instant  
+
+If the reason for a character's ailment isn't obvious, you can attempt to diagnose it. Roll ([Perception or Intelligence] + Medicine), with the Ability chosen by the ST. If you succeed, you diagnose the ailment.
+
+You can use this as a Simple action with -1 Defense and the Flurry keyword, but the difficulty gets +1 or +2.
+
+### Treat Wounds
+
+**Defense** -1  
+**Action** Simple;[^type-guesswork] **Duration** Instant  
+**Keywords** Flurry[^flurry-guesswork]
+
+Roll (Intelligence + Medicine) at a difficulty of the current wound penalty of the character you're trying to treat (minimum 1, maximum 5). If you're trying to treat yourself, the difficulty gets +1. If you succeed, you prevent the treated character from bleeding out.
+
+Treating a non-obvious ailment without [Diagnosis](#diagnosis) gets a +2 to +4 to the difficulty.
+
+### Treat Disease
+
+**Defense** ---  
+**Action** Dramatic (one hour); **Duration** Instant  
+
+You must repeat this action once every day of the interval of the disease you're trying to treat. When you use it on the last day, roll (Intelligence + Medicine). The character being treated can use your roll result instead of his own roll result to resist the disease for this interval.
+
+Treating a non-obvious ailment without [Diagnosis](#diagnosis) gets a +2 to +4 to the difficulty.
+
+### Treat Poison
+
+**Defense** ---  
+**Action** Dramatic (one hour); **Duration** Instant  
+
+Roll (Intelligence + Medicine) at a difficulty based on the severity of the poison.
+
+| Poison                     | Difficulty |
+|:---------------------------|:-----------|
+| Common poisons             | 1 or 2     |
+| Exotic and magical poisons | 3 or 4     |
+
+Each threshold success reduces the duration of the poisoning by one interval. Treat Poison results don't stack.
+
+You can use this action as a Simple action with -1 Defense and the Flurry keyword, but the difficulty gets +2.
+
+Treating a non-obvious ailment without [Diagnosis](#diagnosis) gets a +2 to +4 to the difficulty.
+
 ## Sail
 
 ### Pursuit
