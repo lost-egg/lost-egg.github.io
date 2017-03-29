@@ -359,7 +359,11 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
 6. Whether the attack roll succeeds or fails:
 
-    a. The target gets a -1 onslaught penalty to Defense until the start of their next turn.[^new-when-onslaught-penalty]
+    1. Resolve counterattack effects declared in step 3. (If a counterattack explicitly resolves at a different time, do so then, but use the same guidelines here.)
+
+        * If a Counterattack includes an attack, fully resolve that attack before continuing the resolution of this attack, but don't apply its effects yet.
+        
+        * Any effects from a Counterattack (such as Initiative changes or wounds) take effect in step 9, unless they explicitly take effect earlier.
 
 7. If the attack roll fails:
 
@@ -389,31 +393,19 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
     f. If the target is Crashed by the attack, apply Break or Shift.
 
-9. Whether the attack roll succeeds or fails:
+9. Apply the effects of any counterattacks resolved in step 2.
 
-    a. Resolve Counterattack effects declared in step 3.
-
-      1. If a counterattack explicitly resolves at a different time, do so then, but use the same guidelines here.[^new-when-counterattacks]
-
-      2. If a Counterattack includes an attack, fully resolve that attack before continuing the resolution of this attack. Any effects from a Counterattack (such as Initiative changes or wounds) affect you from this step forward. If you're incapacitated by a Counterattack, your attack ends.[^new-counterattack-incapacitation]
-
-[^new-when-onslaught-penalty]: When the onslaught penalty is applied isn't clarified in the original text, but has been noted here as a best guess for attack resolution.
-
-[^new-when-counterattacks]: The original text gives no information on when a counterattack should be resolved. It has been placed here as a best guess.
-
-[^new-counterattack-incapacitation]: What happens with incapacitation by a Counterattack isn't clarified in the original text, but has been noted here as a best guess for attack resolution.
+10. The target gets a −1 onslaught penalty to Defense until their next turn.
 
 ## Clashes
 
-If two characters attack each other on the same tick, it's a **Clash**. Clashes are a direct contest of martial power instead of the usual dance of blow and counterblow.
-
-To resolve a Clash, you use the normal attack resolution, with some modifications. Both characters proceed through the same set of steps simultaneously.
+If two characters attack each other on the same tick, it's a **Clash**. To resolve a Clash, you use the normal attack resolution, with some modifications. Both characters proceed through the same set of steps simultaneously.
 
 When declaring effects to enhance the attacks in step 2, the characters alternate[^new-clash-alternating] in order from the highest Join Battle rating to the lowest, with (Dexterity + Athletics) as a tiebreaker, with each declaring any effects until neither declares another to activate.
 
 [^new-clash-alternating]: The original text doesn't give any order of application of effects for Clash attacks. This is added here as a reasonably fast and interesting way to apply these effects.
 
-Instead of being used against Defense, the attack rolls are used as opposed rolls.
+Skip step 4 entirely. Instead of being used against Defense, the attack rolls are used as opposed rolls.
 
 The winner deals damage as though they succeeded against the loser's Defense, with threshold successes from the opposed roll adding dice to the damage roll if it's a withering attack. The winner gets +3s on the damage roll if they're making a withering attack, or +1s on the damage roll if they're making a decisive attack.
 
