@@ -349,9 +349,9 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
 1. Declare the target of the attack, and choose if it's a withering attack or a decisive attack. When declaring actions during the action phase, pause after this step.
 
-2. Declare and pay for any effects that apply to the attack as a whole or to the attack roll.
+2. Declare and pay for any effects that apply to the attack as a whole or to the attack roll, as well as any non-Reflexive effects that apply to the damage roll.
 
-3. The target declares and pays for any effects that apply against the attack as a whole or against the attack roll.
+3. The target declares and pays for any effects that apply against the attack as a whole or against the attack roll, as well as any non-Reflexive effects that apply to the damage roll.
 
 4. The target declares whether to apply Parry or Evasion.
 
@@ -371,9 +371,9 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
 8. If the attack roll succeeds:
 
-    a. Declare and pay for any effects that apply to the damage roll.
+    a. Declare and pay for any Reflexive effects that apply to the damage roll. (Non-Reflexive effects must be declared in Step 2.)
 
-    b. The target declares and pays for any effects that apply to the damage roll.
+    b. The target declares and pays for any Reflexive effects that apply to the damage roll. (Non-Reflexive effects must be declared in Step 2.)
 
     c. Assemble your **damage roll**. This depends on the attack type.
 
