@@ -359,7 +359,7 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
 6. Whether the attack roll succeeds or fails:
 
-    1. Resolve counterattack effects declared in step 3.[^when-counterattacks] (If a counterattack explicitly resolves at a different time, do so then, but use the same guidelines here.)
+    1. Resolve counterattack effects declared in step 3.[^when-counterattacks] If a counterattack explicitly resolves at a different time, do so then, but use the same guidelines here. You can only make one counterattack in response to a single attack.[^one-counterattack]
 
         * If a Counterattack includes an attack, fully resolve that attack before continuing the resolution of this attack, but don't apply its effects yet.
         
@@ -396,6 +396,8 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 9. Apply the effects of any counterattacks resolved in step 6.
 
 10. The target gets a −1 onslaught penalty to Defense until their next turn.
+
+[^one-counterattack]: This isn't given in the original text, but is clarified in a [forum post by a current writer](http://forum.theonyxpath.com/forum/main-category/exalted/1069023-ask-the-devs?p=1069658#post1069658).
 
 [^when-counterattacks]: When counterattacks are applied isn't given in the original text, but is clarified in a [forum post by a current writer](http://forum.theonyxpath.com/forum/main-category/exalted/1069023-ask-the-devs/page202).
 
