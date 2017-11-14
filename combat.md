@@ -395,11 +395,13 @@ Each attack has an order of operations used to resolve it. Usually you won't nee
 
 9. Apply the effects of any counterattacks resolved in step 6.
 
-10. The target gets a −1 onslaught penalty to Defense until their next turn.
+10. The target gets a −1 onslaught penalty to Defense until their next turn.[^when-onslaught]
 
 [^one-counterattack]: This isn't given in the original text, but is clarified in a [forum post by a current writer](http://forum.theonyxpath.com/forum/main-category/exalted/1069023-ask-the-devs?p=1069658#post1069658).
 
-[^when-counterattacks]: When counterattacks are applied isn't given in the original text, but is clarified in a [forum post by a current writer](http://forum.theonyxpath.com/forum/main-category/exalted/1069023-ask-the-devs/page202).
+[^when-counterattacks]: When counterattacks are applied isn't given in the original text, but is clarified in a [forum post by a current writer](http://forum.theonyxpath.com/forum/main-category/exalted/1069023-ask-the-devs?p=1121294#post1121294).
+
+[^when-onslaught]: When onslaught penalties are applied isn't given in the original text, but is clarified in a [forum post by a current writer](http://forum.theonyxpath.com/forum/main-category/exalted/1069023-ask-the-devs?p=1069692#post1069692).
 
 ## Clashes
 
