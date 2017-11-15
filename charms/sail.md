@@ -12,7 +12,7 @@ title: Sail Charms
 
 Notation:
 
-* **Xs** X successes.
+* **Xs:** X successes.
 * **Xnd:** X non-Charm dice.
 * **Xns:** X non-Charm successes.
 
