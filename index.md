@@ -8,4 +8,5 @@ title: Lost Egg
   * [Archery](/charms/archery)
   * [Craft](/charms/craft)
   * [Occult](/charms/occult)
+  * [Sail](/charms/sail)
   * [War](/charms/war)

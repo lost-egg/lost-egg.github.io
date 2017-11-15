@@ -44,14 +44,14 @@ Whenever you roll Sail, reroll each 6.
 
 ### Shipwreck-Surviving Stamina
 
-**Prerequisites** Sail 3, Essence 1, Salty Dog Method  
+**Prerequisites** Sail 3, Essence 1, [Salty Dog Method](#salty-dog-method)  
 **Permanent**
 
 You treat your Stamina as 2 higher for the purposes of deprivation (see page 232 of *Exalted 3*).
 
 ### Fathoms-Fed Spirit
 
-**Prerequisites** Sail 5, Essence 1, Salty Dog Method  
+**Prerequisites** Sail 5, Essence 1, [Salty Dog Method](#salty-dog-method)  
 **Cost** ---; **Action** Reflexive[^changed-action]; **Duration** 1 day or until used[^changed-duration]  
 **Requirement** You wake up on a ship on the water.
 
@@ -59,7 +59,7 @@ When you would spend Willpower to reject social influence, you may end this Char
 
 ### Safe Bearing Technique
 
-**Prerequisites** Sail 3, Essence 1, Salty Dog Method  
+**Prerequisites** Sail 3, Essence 1, [Salty Dog Method](#salty-dog-method)  
 **Cost** 4m; **Action** Dramatic (indefinite); **Duration** until the hazard has passed
 
 You get +2n to navigate a Sail-based hazard you are unfamiliar with, or +2ns to navigate a Sail-based hazard you have previously navigated without taking hull damage and without using Charms or magic to negate hull damage.
@@ -77,7 +77,7 @@ If you have a Major or Defining positive intimacy towards a ship you've claimed 
 
 ### Ship-Sleeking Technique
 
-**Prerequisites** Sail 3, Essence 1, Ship-Claiming Stance  
+**Prerequisites** Sail 3, Essence 1, [Ship-Claiming Stance](#ship-claiming-stance)  
 **Cost** 4m; **Action** Simple; **Duration** Indefinite  
 **Keywords** Aboard[^new-keyword]
 
@@ -85,7 +85,7 @@ Increase the ship's speed by 1.
 
 ### Skiff-to-Scow Method
 
-**Prerequisites** Sail 4, Essence 1, Ship-Claiming Stance  
+**Prerequisites** Sail 4, Essence 1, [Ship-Claiming Stance](#ship-claiming-stance)  
 **Cost** 5m; **Action** Dramatic (one hour)[^changed-action]; **Duration** Indefinite  
 **Keywords** Aboard[^new-keyword], Obvious-Activation[^new-keyword]
 
@@ -93,7 +93,7 @@ You spend the dramatic action disguising the ship and its crew. The Charm-enhanc
 
 ### Orichalcum Letters of Marque
 
-**Prerequisites** Sail 5, Essence 1, Ship-Claiming Stance  
+**Prerequisites** Sail 5, Essence 1, [Ship-Claiming Stance](#ship-claiming-stance)  
 **Permanent**
 
 For any ship you've claimed with Ship-Claiming Stance, whenever a creature of darkness is aboard with your permission and has a position as a crewmember, that being doesn't count as a creature of darkness for the purposes of all social influence,  your anima effects, and your magical area effects. If you revoke your permission, such beings lose this benefit immediately.
@@ -108,7 +108,7 @@ If you pay 1m, choose one to apply to the triggering roll: you double each 9, or
 
 ### Legendary Captain's Signature
 
-**Prerequisites** Sail 5, Essence 1, Immortal Mariner's Advantage  
+**Prerequisites** Sail 5, Essence 1, [Immortal Mariner's Advantage](#immortal-mariners-advantage)  
 **Cost** 3m; **Supplements** naval maneuver; **Duration** Instant  
 **Keywords** Pilot
 
@@ -116,7 +116,7 @@ For the supplemented maneuver, treat the ship's Maneuverability as 1 if it is 0 
 
 ### Sea Ambush Technique
 
-**Prerequisites** Sail 5, Essence 1, Legendary Captain's Signature  
+**Prerequisites** Sail 5, Essence 1, [Legendary Captain's Signature](#legendary-captains-signature)  
 **Cost** 2m; **Supplements** [Concealment stratagem](/combat/#concealment); **Duration** Instant  
 **Keywords** Pilot
 
@@ -124,7 +124,7 @@ Add +(ship's speed) to the supplemented stratagem's roll.
 
 ### Deck-Sweeping Fusillade
 
-**Prerequisites** Sail 5, Essence 1, Legendary Captain's Signature  
+**Prerequisites** Sail 5, Essence 1, [Legendary Captain's Signature](#legendary-captains-signature)  
 **Cost** 2m, 3m, or 4m; **Supplements** [Broadside stratagem](/combat/#broadside); **Duration** Instant  
 **Keywords** Pilot
 
@@ -134,7 +134,7 @@ At Essence 1--4, the Cost is 2m. At Essence 5--7, the Cost is 3m. At Essence 8+,
 
 ### Ship-Breaker Method
 
-**Prerequisites** Sail 5, Essence 1, Legendary Captain's Signature  
+**Prerequisites** Sail 5, Essence 1, [Legendary Captain's Signature](#legendary-captains-signature)  
 **Cost** 3m; **Supplements** [Ram stratagem](/combat/#ram); **Duration** Instant  
 **Keywords** Non-Transparent[^new-keyword], Pilot
 
@@ -142,7 +142,7 @@ Add +1 to the supplemented stratagem's damage. If the stratagem is opposed by a 
 
 ### Superior Positioning Technique
 
-**Prerequisites** Sail 5, Essence 1, Legendary Captain's Signature  
+**Prerequisites** Sail 5, Essence 1, [Legendary Captain's Signature](#legendary-captains-signature)  
 **Cost** 2m; **Supplements** [Positioning stratagem](/combat/#positioning); **Duration** Instant  
 **Keywords** Non-Transparent[^new-keyword], Pilot
 
@@ -152,14 +152,14 @@ For the supplemented stratagem, add a 10 to your Naval Maneuver result for each 
 
 ### Ship-Imperiled Vigor
 
-**Prerequisites** Sail 4, Essence 2, Salty Dog Method  
+**Prerequisites** Sail 4, Essence 2, [Salty Dog Method](#salty-dog-method)  
 **Permanent**
 
 Whenever you are aboard a ship that has taken hull damage, add +(hull penalty) to all of your actions to protect or aid the ship or its crew, except for Naval Maneuver rolls or pursuit rolls.
 
 ### Weather-Anticipating Intuition
 
-**Prerequisites** Sail 4, Essence 2, Safe Bearing Technique  
+**Prerequisites** Sail 4, Essence 2, [Safe Bearing Technique](#safe-bearing-techinque)  
 **Cost** 5m; **Action** Simple; **Duration** Instant  
 **Keywords** Non-Committed[^new-keyword], Touch[^needs-touch]  
 **Requirement** You touch a body of water.
@@ -168,7 +168,7 @@ You predict the weather on your course of travel along the touched body of water
 
 ### Tide-Cutting Essence Infusion
 
-**Prerequisites** Sail 4, Essence 2, Ship-Sleeking Technique  
+**Prerequisites** Sail 4, Essence 2, [Ship-Sleeking Technique](#ship-sleeking-technique)  
 **Cost** 5m, 1wp; **Action** Reflexive; **Duration** one day  
 **Keywords** Aboard[^new-keyword]
 
@@ -176,7 +176,7 @@ Add +1 to the ship's Speed. You can't affect a ship with this Charm and with Wav
 
 ### Wave-Riding Discipline
 
-**Prerequisites** Sail 4, Essence 2, Ship-Sleeking Technique  
+**Prerequisites** Sail 4, Essence 2, [Ship-Sleeking Technique](#ship-sleeking-technique)  
 **Cost** 5m, 1wp; **Action** Reflexive; **Duration** one day  
 **Keywords** Aboard[^new-keyword]
 
@@ -184,7 +184,7 @@ Double the ship's sail-derived Speed bonus, then add +1 to this bonus if in favo
 
 ### Hull-Preserving Technique
 
-**Prerequisites** Sail 5, Essence 2, Ship-Claiming Stance  
+**Prerequisites** Sail 5, Essence 2, [Ship-Claiming Stance](#ship-claiming-stance)  
 **Cost** 5m, 1wp; **Action** Reflexive; **Duration** one turn  
 **Keyword** Aboard[^new-keyword]
 
@@ -192,16 +192,16 @@ Negate all hull damage to the ship and any damage to the ship's masts, but only 
 
 ### Hull-Taming Transfusion
 
-**Prerequisites** Sail 5, Essence 2, Hull-Preserving Technique  
+**Prerequisites** Sail 5, Essence 2, [Hull-Preserving Technique](#hull-preserving-technique)  
 **Cost** 2m, Xhls; **Action** Reflexive; **Duration** Instant  
 **Keywords** Aboard[^new-keyword]  
 **Requirement** The ship would be damaged.
 
-You negate (X ÷ 3, round down) points of hull damage to the ship. X must be at least 3.
+You negate (X ÷ 3, round down) points of hull damage to the ship. X must be a multiple of 3.
 
 ### Ship-Leavening Meditation
 
-**Prerequisites** Sail 5, Essence 2, Hull-Preserving Technique  
+**Prerequisites** Sail 5, Essence 2, [Hull-Preserving Technique](#hull-preserving-technique)  
 **Cost** 5m; **Action** Simple; **Duration** one scene  
 **Keywords** Aboard[^new-keyword]
 
@@ -209,7 +209,7 @@ You negate the ship's hull penalty at the time of activation. If the ship's hull
 
 ### Indomitable Voyager's Perseverance
 
-**Prerequisites** Sail 5, Essence 2, Immortal Mariner's Advantage or Salty Dog Method  
+**Prerequisites** Sail 5, Essence 2, [Immortal Mariner's Advantage](#immortal-mariners-advantage) or [Salty Dog Method](#salty-dog-method)  
 **Cost** 1wp; Mins; **Actions** Reflexive; **Duration** Instant  
 **Requirement** You make a Sail roll.
 
@@ -225,7 +225,7 @@ You add +1s and apply the effect of a full Excellency to your next Sail roll wit
 
 ### Wind-Defying Course Technique
 
-**Prerequisites** Sail 5, Essence 2,  Immortal Mariner's Advantage or Salty Dog Method  
+**Prerequisites** Sail 5, Essence 2,  [Immortal Mariner's Advantage](#immortal-mariners-advantage) or [Salty Dog Method](#salty-dog-method)  
 **Cost** 3m; **Action** Reflexive; **Duration** one hour  
 **Keywords** Aboard[^new-keyword]
 
@@ -233,15 +233,15 @@ Reduce wind-based penalties to the Speed and Maneuverability of the ship by 3.
 
 ### Current-Cutting Technique
 
-**Prerequisites** Sail 5, Essence 2, Wind-Defying Course Technique  
+**Prerequisites** Sail 5, Essence 2, [Wind-Defying Course Technique](#wind-defying-course-technique)  
 **Cost** 4m; **Action** Reflexive; **Duration** one hour  
 **Keyword** Aboard[^new-keyword]
 
-You may reduce penalties to the Speed of the ship by 2, and you give -2 penalty to actions that would pull the ship via violent suction.
+You may reduce penalties to the Speed of the ship by 2, and you inflict a -2 penalty on actions that would pull the ship via violent suction.
 
 ### Implacable Sea Wolf Spirit
 
-**Prerequisites** Sail 5, Essence 2, Legendary Captain's Signature  
+**Prerequisites** Sail 5, Essence 2, [Legendary Captain's Signature](#legendary-captains-signature)  
 **Cost** 4m; **Action** Reflexive; **Duration** one scene  
 **Keywords** Pilot
 
@@ -249,7 +249,7 @@ Reduce the Cost of your naval stratagems by 2 Momentum.
 
 ### Deadly Ichneumon Assault
 
-**Prerequisites** Sail 5, Essence 2, Ship Breaker Method  
+**Prerequisites** Sail 5, Essence 2, [Ship Breaker Method](#ship-breaker-method)  
 **Cost** 2m, 1wp; **Action** Reflexive; **Duration** Instant  
 **Keywords** Pilot  
 **Requirement** You succeed at a [Ram stratagem](/combat/#ram).
@@ -258,7 +258,7 @@ You also apply the effects of a successful [Shock and Board stratagem](/combat/#
 
 ### Rail-Storming Fervor
 
-**Prerequisites** Sail 5, Essence 2, Deadly Ichneumon Assault  
+**Prerequisites** Sail 5, Essence 2, [Deadly Ichneumon Assault](#deadly-ichneumon-assault)  
 **Cost** 5m; **Supplements** Join Battle roll; **Duration** Instant  
 **Keywords** Pilot
 
@@ -266,7 +266,7 @@ Add +3nd to your Join Battle roll, and to any Join Battle rolls of the crew of t
 
 ### Sea Serpent Flash
 
-**Prerequisites** Sail 5, Essence 2, Superior Positioning Technique  
+**Prerequisites** Sail 5, Essence 2, [Superior Positioning Technique](#superior-positioning-technique)  
 **Cost** 5m; **Supplements** [Positioning stratagem](/combat/#ram); **Duration** Instant  
 **Keywords** Pilot
 
@@ -285,7 +285,7 @@ You know the direction of the Pole of Earth and the North Star, and you learn yo
 
 ### Ash and Storm Aegis
 
-**Prerequisites** Sail 5, Survival 5, Essence 3, Hull-Preserving Technique, Element-Resisting Prana  
+**Prerequisites** Sail 5, Survival 5, Essence 3, [Hull-Preserving Technique](#hull-preserving-technique), Element-Resisting Prana  
 **Cost** 8m, 1wp; **Action** Reflexive; **Duration** one hour  
 **Keywords** Aboard[^new-keyword]  
 **Requirement** You must have Hardship-Surviving Mendicant Spirit active.
@@ -294,14 +294,14 @@ The ship and its crew gain the effects of Hardship-Surviving Mendicant Spirit (s
 
 ### Tide-Carried Omens
 
-**Prerequisites** Sail 5, Essence 3, Weather-Anticipating Intuition  
+**Prerequisites** Sail 5, Essence 3, [Weather-Anticipating Intuition](#weather-anticipating-intuition)  
 **Cost** 7m; **Action** Simple; **Duration** Indefinite
 
 You become aware of the presence of danger to yourself, ships you own, and crews of ships you own (Essence) minutes before it happens, but not the detail of that danger. You get +(Essence) to Awareness rolls to detect danger to yourself, ships you own, and crews of ships you own.
 
 ### Chaos-Cutting Galley
 
-**Prerequisites** Sail 5, Essence 3, Hull-Preserving Technique  
+**Prerequisites** Sail 5, Essence 3, [Hull-Preserving Technique](#hull-preserving-technique)  
 **Cost** 10m, 1wp; **Action** Reflexive; **Duration** one day  
 **Keywords** Aboard[^new-keyword], Constant[^new-keyword], Obvious-Activation[^new-keyword], Unconscious[^new-keyword]  
 
@@ -311,14 +311,14 @@ The ship is protected from the Wyld's shaping effects, as are the ship's crew as
 
 ### Blood and Salt Bondage
 
-**Prerequisites** Sail 5, Essence 3, Hull-Taming Transfusion  
+**Prerequisites** Sail 5, Essence 3, [Hull-Taming Transfusion](#hull-taming-transfusion)  
 **Cost** 10m, 1wp; **Action** Dramatic (one month)[^changed-action]; **Duration** Instant[^changed-duration]
 
 You spend the dramatic action training a ship's crew. You and the ship's crew each permanently gain (ship's hull rating) additional health levels. Each affected character loses a corresponding number of extra health levels if the ship suffers hull damage, but regains those health levels when the ship is repaired. Any affected character who spends a month or more off the ship loses this benefit.
 
 ### Ship-Sustaining Spirit
 
-**Prerequisites** Sail 5, Essence 3, Ship-Leavening Meditation  
+**Prerequisites** Sail 5, Essence 3, [Ship-Leavening Meditation](#ship-leavening-meditation)  
 **Cost** 4m; **Action** Reflexive; **Duration** Indefinite  
 **Keywords** Aboard[^new-keyword], Stackable  
 **Requirement** The ship would be destroyed.
@@ -327,7 +327,7 @@ You prevent the ship from being destroyed, but unless it is repaired, any additi
 
 ### Burning Anima Sails
 
-**Prerequisites** Sail 5, Essence 3, Blood and Salt Bondage, Ship-Sustaining Spirit  
+**Prerequisites** Sail 5, Essence 3, [Blood and Salt Bondage](#blood-and-salt-bondage), [Ship-Sustaining Spirit](#ship-sustaining-spirit)  
 **Cost** 6m, 1wp, 3a; **Action** Reflexive; **Duration** one scene  
 **Keywords** Aboard[^new-keyword], Obvious[^new-keyword]
 
@@ -339,7 +339,7 @@ You may use the activation of this Charm to perfectly defend against an effect t
 
 ### Storm-Weathering Essence Infusion
 
-**Prerequisites** Sail 5, Essence 3, Current-Cutting Technique  
+**Prerequisites** Sail 5, Essence 3, [Current-Cutting Technique](#current-cutting-technique)  
 **Cost** 6m, 1wp; **Action** Simple; **Duration** one hour  
 **Keywords** Aboard[^new-keyword]  
 **Requirement** You are aboard a ship no larger than a trireme.
@@ -348,14 +348,14 @@ Add +(Essence)s to each Sail roll for the ship to avoid damage from storm hazard
 
 ### Invincible Admiral Method
 
-**Prerequisites** Sail 5, Essence 3, Legendary Captain's Signature  
+**Prerequisites** Sail 5, Essence 3, [Legendary Captain's Signature](#legendary-captains-signature)  
 **Cost** 10m, 1wp; **Action** Simple; **Duration** one scene
 
 Each round in naval combat, roll ([Charisma or Intelligence] + Sail). Your ship (if you are piloting one), and allied ships that can see the orders relayed by you or your crew, get +(roll's successes ÷ 2, rounded up) to Naval Maneuver rolls this round.
 
 ### Sea Devil Training Technique
 
-**Prerequisites** Sail 5, Essence 3, Invincible Admiral Method  
+**Prerequisites** Sail 5, Essence 3, [Invincible Admiral Method](#invincible-admiral-method)  
 **Cost** 10m, 1wp; **Action** Dramatic (one month)[^changed-action]; **Duration** Instant[^changed-duration]
 
 You spend the dramatic action training the crew of a ship. At the end of that time, you choose one of the following benefits for the crew to gain:
@@ -368,7 +368,7 @@ You spend the dramatic action training the crew of a ship. At the end of that ti
 
 ### Ship-Rolling Juggernaut Method
 
-**Prerequisites** Sail 5, Essence 3, Implacable Sea Wolf Spirit  
+**Prerequisites** Sail 5, Essence 3, [Implacable Sea Wolf Spirit](#implacable-sea-wolf-spirit)  
 **Cost** 3m; **Action** Reflexive; **Duration** Instant  
 **Keywords** Pilot
 **Requirement** You use a naval stratagem to incapacitate an enemy ship.
@@ -377,7 +377,7 @@ You regain the Momentum spent on the triggering stratagem, and gain +(enemy capt
 
 ### Ship-Razing Renewal
 
-**Prerequisites** Sail 5, Essence 3, Ship-Rolling Juggernaut Method
+**Prerequisites** Sail 5, Essence 3, [Ship-Rolling Juggernaut Method](#ship-rolling-juggernaut-method)  
 **Permanent**  
 **Keywords** Pilot
 
