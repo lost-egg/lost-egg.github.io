@@ -46,27 +46,27 @@ For the supplemented roll, reroll each 10.
 
 You get +(Essence × 2) major project slots. If your Essence increases later, your major project slots increase appropriately.
 
-### Triumph-Forging Eye[^changed-action]
+### Triumph-Forging Eye
 
 **Prerequisites** Craft 2, Essence 1, [Flawless Handiwork Method](#flawless-handiwork-method)  
-**Cost** ---; **Supplements** Craft Excellency (1/week); **Duration** Instant
+**Cost** ---; **Supplements** Craft Excellency (1/week)[^changed-action]; **Duration** Instant
 
 The supplemented Craft Excellency has a Cost of 0m.
 
-### Brass Scales Falling[^changed-action]
+### Brass Scales Falling
 
 **Prerequisites** Craft 3, Essence 1
-**Cost** ---; **Action** Reflexive; **Duration** Instant  
+**Cost** ---; **Action** Reflexive[^changed-action]; **Duration** Instant  
 **Requirement** You get at least one 10 on a Craft roll not supplemented by the Craft Excellency.
 
 For each 10 on the roll, you gain 1sp, to a maximum of (Essence × 2)sp.
 
 **Upgrade:** The maximum increases to (Essence × 3).
 
-### Crack-Mending Technique[^changed-action]
+### Crack-Mending Technique
 
 **Prerequisites** Craft 3, Essence 1  
-**Cost** 10m, 1wp; **Action** Dramatic ([10 - Essence] hours); **Duration** One task
+**Cost** 10m, 1wp; **Action** Dramatic ([10 - Essence] hours)[^changed-action]; **Duration** One task
 
 Choose a damaged but not completely destroyed object you can work on. If the object isn't an Artifact, you completely repair it, including repairing impossible-to-fix damage (such as burnt paper). If the object is an Artifact, you can begin and complete a project to repair it as part of the Dramatic action, and the difficulty is reduced as decided by the ST.
 
@@ -125,10 +125,10 @@ You create a temporary major project slot that can only be used for repairs. The
 
 **Upgrade (Essence 3):** You can use the Charm with a cost of 6m, 1wp to create a temporary superior project slot for repairs instead.
 
-### Chains Fall Away[^changed-action]
+### Chains Fall Away
 
 **Prerequisites** Craft 5, Essence 1, [Red Anvils Ringing](#brass-scales-falling)  
-**Cost** ---; **Action** Reflexive; **Duration** Instant  
+**Cost** ---; **Action** Reflexive[^changed-action]; **Duration** Instant  
 **Requirement** You achieve all three basic objects on a project.
 
 You gain 1gxp.
@@ -140,29 +140,29 @@ You gain 1gxp.
 
 When you purchase this Charm, and at the end of each story, roll (Intelligence + Craft) and add the effects of a full free Excellency. You gain 1sxp for each success and 1gxp for each 10.
 
-### Durability-Enhancing Technique[^changed-action]
+### Durability-Enhancing Technique
 
 **Prerequisites** Craft 5, Essence 1, [Craftsman Needs No Tools](#craftsman-needs-no-tools)    
-**Cost** 5m; **Action** Dramatic (5 minutes to 1 hour); **Duration** Instant
+**Cost** 5m; **Action** Dramatic (5 minutes to 1 hour)[^changed-action]; **Duration** Instant
 
 Choose an object of up to (Essence) yards in radius that you can work on. You increase the difficulty to damage it by 2 or (Essence), whichever is greater.
 
 If you stunt to protect the object by accident, or you protect an object that enhances your legend, you gain 1sxp if the object represents a basic project or 1gxp if the object represents a major project.
 
-### Blood Diamond Sweat[^changed-action]
+### Blood Diamond Sweat
 
 **Prerequisites** Craft 5, Essence 1, [Time Heals Nothing](#time-heals-nothing)  
-**Cost** ---; **Action** Reflexive; **Duration** Instant
+**Cost** ---; **Action** Reflexive[^changed-action]; **Duration** Instant
 **Requirement** You complete a project to repair something that isn't a Legendary Artifact.
 
 You gain +1 craft point for every basic objective completed in the project. If the project is to repair an artifact, you gain +(Artifact rating)gxp and +1wxp.
 
 ## Essence 2
 
-### Bright-Forging Prana[^changed-duration]
+### Bright-Forging Prana
 
 **Prerequisites** Craft 3, Essence 2, [Flawless Handiwork Method](#flawless-handiwork-method)  
-**Cost** Costs of chosen Charms; **Supplements** project (1/story); **Duration** One story or until project is complete, whichever comes first
+**Cost** Costs of chosen Charms; **Supplements** project (1/story); **Duration** One story or until project is complete, whichever comes first[^changed-duration]
 **Keywords** Non-Committed
 
 Choose up to (Essence or 3, whichever is greater) Craft Charms you haven't learned, satisfying Ability and Charm prerequisites but not Essence prerequisites. A chosen Charm may satisfy the Charm prerequisites of another Chosen Charm. Then, pay the Cost of each of those Charms.
@@ -180,7 +180,7 @@ Add +1ns and +(Essence)nd to the Craft roll.
 
 **Unlock (Essence 3):** Instead, add +1ns and +(Intelligence + Essence)nd to the Charm roll.
 
-### Unbroken Image Focus[^consolidated-upgrade]
+### Unbroken Image Focus
 
 **Prerequisites** Craft 4, Essence 2, [Experiential Conjuring of True Void](#experiential-conjuring-of-true-void)  
 **Cost** 3m + Xs/g/wxp; **Action** Reflexive  
@@ -189,30 +189,30 @@ Add +1ns and +(Essence)nd to the Craft roll.
 
 X is the number of successes on the roll, excluding the effect of double successes. Add +(Essence + X)ns to the roll.
 
-Upgrade ("First Movement of the Demiurge"---Craft 4, Essence 2): Also, for every 3 matching successes on the roll, choose one non-success die and change it to a 10.
+**Upgrade ("First Movement of the Demiurge"---Craft 4, Essence 2)[^consolidated-upgrade]:** Also, for every 3 matching successes on the roll, choose one non-success die and change it to a 10.
 
-### Design Beyond Limit[^changed-action]
+### Design Beyond Limit
 
 **Prerequisites** Craft 4, Essence 2, [Crack-Mending Technique](#crack-mending-technique), [Craftsman Needs No Tools](#craftsman-needs-no-tools)  
-**Cost** 10m, 1wp, 3xp; **Action** Dramatic ([10 - Essence] hours); **Duration** Instant
+**Cost** 10m, 1wp, 3xp; **Action** Dramatic ([10 - Essence] hours)[^changed-action]; **Duration** Instant
 **Requirement** You can work on an Artifact with a rating 3+ in a well-stocked workshop, and you haven't used this Charm with the same Artifact already in this story.
 
 You spend the action for this Charm reforging the Artifact. The Artifact's owner may immediately awaken a single Evocation for it, including a custom Evocation, and may awaken an Evocation in this way beyond the normal limit on Evocations for the Artifact's rating.
 
-### Object-Strengthening Touch[^needs-touch]
+### Object-Strengthening Touch
 
 **Prerequisites** Craft 5, Essence 2, [Durability-Enhancing Technique](#durability-enhancing-technique)  
 **Cost** 6m; **Action** Simple; **Duration** One scene  
-**Keywords** Mute, Touch
+**Keywords** Mute, Touch[^needs-touch]
 
 You touch an object with a radius of up to (Essence + 2) yards. The difficulty to damage or destroy the object increases by (Essence + 1). While you hold the object, it is impossible to destroy without a magic or magic-enhanced effect.
 
 This Charm's effect doesn't stack with that of [Durability-Enhancing Technique](#durability-enhancing-technique).
 
-### Chaos-Resistance Preparation[^changed-action]
+### Chaos-Resistance Preparation
 
 **Prerequisites** Craft 5, Essence 2, [Object-Strengthening Touch](#object-strengthening-touch)  
-**Cost** 5m; **Action** Dramatic (1 hour); **Duration** Instant
+**Cost** 5m; **Action** Dramatic (1 hour)[^changed-action]; **Duration** Instant
 
 You work on an object of up to (Essence) yards in radius. From now on, any character who wears or wields that object, or the object itself and any other object kept in close proximity to it, are protected from the twisting effects of the Wyld for the time period noted in the table.
 
@@ -226,10 +226,10 @@ Multiple objects enhanced by this Charm that are worn, wielded, or kept together
 
 **Unlock (Essence 3):** You may use this Charm with a Cost of 15m, 1wp and an Action of Dramatic ([10 - Stamina] hours) to apply its effect to the vehicles and equipment of up to 100 people (or a Size 2 battle group).[^number-guesswork]
 
-### Sublime Transference[^changed-action]
+### Sublime Transference
 
 **Prerequisites** Craft 5, Essence 2, [Arete-Shifting Prana](#arete-shifting-prana)  
-**Cost** 6m; **Action** Dramatic (5 minutes); **Duration** Instant
+**Cost** 6m; **Action** Dramatic (5 minutes)[^changed-action]; **Duration** Instant
 **Keywords** Mute, Unconscious
 
 Choose one:
@@ -246,10 +246,10 @@ Choose one:
 
 You can increase up to (Essence + 1) Craft ability ratings by paying gxp instead of xp. Each ability must have at least one dot, and each after the first costs 2gxp per 1xp.
 
-### Thousand-Forge Hands[^not-reflexive]
+### Thousand-Forge Hands
 
 **Prerequisites** Craft 5, Essence 2, [Craftsman Needs No Tools](#craftsman-needs-no-tools)  
-**Cost** 10m, 1wp; **Supplements** superior or legendary project; **Duration** until project is complete
+**Cost** 10m, 1wp; **Supplements** superior or legendary project[^not-reflexive]; **Duration** until project is complete
 **Keywords** Non-Committed
 
 The minimum time for the supplemented project is reduced to (6 - Essence) weeks, or (6 - Essence) months for five-dot and N/A Artifacts.
@@ -298,17 +298,17 @@ You immediately complete a major project for free. This retroactively represents
 
 If the project is clever, you gain 1sxp and 2gxp. If the project is particularly clever or interesting, you instead gain 3gxp and 1wxp.
 
-### Essence-Forging Kata[^changed-action]
+### Essence-Forging Kata
 
 **Prerequisites** Craft 5, Essence 3, [Unbroken Image Focus](#unbroken-image-focus)  
-**Cost** (2 × X)m, 1wp; **Type** Dramatic (5 minutes); **Duration** One day
+**Cost** (2 × X)m, 1wp; **Type** Dramatic (5 minutes)[^changed-action]; **Duration** One day
 
 Your Cost for the Craft Excellency is reduced by Xm.
 
-### Mind-Expanding Meditation[^changed-action]
+### Mind-Expanding Meditation
 
 **Prerequisites** Craft 5, Essence 3, [Essence-Forging Kata](#essence-forging-kata)  
-**Cost** Xsxp, 1wxp; **Supplements** Craft roll; **Duration** Instant
+**Cost** Xsxp, 1wxp; **Supplements** Craft roll[^changed-action]; **Duration** Instant
 
 Your dice cap for the supplemented roll is raised by X, to a maximum of your Craft rating.
 
@@ -321,15 +321,15 @@ The supplemented roll doesn't count towards the project's terminus.
 
 **Reset:** Complete a superior or legendary project with a goal number of 50 or more without using this Charm.
 
-### Divine Inspiration Technique[^changed-action][^consolidated-upgrade]
+### Divine Inspiration Technique
 
 **Prerequisites** Craft 5, Essence 3, [Unbroken Image Focus](#unbroken-image-focus) ×2, [Supreme Masterwork Focus](#supreme-masterwork-focus) ×2
-**Cost** ---; **Action** Reflexive; **Duration** Instant
+**Cost** ---; **Action** Reflexive[^changed-action]; **Duration** Instant
 **Requirement** You get at least three successes on a Craft roll.
 
 Add +(roll's successes ÷ 3)nd to the Craft roll. This effect applies recursively until all successes, including ones resulting from dice it added, are accounted for.
 
-**Upgrade ("Holistic Miracle Understanding"---Craft 5, Essence 4):** Also, if the dice added by this Charm result in three or more successes, add +3nd to the roll.
+**Upgrade ("Holistic Miracle Understanding"---Craft 5, Essence 4)[^consolidated-upgrade]:** Also, if the dice added by this Charm result in three or more successes, add +3nd to the roll.
 
 ### The Art of Permanence
 
@@ -338,10 +338,10 @@ Add +(roll's successes ÷ 3)nd to the Craft roll. This effect applies recursivel
 
 An object created by the supplemented project is immune to damage from gradual wear or normal use, even if it would otherwise be destroyed by such use (such as lighting a candle). It is also Obvious to others and to any future reincarnations of yourself that you are the one who created the object.
 
-### Realizing the Form Supernal[^changed-duration]
+### Realizing the Form Supernal
 
 **Prerequisites** Craft 5, Essence 3, [Breach-Healing Method](#breach-healing-method)  
-**Cost** 5m, 1wp; **Supplements** Breach-Healing Method (1/story); **Duration** Until task is complete  
+**Cost** 5m, 1wp; **Supplements** Breach-Healing Method (1/story); **Duration** Until task is complete  [^changed-duration]
 **Keywords** Non-Committed
 **Requirement** Your task for the supplemented use of Breach-Healing Method is to repair an artifact.
 
@@ -349,18 +349,18 @@ The task's difficulty is reduced by 1, and the goal number for it is reduced by 
 
 **Reset:** Complete a project to repair an Artifact without using this Charm.
 
-### Celestial Reforging Technique[^changed-action]
+### Celestial Reforging Technique
 
 **Prerequisites** Craft 5, Essence 3, [Design Beyond Limit](#design-beyond-limit)  
-**Cost** 10m, 1wp, 3xp; **Action** Dramatic ([10 - Essence] hours); **Duration** Instant
+**Cost** 10m, 1wp, 3xp; **Action** Dramatic ([10 - Essence] hours)[^changed-action]; **Duration** Instant
 **Requirement** You can work on an Artifact, and it has one or more active Evocations, and you haven't used this Charm with the same Artifact already in this story.
 
 You spend the action for this Charm reforging the Artifact. The Artifact's owner may deactivate any number of the Artifact's active Evocations to activate the same number in other Evocations, including custom Evocations. The owner must meet any prerequisites for the new Evocations, and can't deactivate an Evocation that's a prerequisite for any other active Evocation.
 
-### Copper Spider Conception[^changed-action]
+### Copper Spider Conception
 
 **Prerequisites** Craft 5, Essence 3, [Dragon Soul Emergence](#dragon-soul-emergence)  
-**Cost** 5m, 1wp; **Action** Dramatic (ten minutes); **Duration** Instant  
+**Cost** 5m, 1wp; **Action** Dramatic (ten minutes)[^changed-action]; **Duration** Instant  
 
 You may create a superior project slot with the cost lowered by 2gxp and two major project slots, to a minimum of 1gxp and one major project slot.
 
@@ -386,10 +386,10 @@ You gain (rating of the Artifact under construction + Essence)sxp.
 
 Your cost to finish a superior project is reduced by (Essence)gxp, to a minimum of 3gxp.
 
-### Summit-Piercing Touch[^changed-action]
+### Summit-Piercing Touch
 
 **Prerequisites** Craft 5, Essence 3, [Ages-Echoing Wisdom](#ages-echoing-wisdom)  
-**Cost** 10m, 1wp; **Supplements** superior project to build a two-dot Artifact; **Duration** until project is completed
+**Cost** 10m, 1wp; **Supplements** superior project to build a two-dot Artifact[^changed-action]; **Duration** until project is completed
 
 The supplemented project uses a major project slot instead of a superior project slot.
 
@@ -407,10 +407,10 @@ You immediately produce a finished two-dot Artifact for free. You don't earn cra
 
 **Unlock (Essence 5):** You may produce a three-dot artifact instead.
 
-### Words-as-Workshop Method[^changed-duration]
+### Words-as-Workshop Method
 
 **Prerequisites** Craft 5, Essence 3, [Craftsman Needs No Tools](#craftsman-needs-no-tools), [Vice-Miracle Technique](#vice-miracle-technique)  
-**Cost** 5m, 1wp; **Action** Simple; **Duration** One scene
+**Cost** 5m, 1wp; **Action** Simple; **Duration** One scene[^changed-duration]
 **Keywords** Mute, Non-Committed, Stackable  
 **Requirement** A Craft, Lore, Medicine, Occult, or Investigation task is at hand.
 
