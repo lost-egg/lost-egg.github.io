@@ -11,8 +11,6 @@ title: Craft Charms
 
 [^needs-touch]: This Charm was missing the Touch keyword in the original text.
 
-[^evocation-tiers-dont-exist]: The original text for this Charm referenced evocation tiers that don't exist. This version attempts to compensate for that.
-
 [^consolidated-upgrade]: A separate Charm was listed as an upgrade for this Charm. The two Charms have been consolidated.
 
 [^number-guesswork]: The number given here is guesswork, as the original text is unclear.
@@ -193,17 +191,13 @@ X is the number of successes on the roll, excluding the effect of double success
 
 Upgrade ("First Movement of the Demiurge"---Craft 4, Essence 2): Also, for every 3 matching successes on the roll, choose one non-success die and change it to a 10.
 
-### Design Beyond Limit[^evocation-tiers-dont-exist][^changed-action]
+### Design Beyond Limit[^changed-action]
 
 **Prerequisites** Craft 4, Essence 2, [Crack-Mending Technique](#crack-mending-technique), [Craftsman Needs No Tools](#craftsman-needs-no-tools)  
 **Cost** 10m, 1wp, 3xp; **Action** Dramatic ([10 - Essence] hours); **Duration** Instant
-**Requirement** You can work on an Artifact weapon, and the Artifact's owner has unlocked all of its possible Evocations.
+**Requirement** You can work on an Artifact with a rating 3+ in a well-stocked workshop, and you haven't used this Charm with the same Artifact already in this story.
 
-You spend the action for this Charm reforging the weapon. The weapon gains three new inactive Evocations. The new Evocations reflect a combination of the theme of the weapon, the nature of the weapon's owner, and the style of your design.
-
-If you're not the weapon's owner, the weapon's owner may pay the xp for the Cost.
-
-You can't use this Charm again with the same weapon until the Evocations previously added by it have been learned by the weapon's owner.
+You spend the action for this Charm reforging the Artifact. The Artifact's owner may immediately awaken a single Evocation for it, including a custom Evocation, and may awaken an Evocation in this way beyond the normal limit on Evocations for the Artifact's rating.
 
 ### Object-Strengthening Touch[^needs-touch]
 
@@ -359,13 +353,9 @@ The task's difficulty is reduced by 1, and the goal number for it is reduced by 
 
 **Prerequisites** Craft 5, Essence 3, [Design Beyond Limit](#design-beyond-limit)  
 **Cost** 10m, 1wp, 3xp; **Action** Dramatic ([10 - Essence] hours); **Duration** Instant
-**Requirement** You can work on an Artifact weapon, and it has active Evocations.
+**Requirement** You can work on an Artifact, and it has one or more active Evocations, and you haven't used this Charm with the same Artifact already in this story.
 
-You spend the action for this Charm reforging the weapon. Choose X Evocations from the weapon's possible Evocations, where X is the number of currently active Evocations. The weapon's previously active Evocations become inactive, and the chosen Evocations become active.
-
-If you're not the weapon's owner, the weapon's owner may pay the xp for the Cost.
-
-You can only use this Charm with a specific weapon once per story.
+You spend the action for this Charm reforging the Artifact. The Artifact's owner may deactivate any number of the Artifact's active Evocations to activate the same number in other Evocations, including custom Evocations. The owner must meet any prerequisites for the new Evocations, and can't deactivate an Evocation that's a prerequisite for any other active Evocation.
 
 ### Copper Spider Conception[^changed-action]
 
