@@ -54,7 +54,7 @@ As [Read Intentions](/social-influence/#read-intentions), except as noted, and y
 
 ### All-Seeing Master Procurer[^added-mechanics]
 
-**Prerequisites** Bureaucracy 4, Essence 1, Consumer-Evaluating Glance  
+**Prerequisites** Bureaucracy 4, Essence 1, [Consumer-Evaluating Glance](#consumer-evaluating-glance)  
 **Cost** 5m; **Action** Reflexive; **Duration** One scene
 
 Other characters who observe or interact with you are treated as though they had a Minor Tie considering you to be a master merchant in every field and region of commerce.
@@ -63,7 +63,7 @@ You can use [Insightful Buyer Technique](#insightful-buyer-technique) for 1m wit
 
 ### Illimitable Master Fence
 
-**Prerequisites** Bureaucracy 5, Essence 1, All-Seeing Master Procurer  
+**Prerequisites** Bureaucracy 5, Essence 1, [All-Seeing Master Procurer](#all-seeing-master-procurer)  
 **Cost** 1m; **Action** Dramatic (one day); **Duration** Instant  
 
 You spend the Action in a specific market, taking the part of a normal customer, merchant, or trader. You learn the Bureaucracy specialties of everyone who regularly buys or sells there. If you don't already know of a given character, you learn their Bureaucracy specialties but not their name or appearance.
@@ -81,14 +81,14 @@ Each use of this Charm in a scene after the first has a Cost of 0m.
 
 ### Measuring Glance
 
-**Prerequisites** Bureaucracy 2, Essence 1, Deft Official's Way  
+**Prerequisites** Bureaucracy 2, Essence 1, [Deft Official's Way](#deft-officials-way)  
 **Cost** 5m; **Action** Simple; **Duration** Instant
 
 As [Read Intentions](/social-influence/#read-intentions), except that it doesn't have the normal "choose one" benefit. Choose an organization, and make a ([Social or Mental Attribute] + Bureaucracy) roll with +(Essence)s at a difficulty of the target's Guile. You automatically succeed if the target doesn't resist with magic or the target has lower temporary Willpower than your temporary Willpower. If you succeed, you learn the target's strongest or most relevant Intimacy relating to the chosen organization.
 
 ### Enigmatic Bureau Understanding[^added-mechanics]
 
-**Prerequisites** Bureaucracy 4, Essence 1, Measuring Glance  
+**Prerequisites** Bureaucracy 4, Essence 1, [Measuring Glance](#measuring-glance)  
 **Permanent**
 
 For each organization that you control, whenever a member of that organization with an Intimacy that you know of towards it is targeted by non-Psyche social influence that attempts to weaken that Intimacy, you learn that the attempt was made (but not whether it was successful or who attempted it).
@@ -97,21 +97,21 @@ If the character isn't on active duty for that organization at the time (such as
 
 ### Speed the Wheels
 
-**Prerequisites** Bureaucracy 5, Essence 1, Deft Official's Way  
+**Prerequisites** Bureaucracy 5, Essence 1, [Deft Official's Way](#deft-officials-way)  
 **Cost** 8m; **Action** Simple; **Duration** One task
 
 Choose a task being performed by an organization. You reduce the duration of that task by (Essence) degrees, from centuries, to seasons, to months, to weeks, to days, to minutes, to immediately complete as part of the Action. Any task that would take less than a day is finished immediately as part of the Action.
 
 ### Bureau-Rectifying Method[^added-mechanics]
 
-**Prerequisites** Bureaucracy 5, Essence 1, Speed the Wheels  
+**Prerequisites** Bureaucracy 5, Essence 1, [Speed the Wheels](#speed-the-wheels)  
 **Cost** 10m, 1wp; **Action** Simple; **Duration** One investigation
 
 Choose an organization. You get (Bureaucracy)s on Investigation and Socialize rolls that would aid an investigation into the chosen organization. You treat members of that organization as having a Major Tie towards you as a subject of confidential trust, or as having a Minor Tie if they have at least Willpower 5 and would suffer personal harm from revealing the truth.
 
 ### Enlightened Discourse Method
 
-**Prerequisites** Bureaucracy 3, Essence 1, Deft Official's Way, Frugal Merchant Method  
+**Prerequisites** Bureaucracy 3, Essence 1, [Deft Official's Way](#deft-officials-way), [Frugal Merchant Method](#frugal-merchant-method)  
 **Cost** 4m; **Action** Reflexive; **Duration** One scene
 
 Add (Bureaucracy ÷ 2, rounded up) to rolls for social influence that relates to business, commerce, or organizations.
@@ -120,21 +120,21 @@ Add (Bureaucracy ÷ 2, rounded up) to rolls for social influence that relates to
 
 ### Irresistible Salesman Spirit
 
-**Prerequisites** Bureaucracy 5, Essence 2, Consumer-Evaluating Glance, Insightful Buyer Technique  
+**Prerequisites** Bureaucracy 5, Essence 2, [Consumer-Evaluating Glance](#consumer-evaluating-glance), [Insightful Buyer Technique](#insightful-buyer-technique)  
 **Cost** 6m, 1wp; **Supplements** [Bargain](/social-influence/#bargain)
 
 On the supplemented Bargain's roll, double each 7. If it succeeds, you get 1wp.
 
 ### Ungoverned Market Awareness
 
-**Prerequisites** Bureaucracy 5, Essence 2, Illimitable Master Fence  
+**Prerequisites** Bureaucracy 5, Essence 2, [Illimitable Master Fence](#illimitable-master-fence)  
 **Permanent**
 
 Each time a character you can sense uses Bureaucracy or Larceny for the purposes of commerce, you learn they are doing so and which Ability they are using (but not other information about them).
 
 ### Bureau-Reforming Kata
 
-**Prerequisites** Bureaucracy 5, Essence 2, Bureau-Rectifying Method, Enigmatic Bureau Understanding
+**Prerequisites** Bureaucracy 5, Essence 2, [Bureau-Rectifying Method](#bureau-rectifying-method), [Enigmatic Bureau Understanding](#enigmatic-bureau-understanding)  
 **Cost** 5m, 1wp; **Action** Reflexive; **Duration** Instant  
 **Target** An organization you control
 
@@ -142,7 +142,7 @@ For each harmful magical effect you are of aware of affecting the target organiz
 
 ### Indolent Official Charm
 
-**Prerequisites** Bureaucracy 5, Essence 2, Deft Official's Way  
+**Prerequisites** Bureaucracy 5, Essence 2, [Deft Official's Way](#deft-officials-way)  
 **Cost** 5m; **Action** Simple; **Duration** Indefinite  
 **Keywords** Stackable (Essence)
 
@@ -150,7 +150,7 @@ Choose a task being performed by an organization you know about, or that could b
 
 ### Semantic Argument Technique
 
-**Prerequisites** Bureaucracy 5, Essence 2, Enlightened Discourse Method  
+**Prerequisites** Bureaucracy 5, Essence 2, [Enlightened Discourse Method](#enlightened-discourse-method)  
 **Cost** 1m; **Supplements** social influence attempt  
 **Requirement** You are aware of a Defining Principle of the attempt's target's that supports the supplemented social influence attempt, or you are aware of the rules of an organization the attempt's target usually follows.
 
@@ -160,7 +160,7 @@ The roll for the supplemented social influence attempt gets +(Bureaucracy ÷ 2, 
 
 ### Pattern-Exploiting Commerce Spirit[^added-mechanics]
 
-**Prerequisites** Bureaucracy 5, Essence 3, Ungoverned Market Awareness  
+**Prerequisites** Bureaucracy 5, Essence 3, [Ungoverned Market Awareness](#ungoverned-market-awareness)  
 **Cost** 5m; **Action** Simple; **Duration** Indefinite  
 **Keywords** Mute
 
@@ -174,7 +174,7 @@ Characters who meet the following criteria learn how to reach your location and 
 
 ### Empowered Barter Stance
 
-**Prerequisites** Bureaucracy 5, Essence 3,Irresistible Salesman Spirit
+**Prerequisites** Bureaucracy 5, Essence 3, [Irresistible Salesman Spirit](#irresistible-salesman-spirit)  
 **Cost** ---; **Action** Reflexive[^changed-action] (1/day); **Duration** Instant  
 **Trigger** You succeed at a [Bargain](/social-influence/#bargain).
 
@@ -182,7 +182,7 @@ You get 1wp.
 
 ### Soul-Snaring Pitch
 
-**Prerequisites** Bureaucracy 5, Essence 3, Irresistible Salesman Spirit  
+**Prerequisites** Bureaucracy 5, Essence 3, [Irresistible Salesman Spirit](#irresistible-salesman-spirit)  
 **Cost** 5m, 1wp; **Action** Simple; **Duration** Instant  
 **Keywords** Mute, Psyche
 
@@ -190,7 +190,7 @@ As [Bargain](/social-influence/#bargain), except that the influence roll is (Man
 
 ### Woe-Capturing Web
 
-**Prerequisites** Bureaucracy 5, Essence 3, Bureau-Reforming Kata  
+**Prerequisites** Bureaucracy 5, Essence 3, [Bureau-Reforming Kata](#bureau-reforming-kata)  
 **Cost** ---; **Action** Reflexive; **Duration** Instant  
 **Trigger** An organization you control is targeted by harmful magic.
 
@@ -198,19 +198,19 @@ You learn that the attempt to affect your organization is happening (but not oth
 
 If you successfully guess the attempt's source, your guess is confirmed and you may use either or both of the following:
 
-- You use [Bureau-Reforming](#bureau-reforming-kata) Kata with an Action of Reflexive.
+- You use [Bureau-Reforming Kata](#bureau-reforming-kata) with an Action of Reflexive.
 - You commit (harmful magic's mote cost)m. If you do, the source treats their spent motes as committed as long as you keep those motes committed.
 
 ### Omen-Spawning Beast
 
-**Prerequisites** Bureaucracy 5, Essence 3, Woe-Capturing Web
+**Prerequisites** Bureaucracy 5, Essence 3, [Woe-Capturing Web](#woe-capturing-web)  
 **Permanent**
 
-Whenever you trap motes using Woe-Capturing Web, the involved organization produces hard evidence showing the identity of the attempt's source.
+Whenever you trap motes using [Woe-Capturing Web](#woe-capturing-web), the involved organization produces hard evidence showing the identity of the attempt's source.
 
 ### Foul Air of Argument Technique
 
-**Prerequisites** Bureaucracy 5, Essence 3, Indolent Official Charm  
+**Prerequisites** Bureaucracy 5, Essence 3, [Indolent Official Charm](#indolent-official-charm)  
 **Cost** 13m, 1wp; **Action** Simple; **Duration** Indefinite  
 **Target** A project being carried out by an organization you haven't affected with this Charm yet this season
 
@@ -218,7 +218,7 @@ Roll ([Charisma or Manipulation] + Bureaucracy) at a difficulty of ([Bureaucracy
 
 ### Eclectic Verbiage of Law
 
-**Prerequisites** Bureaucracy 5, Essence 3, Semantic Argument Technique
+**Prerequisites** Bureaucracy 5, Essence 3, [Semantic Argument Technique](#semantic-argument-technique)  
 **Cost** ---; **Action** Reflexive (1/season); **Duration** Instant
 
 As a full Bureaucracy Excellency, except as noted.
@@ -227,7 +227,7 @@ As a full Bureaucracy Excellency, except as noted.
 
 ### Infinitely-Efficient Register
 
-**Prerequisites** Bureaucracy 5, Essence 3, Omen-Spawning Beast  
+**Prerequisites** Bureaucracy 5, Essence 3, [Omen-Spawning Beast](#omen-spawning-beast)  
 **Cost** ---; **Action** Dramatic (1/story)[^changed-action]; **Duration** Instant  
 **Target** An organization you control  
 **Requirement** The target has succeeded on a challenging project within the last season.
@@ -240,7 +240,7 @@ Use of this Charm doesn't fulfill Requirements about completing challenging proj
 
 ### Creation of Adamant Specie
 
-**Prerequisites** Bureaucracy 5, Essence 4, Pattern-Exploiting Commerce Spirit  
+**Prerequisites** Bureaucracy 5, Essence 4, [Pattern-Exploiting Commerce Spirit](#pattern-exploiting-commerce-spirit)  
 **Cost** 5m; **Action** Simple (1/day); **Duration** Indefinite  
 **Keywords** Mute, Non-Committed Stackable (Esseence), Touch[^needs-touch]  
 **Target** One coin made of a natural metal
@@ -261,7 +261,7 @@ To intentionally end the Duration, you must pay 1m. When the Duration ends, the 
 
 ### Spectacle-Inciting Order
 
-**Prerequisites** Bureaucracy 5, Essence 4, Infinitely-Efficient Register  
+**Prerequisites** Bureaucracy 5, Essence 4, [Infinitely-Efficient Register](#infinitely-efficient-register)  
 **Cost** 8m; **Action** Simple (1/season); **Duration** Instant  
 **Requirement** You are publicly known in a specific location as being a Bureaucracy specialist, and you control an organization in that location.
 
@@ -269,7 +269,7 @@ When you use this Charm, an exotic package publicly arrives for you from a magic
 
 ### Taboo-Inflicting Diatribe
 
-**Prerequisites** Bureaucracy 5, Essence 4, Foul Air of Argument Technique  
+**Prerequisites** Bureaucracy 5, Essence 4, [Foul Air of Argument Technique](#foul-air-of-argument-technique)  
 **Cost** 10m, 1wp; **Action** Dramatic (one scene); **Duration** Indefinite  
 **Keywords** Stackable (Essence)  
 **Target** An organization you control
@@ -278,7 +278,7 @@ Choose a given specific action, such as 'stealing from the organization' or 'ste
 
 ### Subject-Hailing Ideology
 
-**Prerequisites** Bureaucracy 5, Essence 4, Eclectic Verbiage of Law  
+**Prerequisites** Bureaucracy 5, Essence 4, [Eclectic Verbiage of Law](#eclectic-verbiage-of-law)  
 **Cost** 5m; **Supplements** social influence attempt that relates a target's current or former organizational role; **Duration** Instant  
 **Requirement** The social influence attempt could be supported by an Intimacy that the target once held, or that the target once held at a stronger intensity, and you're aware of that previous Intimacy.
 
@@ -288,14 +288,14 @@ For the social influence attempt, you treat the target as though they had the gi
 
 ### Order-Conferring Action
 
-**Prerequisites** Bureaucracy 5, Essence 5, Taboo-Inflicting Diatribe  
+**Prerequisites** Bureaucracy 5, Essence 5, [Taboo-Inflicting Diatribe](#taboo-inflicting-diatribe)  
 **Cost** 10m, 1wp; **Action** Dramatic; **Duration** One week
 
 As part of the Action, you personally or impersonally give advice to members on organization. Roll (Charisma + Bureaucracy) against difficulty 5. If you succeed, the organization's controllers gain a pool of (Essence) order points and an order bonus of (extra successes)nd. They may spend an order point to gain the order bonus on a Bureaucracy, Investigation, Larceny, Lore, Medicine or War roll. Unspent order points and the order bonus are lost when the Duration ends. If a Solar is one of the organization's controllers, areas the organization controls are resistant to Wyld incursions, Shadowland incursions, and the spread of disease.
 
 ### Honor-Instilling Mantra
 
-**Prerequisites** Bureaucracy 5, Essence 2, Enigmatic Bureau Understanding  
+**Prerequisites** Bureaucracy 5, Essence 2, [Enigmatic Bureau Understanding](#enigmatic-bureau-understanding)  
 **Cost** 6m; **Action** Dramatic (one hour); **Duration** Permanent  
 **Keywords** Eternal, Mute, Non-Committed  
 **Target** An organization you control
