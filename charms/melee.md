@@ -15,7 +15,19 @@ title: Melee Charms
 
 [^no-dual]: The Dual keyword from the original text has been removed, as it's unnecessary with this notation.
 
+Keywords:
+
+- **Post-Attack:** A Supplemental effect with this Keyword is declared after the attack roll is made and its result is determined.
+
 ## Essence 1
+
+### Nimble Reaving Wind[^no-dual]
+
+**Prerequisites** Melee 1, Essence 1  
+**Cost** 1m; **Action** Reflexive; **Duration** Instant  
+**Requirement** It's your turn, you're at short range with an opponent you currently aren't at close range with, and you have a Simple action available to use.
+
+You may cover ground 1 to exit close range from an opponent without having to [Disengage](/combat/#disengage). Then, you cover ground 1 to enter close range with a different opponent. You must if possible use a Simple action this turn to attack the new opponent.
 
 ### Excellent Strike[^no-uniform]
 
@@ -32,6 +44,13 @@ On the supplemented attack's roll, add +1s and reroll each 1.
 If the supplemented attack is withering, X can be up to (Strength). Add +X to the post-soak damage after applying the minimum damage rule.
 
 If the supplemented attack is decisive, X can be up to (the greater of [Essence] or 3). Add +(the lower of X or the number of successes on the attack roll)s to the raw damage.
+
+### Gleaming Sever[^no-uniform]
+
+**Prerequisites** Melee 4, Essence 1, Fire and Stones Strike  
+**Cost** 1m, 1i; **Supplements** Melee attack; **Duration** Instant
+
+The supplemented attack's attack roll gets +1s, and its damage roll gets +1. The attack has minimum damage of at least 1, even if it's decisive. If the attack is a clash used against scenery, its damage roll gets +3s.
 
 ### One Weapon, Two Blows[^consolidated-upgrade]
 
@@ -56,6 +75,16 @@ Make a Melee attack.
 **Cost** 2m; **Supplements** application of Parry[^action-changed]; **Duration** Instant
 
 Your supplemented application of Parry igores penalties, except for surprise attack penalties. If the attack roll against your Parry fails, you get 1i.
+
+### Arc Shedding Rain Technique[^no-uniform]
+
+**Prerequisites** Melee 3, Essence 1, Dipping Swallow Defense  
+**Cost** 3m; **Action** Reflexive (1/round); **Duration** Instant  
+**Trigger** You successfully apply Parry against a trivial opponent.
+
+As [Disarm](/combat/#disarm) against the triggering opponent, except as noted, and it's automatically successful.
+
+**Reset:** Succesfully apply Parry with a -2 or greater onslaught penalty, or successfully apply Parry against a non-trivial opponent, or kill an opponent with a counterattack.
 
 ### Bulwark Stance
 
@@ -110,11 +139,19 @@ The target vanishes. When the Duration ends, it reappears on your person and is 
 
 **Prerequisites** Melee 4, Essence 2, Fire and Stones Strike
 **Cost** 1m; **Action** Reflexive; **Duration** Instant   
-**Trigger** You make an attack roll using a full Meele Excellency, and the roll result has a 7, an 8, a 9, and a 10.
+**Trigger** You make an attack roll using a full Melee Excellency, and the roll result has a 7, an 8, a 9, and a 10.
 
 Add +1ns and +Xnd to the triggering roll, where X is (Essence).
 
 **Upgrade (Melee 5, Essence 3):** For each 10 in the triggering roll, you get 1m.
+
+## Stark Truth of Steel Method[^no-uniform]
+
+**Prerequisites** Fire and Stones Strike  
+**Cost** 2m, 1i; **Action** Reflexive; **Duration** Instant  
+**Trigger** An opponent applies Defense against you with the aid of magic you've observed since the last time you used this Charm against them (if ever).
+
+Add +1ns to your attack roll against the triggering opponent's Defense.
 
 ### Iron Whirlwind Attack[^no-decisive][^consolidated-upgrade]
 
@@ -255,12 +292,31 @@ Queue a withering Melee counterattack against the triggering attack. You don't g
 ### Fervent Blow[^no-decisive][^consolidated-upgrade]
 
 **Prerequisites** Melee 5, Essence 3, Flashing Edge of Dawn  
-**Cost** 1m, 1wp; **Action** Reflexive; **Duration** Instant
+**Cost** 1m, 1wp; **Action** Reflexive; **Duration** Instant  
+**Keywords** Clash  
 **Trigger** You're targeted by an attack you could clash.
 
 Make a decisive Melee clash attack against the triggering attack.
 
-**Upgrade:** You may use this Charm with a Cost of 7m, 1wp. If you do and the clash is successful, you also apply the effect of Flashing Edge of Dawn, but resolve the counterattack before rolling damage, and add the pool of raw damage from it (if any) to your total damage roll.
+**Upgrade ("Over-and-Under Method"):** You may use this Charm with a Cost of 7m, 1wp. If you do and the clash is successful, you also apply the effect of Flashing Edge of Dawn, but resolve the counterattack before rolling damage, and add the pool of raw damage from it (if any) to your total damage roll.
+
+**Upgrade ("Omniscient Focus Attack"):** You may use this Charm with a Cost of 6m, 1wp. If you do, you treat ambushes and attacks by immaterial opponents as valid for the Trigger, and you can harm an immaterial opponent with the clash.
+
+### All-Sundering Strike
+
+**Prerequisites** Melee 5, Essence 3, Fervent Blow, Hail-Shattering Practice  
+**Cost** 3m, 1wp; **Supplements** Melee clash attack; **Duration** Instant  
+**Keywords** Clash
+
+For the supplemented attack's attack roll, roll twice and take the higher result. Apply any other effects to both rolls equally.
+
+### Shattering Clash[^no-decisive]
+
+**Prerequisites** Melee 5, Essence 3, Fervent Blow  
+**Cost** 5m; **Supplements** decisive Melee attack; **Duration** Instant  
+**Keywords** Post-Attack
+
+If the attack deals at least 6hl damage, you may reduce the attack's damage by 3hl to destroy a weapon that's readied by the attack's target and not made of magical material.
 
 ### Immortal Blade Triumphant
 
@@ -308,7 +364,42 @@ You gain the following abilities:
 
 Make a special decisive Melee attack at short range, using (Dexterity + Melee) for the attack roll and with a base damage of (Essence + threshold successes on the attack roll), without using your Initiative and without resetting to base Initiative afterward. This attack ignores hardness and is undodgeable and unblockable without magic. You can pay Xa, where X is up to 4, to increase the range by X zones. If the attack's target is a creature of darkness, the attack is Aggravated.
 
-*Reset:* Successfully make decisive attack with 7+ Initiative, then increase your Initiative to 12+.
+*Reset:* Successfully make a decisive attack with 7+ Initiative, then increase your Initiative to 12+.
+
+### Whirlwind-Tempest Deflection[^no-decisive]
+
+**Prerequisites** Melee 5, Essence 3, Flashing Edge of Dawn, Heavenly Guardian Defense  
+**Cost** 6m, 1wp; **Action** Reflexive (1/combat); **Duration** Instant  
+**Keywords** Counterattack, Perilous
+
+Whenever you succesfully apply Parry against a decisive attack with 17+ base damage, as a counterattack, you deal Xs damage to all non-magical scenery within close range, you roll X decisive damage against (greater of Essence or three) non-trivial opponents within close range, and you deal (highest damage roll success count against non-trivial opponents + 3)s damage against all trivial opponents within close range, where X is (decisive attack's base damage ÷ 2, rounded down).
+
+If you know Sandstorm-Wind Attack, you may use this Charm with a Cost of 9m, 1wp. If you do, it works at short range instead of close range.
+
+*Reset:* Raise Initiative to 20+ and then successfully make a decisive attack, or roll Join Battle.
+
+### Victorious Wreath (Against the World Stance)
+
+**Prerequisites** Melee 5, Essence 3, Fivefold Bulwark Stance, Ready in Eight Directions Stance  
+**Cost** 6m, 1wp (+1i per round); **Action** Reflexive; **Duration** One scene  
+**Keywords** Perilous
+
+Each time you successfully apply Parry, you get X victory points, where X is (Parry - attack roll's sucesses + 1). These points last until the end of your next turn and can be spent as if they were motes on Melee Charms.
+
+If you're crashed, the Duration ends.
+
+**Upgrade:** If you have Ready in Eight Directions Stance ongoing, if you succesfully apply Parry against every attack targeting you in a round, your Initiative doesn't reset to base at the end of that Charm's Duration.
+
+### Divine Executioner Stance[^no-uniform]
+
+**Prerequisites** Melee 5, Essence 3, Rising Sun Slash  
+**Cost** 6m; **Action** Simple; **Duration** Indefinite
+
+Choose a Principle or Tie that you have. As part of the Action, you declare your intent to protect that Intimacy.
+
+You gain access to the following power:
+
+- *Cost* 1m; *Supplements* Melee attack; *Duration* Instant; *Requirement* The supplemented attack protects the subject of the  chosen Intimacy in some way. Add +X to the attack roll, where X is (choseen Intimacy's Intensity). If the target has acted to threaten the subject of one of your Intimacies (even if you're not aware of it), the damage roll gets +Y, where Y is (Intensity of target's strongest opposed Intimacy). If the target is a creature of darkness, the damage roll gets +1 and +1ns and the attack is Aggravated.
 
 ## Essence 4
 
