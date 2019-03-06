@@ -148,7 +148,7 @@ Add +1ns and +Xnd to the triggering roll, where X is (Essence).
 
 **Upgrade (Melee 5, Essence 3):** For each 10 in the triggering roll, you get 1m.
 
-## Stark Truth of Steel Method[^no-uniform]
+### Stark Truth of Steel Method[^no-uniform]
 
 **Prerequisites** Fire and Stones Strike  
 **Cost** 2m, 1i; **Action** Reflexive; **Duration** Instant  
