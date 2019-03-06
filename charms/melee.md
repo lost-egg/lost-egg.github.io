@@ -77,7 +77,7 @@ Make a Melee attack.
 **Prerequisites** Melee 1, Essence 1  
 **Cost** 2m; **Supplements** application of Parry[^action-changed]; **Duration** Instant
 
-Your supplemented application of Parry igores penalties, except for surprise attack penalties. If the attack roll against your Parry fails, you get 1i.
+Your supplemented application of Parry ignores penalties, except for surprise attack penalties. If the attack roll against your Parry fails, you get 1i.
 
 ### Arc Shedding Rain Technique[^no-uniform]
 
