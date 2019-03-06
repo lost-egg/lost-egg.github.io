@@ -7,6 +7,8 @@ title: Melee Charms
 
 [^consolidated-upgrade]: A separate Charm was listed as an upgrade for this Charm. The two Charms have been consolidated.
 
+[^needs-obvious]: This Charm was described as an Obvious effect, but that keyword didn't exist.
+
 [^no-uniform]: The Uniform keyword from the original text has been removed, as it's unnecessary with this notation.
 
 [^no-decisive]: The Decisive-only keyword from the original text has been removed, as it served no mechanical purpose.
@@ -17,6 +19,7 @@ title: Melee Charms
 
 Keywords:
 
+- **Obvious:** This effect is obviously magical.
 - **Post-Attack:** A Supplemental effect with this Keyword is declared after the attack roll is made and its result is determined.
 
 ## Essence 1
