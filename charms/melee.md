@@ -408,7 +408,7 @@ You gain access to the following power:
 
 ## Essence 4
 
-### Heaven Sword Flash[^no-deceisive]
+### Heaven Sword Flash[^no-decisive]
 
 **Prerequisites** Melee 5, Essence 4, Iron Whirlwind Attack x2  
 **Cost** 7m, 1wp; **Action** Simple; **Duration** Instant  
