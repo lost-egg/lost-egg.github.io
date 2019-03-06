@@ -13,6 +13,8 @@ title: Bureaucracy Charms
 
 [^needs-touch]: This Charm was missing the Touch keyword in the original text.
 
+[^range-guesswork]: The listed range is guesswork, as the original text is unclear.
+
 Notation:
 
 * **Xs:** X successes.
@@ -158,7 +160,7 @@ The roll for the supplemented social influence attempt gets +(Bureaucracy ÷ 2, 
 
 ## Essence 3
 
-### Pattern-Exploiting Commerce Spirit[^added-mechanics]
+### Pattern-Exploiting Commerce Spirit[^added-mechanics][^range-guesswork]
 
 **Prerequisites** Bureaucracy 5, Essence 3, [Ungoverned Market Awareness](#ungoverned-market-awareness)  
 **Cost** 5m; **Action** Simple; **Duration** Indefinite  
