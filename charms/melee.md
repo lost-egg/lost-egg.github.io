@@ -104,6 +104,8 @@ Roll (Wits + Melee) at difficulty 4. If you succeed, the target instantly appear
 
 The target vanishes. When the Duration ends, it reappears on your person and is readied as if with [Ready Weapon](/combat/#ready-weapon)
 
+## Essence 2
+
 ### Rising Sun Slash[^no-uniform][^consolidated-upgrade]
 
 **Prerequisites** Melee 4, Essence 2, Fire and Stones Strike
@@ -219,6 +221,8 @@ Make a decisive Melee attack at short range. It ignores hardness and does (Essen
 **Trigger** You deal at least 1 damage with a Melee attack.
 
 Roll (Essence). You deal that much damage to the same target as the triggering attack, and this damage ignores hardness.
+
+## Essence 3
 
 ### Hungry Tiger Technique[^no-dual]
 
