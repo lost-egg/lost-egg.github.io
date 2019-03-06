@@ -5,6 +5,8 @@ title: Melee Charms
 {:toc}
 * TOC
 
+[^changed-action]: This Charm has a different action in the source text, but has been changed here to better reflect how it's used in play.
+
 [^consolidated-upgrade]: A separate Charm was listed as an upgrade for this Charm. The two Charms have been consolidated.
 
 [^needs-obvious]: This Charm was described as an Obvious effect, but that keyword didn't exist.
