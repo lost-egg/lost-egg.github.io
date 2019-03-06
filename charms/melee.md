@@ -9,6 +9,8 @@ title: Melee Charms
 
 [^needs-obvious]: This Charm was described as an Obvious effect, but that keyword didn't exist.
 
+[^needs-touch]: This Charm was missing the Touch keyword in the original text.
+
 [^no-uniform]: The Uniform keyword from the original text has been removed, as it's unnecessary with this notation.
 
 [^no-decisive]: The Decisive-only keyword from the original text has been removed, as it served no mechanical purpose.
