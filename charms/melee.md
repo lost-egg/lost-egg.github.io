@@ -313,7 +313,7 @@ Make a decisive Melee clash attack against the triggering attack.
 **Cost** 3m, 1wp; **Supplements** Melee clash attack; **Duration** Instant  
 **Keywords** Clash
 
-For the supplemented attack's attack roll, roll twice and take the higher result. Apply any other effects to both rolls equally.
+For the supplemented attack's attack roll, roll twice and take the higher result. Apply effects to both rolls with a single activation.
 
 ### Shattering Clash[^no-decisive]
 
