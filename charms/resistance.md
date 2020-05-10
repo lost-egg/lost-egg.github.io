@@ -20,7 +20,7 @@ title: Resistance Charms
 
 Keywords:
 
-- **Autonomic:** This Charm may be used even when you're unconscious or otherwise unable to act.
+- **Unconscious:** An effect with this keyword can be activated while asleep or incapacitated.
 
 ## Essence 1
 
@@ -78,7 +78,7 @@ At Stamina 1 and 2: One -1 and one -2 health level.
 
 **Prerequisites** Resistance 2, Essence 1, Ox-Body Technique  
 **Cost** 10m; **Action** Dramatic (one hour); **Duration** Instant  
-**Keywords** Autonomic, Mute
+**Keywords** Unconscious, Mute
 
 Roll (Stamina + Resistance). For the next day, time you spend resting is multiplied by a factor of (Essence × successes) for the purposes of natural healing.
 
