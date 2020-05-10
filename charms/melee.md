@@ -224,7 +224,7 @@ The character you've targeted with War Lion Stance can't be attacked by any mean
 ### Ready in Eight Directions Stance[^no-decisive]
 
 **Prerequisites** Melee 5, Essence 2, Solar Counterattack  
-**Cost** 5m; **Action** Simple; **Duration** One turn
+**Cost** 5m; **Action** Simple; **Duration** One turn  
 **Keywords** Counterattack
 
 You may use Solar Counterattack with a Cost of ---. If you do, your Initiative doesn't reset to base Initiative until the Duration ends.
@@ -254,7 +254,7 @@ Make a withering or decisive Melee attack at medium range. You don't need to [Ai
 ### Sandstorm-Wind Attack[^no-decisive]
 
 **Prerequisites** Melee 4, Essence 2, Call the Blade, Excellent Strike  
-**Cost** 5m, 2i; **Action** Simple; **Duration** Instant**
+**Cost** 5m, 2i; **Action** Simple; **Duration** Instant
 
 Make a decisive Melee attack at short range. It ignores hardness and does (Essence)s damage to any scenery between you and the target, which can potentially negate the benefits of [Take Cover](/combat/#take-cover). You can use this attack to clash ranged attacks, even if the attack's originator is outside of short range. If you've delayed this turn, if you use this Charm to clash, its Action is Reflexive.
 
