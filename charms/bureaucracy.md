@@ -2,9 +2,6 @@
 title: Bureaucracy Charms
 ---
 
-{:toc}
-* TOC
-
 [^added-mechanics]: This Charm's text includes an attempt to codify the mechanically unclear text of the original text.
 
 [^changed-action]: This Charm has a different action in the source text, but has been changed here to better reflect how it's used in play.
@@ -25,6 +22,9 @@ Keywords:
 
 * **Eternal:** If this effect's creator dies while it's ongoing, its Duration continues forever instead of ending.
 * **Non-Committed:** Motes spent on this effect aren't committed, as though it had an Instant duration.
+
+{:toc}
+* TOC
 
 ## Essence 1
 

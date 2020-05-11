@@ -22,6 +22,9 @@ Keywords:
 
 - **Unconscious:** An effect with this keyword can be activated while asleep or incapacitated.
 
+{:toc}
+* TOC
+
 ## Essence 1
 
 ### Durability of Oak Meditation[^no-dual]

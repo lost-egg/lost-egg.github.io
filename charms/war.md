@@ -2,9 +2,6 @@
 title: War Charms
 ---
 
-{:toc}
-* TOC
-
 [^changed-action]: This Charm has a different action in the source text, but has been changed here to better reflect how it's used in play.
 
 [^changed-duration]: This Charm has a different duration in the source text, but has been changed here to better reflect how it's used in play.
@@ -12,6 +9,9 @@ title: War Charms
 [^consolidated-upgrade]: A separate Charm was listed as an upgrade or effective upgrade for this Charm. The two Charms have been consolidated.
 
 [^time-guesswork]: The listed time is guesswork, as the original text is unclear.
+
+{:toc}
+* TOC
 
 ## Essence 1
 

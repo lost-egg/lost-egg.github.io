@@ -25,6 +25,9 @@ Keywords:
 - **Obvious-Activation:** The activation of this Charm is Obvious, but not its ongoing effect.
 * **Unconscious:** An effect with this keyword can be activated while asleep or incapacitated.
 
+{:toc}
+* TOC
+
 ## Essence 1
 
 ### Salty Dog Method

@@ -2,9 +2,6 @@
 title: Melee Charms
 ---
 
-{:toc}
-* TOC
-
 [^changed-action]: This Charm has a different action in the source text, but has been changed here to better reflect how it's used in play.
 
 [^consolidated-upgrade]: A separate Charm was listed as an upgrade for this Charm. The two Charms have been consolidated.
@@ -25,6 +22,9 @@ Keywords:
 
 - **Obvious:** This effect is obviously magical.
 - **Post-Attack:** A Supplemental effect with this Keyword is declared after the attack roll is made and its result is determined.
+
+{:toc}
+* TOC
 
 ## Essence 1
 

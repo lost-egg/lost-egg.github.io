@@ -14,6 +14,9 @@ title: Occult Charms
 
 [^no-decisive]: The Decisive-only keyword from the original text has been removed, as it served no mechanical purpose.
 
+{:toc}
+* TOC
+
 ## Essence 1
 
 ### Spirit-Manifesting Word
